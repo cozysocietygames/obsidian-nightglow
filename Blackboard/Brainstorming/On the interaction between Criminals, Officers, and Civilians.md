@@ -7,7 +7,7 @@
 
 # Increasing the Engagement of Criminals
 
-> [!example] Suggestion: Marking a Target
+> [!example] Suggestion: Stakeout Timer - Marking a Target
 > A Criminal can mark several targets at a time, starting an independent timer for each of them. A target can be marked up to three times, each of which increases their Markedness by 1.
 > 
 > Each time, a Criminal Marks a target, a Stakeout timer is started, and there is a chance of notifying the Target that they feel like they are being watched.
@@ -33,7 +33,7 @@
 >If a Stakeout timer is started while a Lookout is *Guarding*, the player is notified right away that a Criminal attempted to mark them as a target, and the Criminal may not repeat the attempt for some amount of time.
 >
 >#### Distracted
->A Criminal may attempt to Distract a Lookout, and if they are successful, the Lookout will spend their time *Distracted* instead of *Guarding*. A Stakeout timer has a zero chance of notifying a player if a Pokemon is distracted. 
+>A Criminal may attempt to Distract a Lookout, and if they are successful, the Lookout will spend their time *Distracted* instead of *Guarding*. A Stakeout timer may be started while the Looko 
 
 
 

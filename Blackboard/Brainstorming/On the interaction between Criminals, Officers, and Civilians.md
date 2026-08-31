@@ -34,8 +34,6 @@
 >
 >>[!warning] In this model, Criminals must not *freely* know if there are Lookouts guarding a player. Otherwise, one Lookout would be enough to be a true deterrent to many Criminals. They must at least pay some cost to find out if a player has any active Lookouts. 
 
-
-
 >If a player is being guarded, then each time 
 
 

@@ -14,11 +14,11 @@
 > 
 > Raising a Target's Markedness to 1 takes about **1h** and accumulates **1h** of Stakeout.
 > Raising a Target's Markedness to 2 takes about **2h** and accumulates **2h** of Stakeout.
-> Raising a Target's Markedness to 3 takes about **3h** and accumulates **3h** of Stakeout.
+> Raising a Target's Markedness to 3 takes about **3h** and upon completion, accumulates **3h** of Stakeout.
 > 
 > So, if a Target's Markedness was successfully raised to 3, they have accumulated **6 hrs** of Stakeout. Accumulated Stakeout is specific to each target. 
 >> [!example] Calling Off a Mark
->> A Criminal may choose to call off a Mark at any time. 
+>> A Criminal may choose to call off a Mark at any time. They lose their current progress, but they do not lose  their target does not lose any previous Markedness
 > 
 
 > [!example] Suggestion: Stealing (Core Mechanic)

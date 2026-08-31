@@ -29,8 +29,11 @@
 > [!example] Suggestion: Lookouts (Core Mechanic)
 >A player may hire an Officer to guard them preemptively. The Officer dispatches a number of Pokemon to each serve as Lookouts for the player. Each Lookout can have two states: *Guarding*, or *Distracted*. By default, each Lookout can only be in the *Guarding* state for **30m** maximum, after which they are sent back to the Officer, and the next Lookout takes over.
 >
->### Guarding
+>#### Guarding
 >If a Stakeout timer is started while a Lookout is *Guarding*, the player is notified right away that a Criminal attempted to mark them as a target, and the Criminal may not repeat the attempt for some amount of time.
+>
+>#### Distracted
+>A Criminal may attempt to Distract a Lookout, and if they are successful the
 
 
 

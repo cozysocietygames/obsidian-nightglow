@@ -17,6 +17,8 @@
 > Raising a Target's Markedness to 3 takes about **3h** and accumulates **3h** of Stakeout.
 > 
 > So, if a Target's Markedness was successfully raised to 3, they have accumulated **6 hrs** of Stakeout. Accumulated Stakeout is specific to each target. 
+>> [!example] Calling Off a Mark
+>> A Criminal may choose to call off a Mark at any time. 
 > 
 
 > [!example] Suggestion: Stealing (Core Mechanic)
@@ -27,7 +29,7 @@
 >If the Stealing timer reaches 0, then the stealing is successful, and the player is notified that "The trail has gone cold..."
 
 > [!example] Suggestion: Guarding (Core Mechanic)
->A player may hire an Officer to guard them preemptively. The Officer dispatches a number of Pokemon to guard the player. When a Criminal then attempt 
+>A player may hire an Officer to guard them preemptively. The Officer dispatches a number of Pokemon to guard the player. While a Pokemon is guarding the 
 >
 >>[!question] Officer's Fee
 >>The question of an Officer's Fee is quite the conundrum. Perhaps they should be paid a base fee plus a refundable fee. 

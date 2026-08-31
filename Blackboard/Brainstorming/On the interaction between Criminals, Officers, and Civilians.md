@@ -31,7 +31,8 @@
 >
 >>[!info] Officer's Fee
 >>A Player pays the Officer based on the number of Lookouts and how long they hire them for.
->>
+>
+>>[!warning] In this model, Criminals cannot freely know if there are Lookouts guarding a player. Otherwise, one Lookout would be enough to deter many Criminals. 
 
 
 

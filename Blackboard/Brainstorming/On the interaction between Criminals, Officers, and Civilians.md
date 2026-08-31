@@ -38,7 +38,7 @@
 >>[!info] Officer's Fee
 >>A Player pays the Officer for the maximum time the Lookouts can be *Guarding*.
 >
->>[!warning] This Model heavily favors Criminals, but allows Players to hire Lookouts for a cheap price. The short duration of Lo
+>>[!warning] This Model heavily favors Criminals, but allows Players to hire Lookouts for a cheap price. The short duration of Lookouts' *Guarding* also means that there is a webbier network between Officers and their Clients.
 >>
 
 

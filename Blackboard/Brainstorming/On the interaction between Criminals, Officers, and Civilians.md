@@ -19,15 +19,13 @@
 > Raising a Target's Markedness to 2 takes about **2h** and accumulates **2h** of Stakeout.
 > Raising a Target's Markedness to 3 takes about **3h** and accumulates **3h** of Stakeout.
 > 
-> So, if a Target's Markedness was successfully raised to 3, they have accumulated **6 hrs** of Stakeout.
+> So, if a Target's Markedness was successfully raised to 3, they have accumulated **6 hrs** of Stakeout. Accumulated Stakeout is specific to each target. 
 
 
-> [!example] Suggestion: Stealing Core Mechanic
+> [!example] Suggestion: Stealing (Core Mechanic)
 > A Criminal can attempt to steal from any player.
 > 
->If a Criminal steals from a Player, a Stealing timer is started. 
-> 
-> So, if a Target's Markedness was successfully raised to 3, they have accumulated **6 hrs** of Stakeout.
+>If a Criminal steals from a Player, a Stealing timer is started. The Stealing timer starts at **8h** by default, and is reduced by the 
 
 
 

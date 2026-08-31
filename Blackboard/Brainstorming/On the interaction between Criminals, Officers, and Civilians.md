@@ -9,5 +9,6 @@
 # Increasing the Engagement of Criminals
 
 
-> [!info] Marking a Target 
+> [!info] Marking a Target
+> A Criminal can mark several targets at a time, starting an independent timer for each of them. They can mark the same target up to   
 

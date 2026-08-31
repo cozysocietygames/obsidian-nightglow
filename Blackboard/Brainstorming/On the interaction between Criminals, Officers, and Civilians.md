@@ -30,11 +30,8 @@
 >A player may hire an Officer to guard them preemptively. The Officer dispatches a number of Pokemon to serve as Lookouts for the player. Lookouts alternate between a state of *Guarding* and *Idle*.
 >
 >### Guarding
->If a Stakeout timer is started while one Lookout is *Guarding*, the player is notified right away that a Criminal attempted to mark them as a target, and the Criminal may not repeat the attempt for **2h**. 
->
->>[!question] Officer's Fee
->>The question of an Officer's Fee is quite the conundrum. Perhaps they should be paid a base fee plus a refundable fee. 
-> 
+>If a Stakeout timer is started while one Lookout is *Guarding*, the player is notified right away that a Criminal attempted to mark them as a target, and the Criminal may not repeat the attempt for **1h**.  
+
 >If a player is being guarded, then each time 
 
 

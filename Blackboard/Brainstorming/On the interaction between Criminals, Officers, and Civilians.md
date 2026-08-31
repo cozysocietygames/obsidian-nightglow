@@ -14,7 +14,7 @@
 > 
 > * Raising a Target's Markedness to (x=1,2,3) takes about **xh** and upon completion, accumulates **xh** of Stakeout.
 > 
-> So, if a Target's Markedness was successfully raised to 3, they have accumulated **1+2+3 = 6 hrs** of Stakeout. Accumulated Stakeout is specific to each target. 
+> So, if a Target's Markedness was successfully raised to 3, they have accumulated **1+2+3 = 6h** of Stakeout. Accumulated Stakeout is specific to each target. 
 >> [!example] Calling Off a Mark
 >> A Criminal may choose to Call off a Mark at any time. This stops their current Stakeout timer. They lose their current progress, but they do not lose any accumulated Stakeout, nor does their target's Markedness.
 > 
@@ -27,10 +27,10 @@
 >If the Stealing timer reaches 0, then the stealing is successful, and the player is notified that "The trail has gone cold..."
 
 > [!example] Suggestion: Lookouts (Core Mechanic)
->A player may hire an Officer to guard them preemptively. The Officer dispatches a number of Pokemon to each serve as Lookouts for the player. Each Lookout can have two states: *Guarding*, or *Distracted*. By default, each Lookout can only be in the *Guarding* state for 30m, after which they are sent back to the Officer, and the next Lookout takes over.
+>A player may hire an Officer to guard them preemptively. The Officer dispatches a number of Pokemon to each serve as Lookouts for the player. Each Lookout can have two states: *Guarding*, or *Distracted*. By default, each Lookout can only be in the *Guarding* state for **30m** maximum, after which they are sent back to the Officer, and the next Lookout takes over.
 >
 >### Guarding
->If a Stakeout timer is started while one Lookout is *Guarding*, the player is notified right away that a Criminal attempted to mark them as a target, and the Criminal may not repeat the attempt for some amount of time.
+>If a Stakeout timer is started while a Lookout is *Guarding*, the player is notified right away that a Criminal attempted to mark them as a target, and the Criminal may not repeat the attempt for some amount of time.
 
 
 

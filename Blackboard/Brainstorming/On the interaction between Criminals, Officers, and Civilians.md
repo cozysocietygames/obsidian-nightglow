@@ -13,10 +13,12 @@
 > [!example] Suggestion: Marking a Target
 > A Criminal can mark several targets at a time, starting an independent timer for each of them. A target can be marked up to three times, each of which increases their Markedness by 1.
 > 
-> Raising a Target's Markedness to 1 takes about *1 hour* and accumulates one hour of Stakeout.
-> Raising a Target's Markedness to 2 takes about 1 hours and accumulates one hour of Stakeout.
-> Raising a Target's Markedness to 3 takes about 1 hours and accumulates one hour of Stakeout.
+> Raising a Target's Markedness to 1 takes about **1 hr** and accumulates one hour of Stakeout.
+> Raising a Target's Markedness to 2 takes about **2 hrs** and accumulates one hour of Stakeout.
+> Raising a Target's Markedness to 3 takes about **3 hrs** and accumulates three hours of Stakeout.
 > 
+> 
+
 
 > 
 > 

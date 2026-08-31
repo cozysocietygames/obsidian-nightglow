@@ -17,6 +17,8 @@
 > Raising a Target's Markedness to 3 takes about **3h** and accumulates **3h** of Stakeout.
 > 
 > So, if a Target's Markedness was successfully raised to 3, they have accumulated **6 hrs** of Stakeout. Accumulated Stakeout is specific to each target. 
+> 
+>>* This design should increase engagement
 
 > [!example] Suggestion: Stealing (Core Mechanic)
 > A Criminal can attempt to steal from any of their Marked Targets.
@@ -28,7 +30,8 @@
 > [!example] Suggestion: Guarding (Core Mechanic)
 >A player may hire an Officer to guard them preemptively. 
 >
->>[!question] How ah 
+>>[!question] Officer's Fee
+>>The question of an Officer's Fee is quite a thing.  
 > 
 >If a player is being guarded, then each time 
 

@@ -30,7 +30,7 @@
 >A player may hire an Officer to guard them preemptively. 
 >
 >>[!question] Officer's Fee
->>The question of an Officer's Fee is quite a thing.  
+>>The question of an Officer's Fee is quite the conundrum. Perhaps they should be paid a base fee plus a refundable fee. 
 > 
 >If a player is being guarded, then each time 
 

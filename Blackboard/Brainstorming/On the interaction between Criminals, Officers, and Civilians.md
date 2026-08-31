@@ -31,9 +31,9 @@
 >
 >>[!info] Officer's Fee
 >>A Player pays the Officer based on the number of Lookouts and how long they hire them for.
->
->>[!warning] This Model heavily deters Criminals, and generally means Lookouts will be costlier.
 >>
+
+
 
 
 

@@ -10,5 +10,13 @@
 
 
 > [!info] Marking a Target
-> A Criminal can mark several targets at a time, starting an independent timer for each of them. They can mark the same target up to   
+> A Criminal can mark several targets at a time, starting an independent timer for each of them. A target can be marked up to three times, each of which increases their Markedness by 1.
+> 
+> Raising a Target's 
+
+
+
+
+
+
 

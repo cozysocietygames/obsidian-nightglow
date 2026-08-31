@@ -33,7 +33,10 @@
 >If a Stakeout timer is started while a Lookout is *Guarding*, the player is notified right away that a Criminal attempted to mark them as a target, and the Criminal may not repeat the attempt for some amount of time.
 >
 >#### Distracted
->A Criminal may attempt to Distract a Lookout, and if they are successful, the Lookout will spend their time *Distracted* instead of *Guarding*. A Stakeout timer may be started while the Looko 
+>A Criminal may attempt to Distract a Lookout, and if they are successful, the Lookout will spend their time *Distracted* instead of *Guarding*. A Stakeout timer may be started while the Lookout is *Distracted*, although the chance of notifying the player is unaltered. 
+>
+>>[!info] Officer's Fee
+>>A Player pays for the maximum time the Lookouts can be *Guarding*.
 
 
 

@@ -30,9 +30,7 @@
 > [!example] Suggestion: Guarding (Core Mechanic)
 >A player may hire an Officer to guard them preemptively. 
 > 
->If a player is being guarded, they must then become 
->
->If the Stealing timer reaches 0, then the stealing is successful, and the player is notified that "The trail has gone cold..."
+>If a player is being guarded, then each time 
 
 
 

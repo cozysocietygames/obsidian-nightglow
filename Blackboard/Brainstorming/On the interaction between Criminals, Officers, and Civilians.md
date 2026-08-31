@@ -27,9 +27,9 @@
 > 
 >If a Criminal steals from a Player, a Stealing timer is started. 
 > 
-> Raising a Target's Markedness to 1 takes about **1 hr** and accumulates **1 hr** of Stakeout.
-> Raising a Target's Markedness to 2 takes about **2 hrs** and accumulates **2 hrs** of Stakeout.
-> Raising a Target's Markedness to 3 takes about **3 hrs** and accumulates **3 hrs** of Stakeout.
+> Raising a Target's Markedness to 1 takes about **1h** and accumulates **1h** of Stakeout.
+> Raising a Target's Markedness to 2 takes about **2h** and accumulates **2h** of Stakeout.
+> Raising a Target's Markedness to 3 takes about **3h** and accumulates **3h** of Stakeout.
 > 
 > So, if a Target's Markedness was successfully raised to 3, they have accumulated **6 hrs** of Stakeout.
 

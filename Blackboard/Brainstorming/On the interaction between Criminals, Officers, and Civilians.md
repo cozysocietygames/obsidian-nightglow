@@ -25,7 +25,7 @@
 > [!example] Suggestion: Stealing
 > A Criminal can attempt to steal from any player.
 > 
->If a Criminal steals from a Player, a Stealing timer is started. If a Criminal
+>If a Criminal steals from a Player, a Stealing timer is started. 
 > 
 > Raising a Target's Markedness to 1 takes about **1 hr** and accumulates **1 hr** of Stakeout.
 > Raising a Target's Markedness to 2 takes about **2 hrs** and accumulates **2 hrs** of Stakeout.

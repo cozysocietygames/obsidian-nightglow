@@ -27,7 +27,7 @@
 >If the Stealing timer reaches 0, then the stealing is successful, and the player is notified that "The trail has gone cold..."
 
 > [!example] Suggestion: Lookouts (Core Mechanic) (Model 1)
->A player may hire an Officer to guard them preemptively. The Officer dispatches a number of Pokemon to each serve as Lookouts for the player. Each Lookout can stop one Stakeout Timer that some Criminal attempts to start, forcing them into a cooldown before they can try again.
+>A player may hire an Officer to guard them preemptively. The Officer dispatches a number of Pokemon to each serve as Lookouts for the player. Each Lookout can stop one Stakeout Timer or Stealing Timer that some Criminal attempts to start, forcing them into a cooldown before they can try again.
 >
 >>[!info] Officer's Fee
 >>A Player pays the Officer based on the number of Lookouts and how long they hire them for.

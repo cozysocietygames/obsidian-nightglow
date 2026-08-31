@@ -25,7 +25,9 @@
 > [!example] Suggestion: Stealing (Core Mechanic)
 > A Criminal can attempt to steal from any of their Marked Targets.
 > 
->Once a Criminal chooses to steal from them, a Stealing timer is started and the player is notified that they have been stolen from. The Stealing timer starts at **8h** by default, and is reduced by the Accumulated Stakeout specific to their target. A player
+>Once a Criminal chooses to steal from them, a Stealing timer is started and the player is notified that they have been stolen from. The Stealing timer starts at **8h** by default, and is reduced by the Accumulated Stakeout specific to their target.
+>
+>If the Stealing timer finishes without interruption, 
 
 
 

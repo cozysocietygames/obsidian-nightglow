@@ -16,7 +16,7 @@
 > 
 > So, if a Target's Markedness was successfully raised to 3, they have accumulated **1+2+3 = 6 hrs** of Stakeout. Accumulated Stakeout is specific to each target. 
 >> [!example] Calling Off a Mark
->> A Criminal may choose to call off a Mark at any time. They lose their current progress, but they do not lose any accumulated Stakeout, nor does their target does not lose any previous Markedness
+>> A Criminal may choose to Call off a Mark at any time. This stops their current Stakeout timer. They lose their current progress, but they do not lose any accumulated Stakeout, nor does their target's Markedness.
 > 
 
 > [!example] Suggestion: Stealing (Core Mechanic)

@@ -30,8 +30,8 @@
 >If the Stealing timer reaches 0, then the stealing is successful, and the player is notified that "The trail has gone cold..."
 
 
-> [!example] Suggestion: Stealing (Core Mechanic)
-> A Criminal can attempt to steal from any of their Marked Targets.
+> [!example] Suggestion: Guarding (Core Mechanic)
+> A player may hire an Officer to guard them preemptively. 
 > 
 >Once a Criminal chooses to steal from them, a Stealing timer is started and the player is notified that they have been stolen from. The Stealing timer starts at **8h** by default, and is reduced by the Accumulated Stakeout specific to their target.
 >

@@ -33,7 +33,7 @@
 >If a Stakeout timer is started while a Lookout is *Guarding*, the player is notified right away that a Criminal attempted to mark them as a target, and the Criminal may not repeat the attempt for some amount of time.
 >
 >#### Distracted
->A Criminal may attempt to Distract a Lookout, and if they are successful the
+>A Criminal may attempt to Distract a Lookout, and if they are successful, the Lookout will spend their time *Distracted* instead of *Guarding*. A Stakeout timer has a zero chance of notifying a player if a Pokemon is distracted. 
 
 
 

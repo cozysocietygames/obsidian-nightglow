@@ -37,6 +37,9 @@
 >
 >>[!info] Officer's Fee
 >>A Player pays the Officer for the maximum time the Lookouts can be *Guarding*.
+>
+>>[!warning] Thi
+>>
 
 
 

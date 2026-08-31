@@ -5,10 +5,7 @@
 >
 >Civilians may preemptively hire an Officer to keep them 100% safe for a set amount of time. 
 
-
 # Increasing the Engagement of Criminals
-
-
 
 > [!example] Suggestion: Marking a Target
 > A Criminal can mark several targets at a time, starting an independent timer for each of them. A target can be marked up to three times, each of which increases their Markedness by 1.
@@ -33,10 +30,9 @@
 > [!example] Suggestion: Guarding (Core Mechanic)
 > A player may hire an Officer to guard them preemptively. 
 > 
->Once a Criminal chooses to steal from them, a Stealing timer is started and the player is notified that they have been stolen from. The Stealing timer starts at **8h** by default, and is reduced by the Accumulated Stakeout specific to their target.
+> If a player is being guarded, 
 >
 >If the Stealing timer reaches 0, then the stealing is successful, and the player is notified that "The trail has gone cold..."
-
 
 
 

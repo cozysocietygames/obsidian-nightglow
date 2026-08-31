@@ -12,7 +12,7 @@
 > 
 > Each time, a Criminal Marks a target, a Stakeout timer is started, and there is a chance of notifying the Target that they feel like they are being watched.
 > 
-> * Raising a Target's Markedness to (**x = 1,)
+> * Raising a Target's Markedness to (**x_m = 1,2,3) 
 > 
 > So, if a Target's Markedness was successfully raised to 3, they have accumulated **6 hrs** of Stakeout. Accumulated Stakeout is specific to each target. 
 >> [!example] Calling Off a Mark

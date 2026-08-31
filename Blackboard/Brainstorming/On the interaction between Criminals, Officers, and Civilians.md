@@ -18,7 +18,6 @@
 > 
 > So, if a Target's Markedness was successfully raised to 3, they have accumulated **6 hrs** of Stakeout. Accumulated Stakeout is specific to each target. 
 
-
 > [!example] Suggestion: Stealing (Core Mechanic)
 > A Criminal can attempt to steal from any of their Marked Targets.
 > 
@@ -26,9 +25,10 @@
 >
 >If the Stealing timer reaches 0, then the stealing is successful, and the player is notified that "The trail has gone cold..."
 
-
 > [!example] Suggestion: Guarding (Core Mechanic)
 >A player may hire an Officer to guard them preemptively. 
+>
+>>[!question] How ah 
 > 
 >If a player is being guarded, then each time 
 

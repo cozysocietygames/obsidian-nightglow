@@ -45,7 +45,9 @@
 >
 >
 >>[!warning] The Privacy of Lookouts
->>If Criminals *freely* know how many Lookouts or Lookout Charges are assigned to a player, then there is no element of risk, as they know exactly how many Lookout Charges they (or even their fellow Criminals if they organize with them) must trigger in order for the player to be vulnerable. Whether or not this is a good thing, I'm not sure.
+>>If Criminals *freely* know how many Lookouts or Lookout Charges are assigned to a player, then there is no element of risk, as they know exactly how many Lookout Charges they (or even their fellow Criminals if they organize with them) must trigger in order for the player to be vulnerable.
+>>
+>>With an element of risk, it becomes more challenging for Criminals to 
 >
 
 

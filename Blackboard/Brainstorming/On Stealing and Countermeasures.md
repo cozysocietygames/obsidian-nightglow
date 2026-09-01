@@ -75,6 +75,7 @@ An Officer's Pokemon automatically sniffs out the scents in the Crime Scene. A s
 Pokemon on the Heist Team.
 Pokemon of the Victim.
 A number of Wild Pokemon in the Area.
+A scent similar to that of a Berry.
 
 
 

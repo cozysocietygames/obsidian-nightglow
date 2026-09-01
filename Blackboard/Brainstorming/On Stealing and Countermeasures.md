@@ -75,7 +75,7 @@ A fully revealed POI would look something like this:
 
 		POI #1
 		Eyewitness
-		"The suspect had a Poochyena."
+		"The suspect did not have a."
 		Smells of Leppa Berry
 		Smells of Zigzagoon, Poochyena, Elekid
 ### Leads
@@ -83,8 +83,7 @@ The Officer can look for Leads that allow him to cross out POIs as suspects.
 #### Sniff Scent
 An Officer's Pokemon automatically sniffs out the scents in the Crime Scene. A scent will be generated every minute:
 
-At most three Pokemon on the Heist Team, A Pokemon of the Victim.
-A number of Wild Pokemon in the Area.
+The scents of at least six distinct Pokemon: at most three Pokemon on the Heist Team, A Pokemon of the Victim, a number of Wild Pokemon in the Area.
 A scent similar to that of a Berry.
 
 

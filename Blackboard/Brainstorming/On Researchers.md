@@ -9,9 +9,9 @@
 > The biggest problem in this that we could see at the time was that once they've found all the combinations, there is no longer any sense of discovery, thus their Pokemon Research gameplay becomes stale. 
 
 [!warning] Old Brainstormed Concept - Pinpoint Research
-> Researches could research the location of a Legendary Pokemon, increasing its likelihood of being found by a random player. When a player encounters it, the me
+> Researches could research the location of a Legendary Pokemon filling up some `pinpoint` meter, increasing its likelihood of being found by a random player. When a player encounters it, the `pinpoint` meter is reset.
 > 
-> The biggest problem in this that we could see at the time was that once they've found all the combinations, there is no longer any sense of discovery, thus their Pokemon Research gameplay becomes stale. 
+> This is dynamic and is sure to have no end. 
 
 > [!tip] Dynamic Gameplay
 > 

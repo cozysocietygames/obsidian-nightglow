@@ -11,7 +11,7 @@ Chemical A-Z except B (25 possibilities) contributes to 55% of the weight.
 
 RGB Solvent (3 possibilities) contributes to 25% of the weight.
 
-Beta, Gamma, Delta, Zeta, Theta, Kappa, Lambda, Mu, Nu, Xi, Pi, Rho, Sigma, Tau, Chi (15 possibilities) contributes to 13% of the weight.
+Assign one of Beta, Gamma, Delta, Zeta, Theta, Kappa, Lambda, Mu, Nu, Xi, Pi, Rho, Sigma, Tau, Chi (15 possibilities) contributes to 13% of the weight.
 
 BW Solvent (2 possibilities) contributes to 4% of the weight.
 

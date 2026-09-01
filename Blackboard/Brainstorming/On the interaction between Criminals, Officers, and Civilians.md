@@ -43,5 +43,5 @@
 
 
 
- ## Emergent Cooperation between Criminals
->> Since Criminals do not freely know if there are Lookouts guarding a player, a Criminal might
+## Emergent Cooperation between Criminals
+Since Criminals do not freely know if there are Lookouts guarding a player, a Criminal might

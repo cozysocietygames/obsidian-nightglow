@@ -32,10 +32,9 @@
 > 
 >Once a Criminal chooses to steal from them, a Stealing timer is started and the player is notified that they have been stolen from. The Stealing timer starts at **8h** by default, and is reduced by the Accumulated Stakeout specific to their target.
 >
->The original purpose of the Stealing Timer was to ensure that Players had enough time to get their Stolen Pokemon back.
+>The original purpose of the Stealing Timer was to ensure that Players had enough time to get their Stolen Pokemon back. Perhaps now, we can be more generous.
 
-## S
-
+Hot Goods
 # The Officers
 
 > [!example] Suggestion: Lookouts (Core Mechanic) (Model 1)

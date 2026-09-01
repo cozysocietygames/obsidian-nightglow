@@ -10,15 +10,15 @@
 ## Marking a Target
 
 > [!example] Suggestion: Stakeout Timer - Marking a Target
-> A Criminal can mark several targets at a time, starting an independent timer for each of them. A target can be marked up to three times, each of which increases their Markedness by 1.
+> A Criminal can mark several targets at a time, starting an independent timer for each of them. A target can be marked up to three times, each of which increases their Markedness by `1`.
 > 
 > Marking a target counts as a Malicious Attempt.
 > 
 > Each time, a Criminal Marks a target, a Stakeout timer is started, and there is a chance of notifying the Target that they feel like they are being watched.
 > 
-> * Raising a Target's Markedness to (`markedness`=1,2,3) takes about **`h** and upon completion, accumulates **`stakeout`h** of Stakeout.
+> * Raising a Target's Markedness to (`markedness`=1,2,3) takes about **`f(markedness)`h** and upon completion, accumulates **`stakeout`h** of Stakeout.
 > 
-> So, if a Target's Markedness was successfully raised to 3, they have accumulated **1+2+3 = 6h** of Stakeout. Accumulated Stakeout is specific to each target. 
+> So, if a Target's Markedness was successfully raised to 3, they have accumulated **`1+2+3 = 6`h** of Stakeout. Accumulated Stakeout is specific to each target. 
 >> [!example] Calling Off a Mark
 >> A Criminal may choose to Call off a Mark at any time. This stops their current Stakeout timer. They lose their current progress, but they do not lose any accumulated Stakeout, nor does their target's Markedness.
 

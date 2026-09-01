@@ -25,7 +25,7 @@
 
 ## Stealing
 
-> [!example] Stealing Timer (Core Mechanic)
+> [!example] Hot Goods Timer (Core Mechanic)
 > A Criminal can steal from any of their Marked Targets.
 > 
 > Stealing counts as a Malicious Attempt.

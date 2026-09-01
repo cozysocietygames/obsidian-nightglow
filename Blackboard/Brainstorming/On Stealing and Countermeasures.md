@@ -35,12 +35,10 @@
 > [!example] Suggestion: Lookouts (Core Mechanic) (Model 1)
 > Officers may train Pokemon they own to be Lookouts. A Lookout has a number of Lookout Charges, starting at 1 by default. 
 > 
->A player may request an Officer for Lookouts for a duration they may also specify. If the deal is closed, the Officer dispatches the Lookouts for that duration. A Player pays the Officer based on the quantity and quality of Lookouts and how long they hire them for.
+>A player may request an Officer for Lookouts for a duration they may also specify. If the deal is closed, the Officer dispatches the Lookouts for that duration. A Player pays the Officer based on the total number of Lookout Charges and how long they hire them for.
 >
 >Each Lookout guarding a Player can thwart, by default, **1** Malicious Attempt by a Criminal at the cost of 1 of their Thwart Charges, forcing the Player into a Protected status for some duration. While the player is Protected, Malicious Attempts cannot be made on them. The Lookout is immediately sent back to the Officer to be freely dispatched again the moment the Player.
 >
->>[!info] Officer's Fee
->>
 >
 >>[!warning] In this model, Criminals must not *freely* know if there are Lookouts guarding a player. Otherwise, one Lookout would be enough to be a true deterrent to many Criminals. They must at least be some cost to find out if a player has any active Lookouts. 
 >

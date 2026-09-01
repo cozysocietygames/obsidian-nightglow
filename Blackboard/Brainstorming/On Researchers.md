@@ -9,8 +9,8 @@
 
 2 * 3 * 5 * 10 * 26 * 26
 
-Black Liquid
-White Liquid
+Black Solvent
+White Solvent
 
 Red Solute
 Green Solute

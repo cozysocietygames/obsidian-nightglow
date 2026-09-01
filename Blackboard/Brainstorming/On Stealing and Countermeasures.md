@@ -25,14 +25,16 @@
 
 ## Stealing
 
-> [!example] Suggestion: Stealing (Core Mechanic)
+> [!example] Stealing Timer (Core Mechanic)
 > A Criminal can steal from any of their Marked Targets.
 > 
 > Stealing counts as a Malicious Attempt.
 > 
 >Once a Criminal chooses to steal from them, a Stealing timer is started and the player is notified that they have been stolen from. The Stealing timer starts at **8h** by default, and is reduced by the Accumulated Stakeout specific to their target.
 >
->If the Stealing timer reaches 0, then the stealing is successful, and the player is notified that "The trail has gone cold..."
+>The original purpose of the Stealing Timer was to ensure that Players had enough time to get their Stolen Pokemon back.
+
+## S
 
 # The Officers
 

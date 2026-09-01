@@ -15,7 +15,7 @@ Greek Bases. Assign one of Beta, Gamma, Delta, Zeta, Theta, Kappa, Lambda, Mu, N
 
 BW Solvent (2 possibilities) contributes to 4% of the weight.
 
-
+Red Shard, Blue Shard, Yellow Shard, Green Shard contributes to 2% of the weight.
 
 B1-10 Solubles (10 possibilities) contributes to 1% of the weight.
 

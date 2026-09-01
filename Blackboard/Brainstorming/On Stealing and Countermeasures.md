@@ -69,8 +69,7 @@ Hot Goods
 ### Looking for Leads
 There are several ways to look for leads. 
 
-Inspecting the Crime Scene
-
+1. Letting your Pokemon smell the criminal's scent. 
 
 
 

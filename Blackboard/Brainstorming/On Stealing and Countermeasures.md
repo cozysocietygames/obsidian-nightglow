@@ -68,6 +68,8 @@ Hot Goods
 To start an investigation, an Officer must spend some time looking for persons-of-interest, or POIs.
 More time spent means a smaller list of POIs. The POIs are all NPCs, apart from the Criminal themself, although the Officer cannot interact with them directly, as all the POIs simply appear as `POI #1` , `POI #2` etc.
 
+The Officer can look for Leads that allow him to cross out POIs as suspects. 
+
 
 
 

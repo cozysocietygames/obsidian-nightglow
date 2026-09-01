@@ -22,7 +22,9 @@
 > 
 
 > [!example] Suggestion: Stealing (Core Mechanic)
-> A Criminal can attempt to steal from any of their Marked Targets.
+> A Criminal can steal from any of their Marked Targets.
+> 
+> Stealing counts as a Malicious Attempt.
 > 
 >Once a Criminal chooses to steal from them, a Stealing timer is started and the player is notified that they have been stolen from. The Stealing timer starts at **8h** by default, and is reduced by the Accumulated Stakeout specific to their target.
 >
@@ -33,7 +35,7 @@
 > [!example] Suggestion: Lookouts (Core Mechanic) (Model 1)
 >A player may hire an Officer to guard them preemptively. The Officer dispatches a number of Pokemon to each serve as Lookouts for the player for an amount of hours requested by the Player. A Player pays the Officer based on the quantity and quality of Lookouts and how long they hire them for.
 >
->Each Lookout guarding a Player can thwart, by default, **1** Stakeout Timer or Stealing Timer that some Criminal attempts to start, forcing the Player into a Protected status for some duration. The Lookout is immediately sent back to the Officer to be freely dispatched again.
+>Each Lookout guarding a Player can thwart, by default, **1** Malicious Attempt by a Criminal, forcing the Player into a Protected status for some duration. When the player is Protected, Malicious The Lookout is immediately sent back to the Officer to be freely dispatched again.
 >
 >>[!info] Officer's Fee
 >>

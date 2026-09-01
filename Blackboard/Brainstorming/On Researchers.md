@@ -18,7 +18,7 @@ Blue Solute
 
 
 
-Compound F1, F2, F3, F4, F5, F6, F7, F8, F9, F10
+Compound B1, B2, B3, B4, B5, B6, B7, B8, B9, B10
 
-Compound K, L, M, N, O
+Chemical A-Z minus B.
 

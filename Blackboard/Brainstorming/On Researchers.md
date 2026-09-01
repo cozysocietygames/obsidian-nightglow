@@ -7,11 +7,17 @@
 
 55+25+13+4+2+1
 
-2 * 3 * 3 * 10 * 26 * 26
+2 * 3 * 5 * 10 * 26 * 26
 
-Black Solute
-White Solute
+Black Liquid
+White Liquid
 
-Red Solvent
-Green Solvent
-Blue So
+Red Solute
+Green Solute
+Blue Solute
+
+
+
+Isotope 1-10
+
+Chemical A-Z

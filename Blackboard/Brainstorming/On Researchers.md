@@ -1,5 +1,5 @@
 > [!warning] Old Concepts:
-> 1. A three-letter string is assigned to each Pokemon. ABC would mean 60%A 30%B 10%C.  Researchers test for this.  
+> 1. A three-letter string is assigned to each Pokemon. ABC would correspond to a solution of like 60%A 30%B 10%C.  Researchers test various solutions and get outputs like 70% Match!  
 > 2. s
 
 

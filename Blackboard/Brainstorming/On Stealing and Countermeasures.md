@@ -69,9 +69,10 @@ To start an investigation, an Officer must spend some time looking for persons-o
 More time spent means a smaller list of POIs. The POIs are all NPCs, apart from the Criminal themself, although the Officer cannot interact with them directly, as all the POIs simply appear as `POI #1` , `POI #2` etc. No matter how much time an Officer spends, the Criminal will always be on the POI list.  
 ### Leads
 The Officer can look for Leads that allow him to cross out POIs as suspects.
+#### Sniff Scent
+An Officer may let their Pokemon sniff out the scents in the Crime Scene. The scents generated will be the following:
 
-#### Scent
-An Officer may let their Pokemon sniff out the scents in the Crime Scene. The scents generated may be selected a
+
 
 
 

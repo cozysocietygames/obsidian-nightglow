@@ -69,7 +69,7 @@ To start an investigation, an Officer must spend some time looking for persons-o
 More time spent means a smaller list of POIs. The POIs are all NPCs, apart from the Criminal themself, although the Officer cannot interact with them directly, as all the POIs simply appear as `POI #1` , `POI #2` etc. No matter how much time an Officer spends, the Criminal will always be on the POI list.
 
 #### POI Details
-Every POI will have some information attached to them, although theSome of the POIs will have some information revealed. An officer can click a POI, which starts a 5s timer, after which some information will be revealed about them.
+Every POI will have some information attached to them, although they are not all revealed at the beginning. Some of the POIs will have some information revealed. An officer can click a POI, which starts a 5s timer, after which some information will be revealed about them.
 ### Leads
 The Officer can look for Leads that allow him to cross out POIs as suspects.
 #### Sniff Scent

@@ -73,9 +73,8 @@ The Officer can look for Leads that allow him to cross out POIs as suspects.
 An Officer may let their Pokemon sniff out the scents in the Crime Scene. The scents generated will be the following:
 
 The Pokemon on the Heist Team.
-The Pokemon of the Victim.
-Two Wild Pokemon in the Area.
-Three Berries. 
+A Pokemon of the Victim.
+A Wild Pokemon in the Area.
 
 
 

@@ -73,8 +73,9 @@ Some of the POIs generated are NPCs that serve as potential eyewitnesses.
 ### Looking for Leads
 There are several ways to look for leads. 
 
-1. Letting your Pokemon smell the Criminal's scent.
-2. Interviewing the potential eyewitnesses.
+1. Letting their Pokemon smell the Criminal's scent.
+2. Inspecting the crime scene for any footprints.
+3. Interviewing the potential eyewitnesses.
 
 
 

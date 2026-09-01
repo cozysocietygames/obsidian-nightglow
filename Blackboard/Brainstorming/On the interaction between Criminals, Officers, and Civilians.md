@@ -28,7 +28,6 @@
 
 # The Officers
 
-
 > [!example] Suggestion: Lookouts (Core Mechanic) (Model 1)
 >A player may hire an Officer to guard them preemptively. The Officer dispatches a number of Pokemon to each serve as Lookouts for the player. Each Lookout can stop one Stakeout Timer or Stealing Timer that some Criminal attempts to start, forcing them into a cooldown before they can try again.
 >
@@ -36,8 +35,4 @@
 >>A Player pays the Officer based on the number of Lookouts and how long they hire them for.
 >
 >>[!warning] In this model, Criminals must not *freely* know if there are Lookouts guarding a player. Otherwise, one Lookout would be enough to be a true deterrent to many Criminals. They must at least pay some cost to find out if a player has any active Lookouts. 
-
-
-
-
 

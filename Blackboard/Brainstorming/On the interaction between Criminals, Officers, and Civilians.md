@@ -36,6 +36,12 @@
 >
 >>[!warning] In this model, Criminals must not *freely* know if there are Lookouts guarding a player. Otherwise, one Lookout would be enough to be a true deterrent to many Criminals. They must at least be some cost to find out if a player has any active Lookouts. 
 >
->> ## Emergent Cooperation between Criminals
->> Since Criminals do not freely know if there are Lookouts guarding a player, a Criminal might
 
+
+
+
+
+
+
+ ## Emergent Cooperation between Criminals
+>> Since Criminals do not freely know if there are Lookouts guarding a player, a Criminal might

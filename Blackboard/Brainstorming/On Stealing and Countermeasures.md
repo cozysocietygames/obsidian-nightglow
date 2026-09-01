@@ -65,7 +65,7 @@ Hot Goods
 > 
 > When an Ongoing Investigation is started, a list of POIs is randomly generated. the Hot Goods Timer is increased by 20m. During the Ongoing Investigation, the Officer must look for Leads. To do this, the Officer can do it themselves, or let their Pokemon assist.
 > 1. Inspect the crime scene.
-> 2. Look for eyewitnesses. 
+> 2. Look for NPC eyewitnesses. 
 
 
 

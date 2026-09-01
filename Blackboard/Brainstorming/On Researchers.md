@@ -7,7 +7,9 @@
 
 55+25+13+4+2+1
 
-Chemical A-Z minus B for a total of 26
+Chemical A-Z minus B (25 possibilities) contributes to 55% of the weight.
+
+
 
 2 * 3 * 5 * 10 * 26 * 26
 

@@ -7,6 +7,8 @@
 
 55+25+13+4+2+1
 
+Chemical A-Z minus B for a total of 26
+
 2 * 3 * 5 * 10 * 26 * 26
 
 Black Solvent
@@ -20,5 +22,5 @@ Blue Solute
 
 Compound B1, B2, B3, B4, B5, B6, B7, B8, B9, B10
 
-Chemical A-Z minus B.
+
 

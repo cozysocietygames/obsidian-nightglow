@@ -35,13 +35,13 @@
 > [!example] Suggestion: Lookouts (Core Mechanic) (Model 1)
 > Officers may train Pokemon they own to be Lookouts. A Lookout has a number of Lookout Charges, starting at 1 by default. 
 > 
->A player may request an Officer for Lookouts for a duration they may also specify. If the deal is closed, the Officer dispatches the Lookouts for that duration. A Player pays the Officer based on the total number of Lookout Charges and how long they hire them for.
+>A player may request an Officer for Lookouts for a duration they may also specify. If the deal is closed, the Officer dispatches the Lookouts for that duration, assigning them to the Player. A Player pays the Officer based on the total number of Lookout Charges and how long they hire them for.
 >
->Each Lookout guarding a Player can thwart 1 Malicious Attempt by a Criminal at the immediate cost of 1 of their Lookout Charges, forcing the Player into a Protected status for some duration. While the player is Protected, Malicious Attempts cannot be made on them by any Criminal. Once the Lookout runs out of Lookout Charges, the Lookout is immediately sent back to the Officer to be freely dispatched again the moment the Player.
+>Each Lookout guarding a Player can thwart 1 Malicious Attempt by a Criminal at the immediate cost of 1 of their Lookout Charges, forcing the Player into a Protected status for some duration. While the player is Protected, Malicious Attempts cannot be made on them by any Criminal. Once the Lookout runs out of Lookout Charges, the Lookout becomes unassigned and is immediately sent back to the Officer to be freely dispatched again.
 >
 >
 >>[!warning] The Privacy of Lookouts
->>If Criminals *freely* know how many Lookouts are assigned to a player. Otherwise, one Lookout would never be enough to be a true deterrent to many Criminals. They must at least be some cost to find out if a player has any active Lookouts. 
+>>If Criminals *freely* know how many Lookouts are assigned to a player, then they can easily organize with their fellow criminals. Otherwise, one Lookout would never be enough to be a true deterrent to many Criminals. They must at least be some cost to find out if a player has any active Lookouts. 
 >
 
 

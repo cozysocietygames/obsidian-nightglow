@@ -60,9 +60,8 @@ Hot Goods
 
 ## Investigation
 
-> [!example]
-
-If an Officer takes on a case while the Stealing Timer is on,
+> [!example] Suggestion: Investigation
+> If an Officer takes on a case while the Stealing Timer is on,
 
 
 

@@ -26,7 +26,7 @@
 ## Stealing
 
 > [!example] Stealing Timer and Hot Goods Timer (Core Mechanic)
-> A Criminal can steal from any of their Marked Targets, by assembling a heist team out of one or more of their Pokemon.  
+> A Criminal can steal from any of their Marked Targets, by assembling a heist team out of one or more of their Pokemon.
 > 
 > Stealing counts as a Malicious Attempt.
 > 

@@ -65,7 +65,7 @@ Hot Goods
 > 
 > When an Ongoing Investigation is started, the Hot Goods Timer is increased by 20m and the Officer gets a list of things to do. 
 ## The POI List
-To start an investigation, an Officer must spend some time looking for eyewitnes
+To start an investigation, an Officer must spend some time looking for persons-of-interest, or POIs. He spends some time gathering the 
 
 >[!question] Real Players as Eyewitnesses?
 >

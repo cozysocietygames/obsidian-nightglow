@@ -23,6 +23,8 @@
 >> A Criminal may choose to Call off a Mark at any time. This stops their current Stakeout timer. They lose their current progress, but they do not lose any accumulated Stakeout, nor does their target's Markedness.
 > 
 
+## Stealing
+
 > [!example] Suggestion: Stealing (Core Mechanic)
 > A Criminal can steal from any of their Marked Targets.
 > 

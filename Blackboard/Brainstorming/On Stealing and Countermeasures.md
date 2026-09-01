@@ -10,6 +10,8 @@
 > [!example] Suggestion: Stakeout Timer - Marking a Target
 > A Criminal can mark several targets at a time, starting an independent timer for each of them. A target can be marked up to three times, each of which increases their Markedness by 1.
 > 
+> Marking a target counts as a Malicious Attempt.
+> 
 > Each time, a Criminal Marks a target, a Stakeout timer is started, and there is a chance of notifying the Target that they feel like they are being watched.
 > 
 > * Raising a Target's Markedness to (x=1,2,3) takes about **xh** and upon completion, accumulates **xh** of Stakeout.
@@ -29,12 +31,12 @@
 # The Officers
 
 > [!example] Suggestion: Lookouts (Core Mechanic) (Model 1)
->A player may hire an Officer to guard them preemptively. The Officer dispatches a number of Pokemon to each serve as Lookouts for the player for an amount of hours requested by the Player.
+>A player may hire an Officer to guard them preemptively. The Officer dispatches a number of Pokemon to each serve as Lookouts for the player for an amount of hours requested by the Player. A Player pays the Officer based on the quantity and quality of Lookouts and how long they hire them for.
 >
 >Each Lookout guarding a Player can thwart, by default, **1** Stakeout Timer or Stealing Timer that some Criminal attempts to start, forcing the Player into a Protected status for some duration. The Lookout is immediately sent back to the Officer to be freely dispatched again.
 >
 >>[!info] Officer's Fee
->>A Player pays the Officer based on the number of Lookouts and how long they hire them for.
+>>
 >
 >>[!warning] In this model, Criminals must not *freely* know if there are Lookouts guarding a player. Otherwise, one Lookout would be enough to be a true deterrent to many Criminals. They must at least be some cost to find out if a player has any active Lookouts. 
 >

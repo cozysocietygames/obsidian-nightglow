@@ -63,7 +63,8 @@ Hot Goods
 > [!example] Suggestion: Investigation
 > If an Officer attends to a crime report while the Stealing Timer is on, the Criminal is automatically caught. On the other hand, if an Officer attends to a crime report after the Stealing Timer is finished but before the Hot Goods Timer finishes, an Ongoing Investigation is started.
 > 
-> When an Ongoing Investigation is started, the Hot Goods Timer is increased by 20m. During the Ongoing Investigation, the Officer must look for Leads. He can inspect the crime scene for eyewitnesses. 
+> When an Ongoing Investigation is started, the Hot Goods Timer is increased by 20m. During the Ongoing Investigation, the Officer must look for Leads. To do this, the Officer can do it them
+> 1. A
 
 
 

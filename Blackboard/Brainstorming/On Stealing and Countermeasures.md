@@ -63,9 +63,9 @@ Hot Goods
 > [!example] Suggestion: Investigation
 > If an Officer attends to a crime report while the Stealing Timer is on, the Criminal is automatically caught. On the other hand, if an Officer attends to a crime report after the Stealing Timer is finished but before the Hot Goods Timer finishes, an Ongoing Investigation is started.
 > 
-> When an Ongoing Investigation is started, a list of POIs is randomly generated. the Hot Goods Timer is increased by 20m. During the Ongoing Investigation, the Officer must look for Leads. To do this, the Officer can do it themselves, or let their Pokemon assist.
-> 1. Inspect the crime scene.
-> 2. Look for NPC eyewitnesses. 
+> When an Ongoing Investigation is started, a list of POIs is randomly generated. the Hot Goods Timer is increased by 20m. During the Ongoing Investigation, the Officer must look for Leads.
+> 1. The Pokemon may inspect the crime scene for the Criminal's scent.
+> 2. The Officer may look for NPC eyewitnesses. 
 
 
 

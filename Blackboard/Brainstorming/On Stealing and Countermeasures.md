@@ -34,7 +34,7 @@
 >
 >If the Stealing Timer finishes completely, the Stolen Goods becomes a Hot Goods, and a Hot Goods timer is started. A Hot Goods Timer starts at 14h and is reduced by any amount of Accumulated Stakeout.
 >
->A Player may still report the crime while the Hot Goods Timer is active.
+>A Player may still report the crime while the Hot Goods Timer is active. This increases the Hot Goods Timer by 20m, to account for cases like the Player reporting the crime with only 5s left on the Hot Goods Timer.
 >
 >A Hot Goods timer is started and the player is notified that they have been stolen from. The Stealing timer starts at **8h** by default, and is reduced by the Accumulated Stakeout specific to their target.
 >

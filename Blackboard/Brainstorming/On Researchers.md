@@ -7,5 +7,11 @@
 
 55+25+13+4+2+1
 
-2 * 3 * 10 * 26 * 26 * 26
+2 * 3 * 3 * 10 * 26 * 26
 
+Black Solute
+White Solute
+
+Red Solvent
+Green Solvent
+Blue So

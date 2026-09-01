@@ -67,7 +67,11 @@ Hot Goods
 
 
 ## The POI List
-Some of the POIs generated are NPCs that serve as potential eyewitnesses. I considered making actual players eyewitnesses by notifying them when a crime takes place, but it raises a lot of questions: should we give them the option to lie? Should we give them the option to actively appr
+Some of the POIs generated are NPCs that serve as potential eyewitnesses.
+
+>[!question] Real Players as Eyewitnesses.
+>
+>I considered making actual players eyewitnesses by notifying them when a crime takes place, but it raises a lot of questions: should we give them the option to lie? Should we give them the option to actively go to the Police Station to report what they saw?
 ### Looking for Leads
 There are several ways to look for leads. 
 

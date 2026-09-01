@@ -32,7 +32,7 @@
 > 
 >Once a Criminal chooses to steal from a Player, the Player is removed from their Marked Targets. Any goods stole from that player is bundled into a Stolen Goods bundle. A **5m** Stealing Timer is started. During this time, if a Player reports the crime and an Officer responds, the Criminal is immediately caught and the Goods are returned. 
 >
->If the Stealing Timer finishes completely, the Stolen Goods becomes a Hot Goods, and a Hot Goods timer is started. A Hot Goods Timer starts at 18h 
+>If the Stealing Timer finishes completely, the Stolen Goods becomes a Hot Goods, and a Hot Goods timer is started. A Hot Goods Timer starts at 14h and is reduced by any amount of Accumulated Stakeout.
 >
 >A Hot Goods timer is started and the player is notified that they have been stolen from. The Stealing timer starts at **8h** by default, and is reduced by the Accumulated Stakeout specific to their target.
 >

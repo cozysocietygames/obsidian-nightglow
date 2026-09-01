@@ -7,9 +7,9 @@
 
 55+25+13+4+2+1
 
-Chemical A-Z minus B (25 possibilities) contributes to 55% of the weight.
+Chemical A-Z except B (25 possibilities) contributes to 55% of the weight.
 
-
+RGB Solute (3 possibilities) contributes to 13% of the weight.
 
 2 * 3 * 5 * 10 * 26 * 26
 

@@ -34,8 +34,8 @@
 >>[!info] Officer's Fee
 >>A Player pays the Officer based on the number of Lookouts and how long they hire them for.
 >
->>[!warning] In this model, Criminals must not *freely* know if there are Lookouts guarding a player. Otherwise, one Lookout would be enough to be a true deterrent to many Criminals. They must at least pay some cost to find out if a player has any active Lookouts. 
+>>[!warning] In this model, Criminals must not *freely* know if there are Lookouts guarding a player. Otherwise, one Lookout would be enough to be a true deterrent to many Criminals. They must at least be some cost to find out if a player has any active Lookouts. 
 >
 >> ## Emergent Cooperation between Criminals
->> If Criminals do not freely know if there are Lookouts guarding a player, 
+>> Since Criminals do not freely know if there are Lookouts guarding a player, a Criminal might
 

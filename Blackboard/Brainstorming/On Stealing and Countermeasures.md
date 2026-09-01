@@ -72,10 +72,12 @@ More time spent means a smaller list of POIs. The POIs are all NPCs, apart from 
 Every POI will have some information attached to them, although they are not all revealed at the beginning. Some of the POIs will have some information revealed. An officer can only click one POI at a time, which starts a 5s timer, after which more information will be revealed about them.
 
 A fully revealed POI would look something like this:
-POI #1
-Eyewitness
-Smells of Leppa Berry
-Smells of Zigzagoon and Poochyena
+
+		POI #1
+		Eyewitness
+		"The suspect had a Pooch"
+		Smells of Leppa Berry
+		Smells of Zigzagoon, Poochyena, Ele
 ### Leads
 The Officer can look for Leads that allow him to cross out POIs as suspects.
 #### Sniff Scent

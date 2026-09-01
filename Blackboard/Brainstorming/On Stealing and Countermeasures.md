@@ -70,11 +70,11 @@ More time spent means a smaller list of POIs. The POIs are all NPCs, apart from 
 ### Leads
 The Officer can look for Leads that allow him to cross out POIs as suspects.
 #### Sniff Scent
-An Officer may let their Pokemon sniff out the scents in the Crime Scene. The scents generated will be the following:
+An Officer's Pokemon automatically sniffs out the scents in the Crime Scene. A scent will be generated will be the following:
 
 The Pokemon on the Heist Team.
 A Pokemon of the Victim.
-A Wild Pokemon in the Area.
+A number of Wild Pokemon in the Area.
 
 
 

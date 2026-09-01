@@ -41,7 +41,7 @@
 >
 >
 >>[!warning] The Privacy of Lookouts
->>If Criminals *freely* know how many Lookouts are assigned to a player, then they can easily organize with their fellow criminals. Otherwise, one Lookout would never be enough to be a true deterrent to many Criminals. They must at least be some cost to find out if a player has any active Lookouts. 
+>>If Criminals *freely* know how many Lookouts or Lookout Charges are assigned to a player, then there is no element of risk, as they know exactly how many Lookout Charges they must trigger.
 >
 
 

@@ -70,7 +70,8 @@ More time spent means a smaller list of POIs. The POIs are all NPCs, apart from 
 ### Leads
 The Officer can look for Leads that allow him to cross out POIs as suspects.
 
-#### Scent 
+#### Scent
+An Officer may let their Pokemon sniff out the scents of the Pokemon that are probably in the Criminal's Heist Team. 
 
 
 

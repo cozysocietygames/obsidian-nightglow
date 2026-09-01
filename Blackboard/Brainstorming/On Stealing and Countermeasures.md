@@ -65,7 +65,7 @@ Hot Goods
 > 
 > When an Ongoing Investigation is started, a list of POIs is randomly generated. The Hot Goods Timer is increased by 20m. During the Ongoing Investigation, the Officer must look for Leads.
 ## The POI List
-Some of the POIs generated are NPCs that serve as potential eyewitnesses.
+When an Ongoing Investigation is started, a list of POIs is randomly generated. Some of the POIs generated are NPCs that serve as potential eyewitnesses.
 
 >[!question] Real Players as Eyewitnesses?
 >

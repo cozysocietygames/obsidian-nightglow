@@ -32,7 +32,6 @@
 > 
 >Once a Criminal chooses to steal from a Player, the Player is removed from their Marked Targets. And any goods stoled from that player is bundled into a Stolen Bundle. A Hot Goods timer is started and the player is notified that they have been stolen from. The Stealing timer starts at **8h** by default, and is reduced by the Accumulated Stakeout specific to their target.
 >
->The original purpose of the Stealing Timer was to ensure that Players had enough time to get their Stolen Pokemon back. Perhaps now, we can be more generous.
 
 Hot Goods
 # The Officers

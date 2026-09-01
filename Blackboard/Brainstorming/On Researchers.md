@@ -8,8 +8,9 @@
 > 
 > The biggest problem in this was that once they've found all the combinations, there is no longer any sense of discovery, thus their Pokemon Research gameplay becomes stale. 
 
-> [!tip] Dynamic Gameplay
+> [!tip] Dynamic Research Gameplay
 > 
+> We need something that is in constant evolution, something that naturally outdates old research.
 
 
 

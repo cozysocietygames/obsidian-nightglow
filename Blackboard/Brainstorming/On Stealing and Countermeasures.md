@@ -61,9 +61,9 @@ Hot Goods
 ## Investigation
 
 > [!example] Suggestion: Investigation
-> If an Officer takes on a case while the Stealing Timer is on, the Criminal is automatically caught. On the other hand, if an Officer takes on a case after the Stealing Timer is finished but before the Hot Goods Timer finishes, the case becomes an Ongoing Investigation.
+> If an Officer attends to a crime report while the Stealing Timer is on, the Criminal is automatically caught. On the other hand, if an Officer takes on a case after the Stealing Timer is finished but before the Hot Goods Timer finishes, an Ongoing Investigation is started.
 > 
-> 
+> When an Ongoing Investigation is started
 
 
 

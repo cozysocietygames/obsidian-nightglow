@@ -26,7 +26,7 @@
 ## Stealing
 
 > [!example] Stealing Timer and Hot Goods Timer (Core Mechanic)
-> A Criminal can steal from any of their Marked Targets, by assembling a heist team out of one or more of their Pokemon. 
+> A Criminal can steal from any of their Marked Targets, by assembling a Heist Team out of one or more of their Pokemon. 
 > 
 > Stealing counts as a Malicious Attempt.
 > 
@@ -73,7 +73,7 @@ Some of the POIs generated are NPCs that serve as potential eyewitnesses.
 ### Looking for Leads
 There are several ways to look for leads. 
 
-1. Letting your Pokemon smell the criminal's scent.
+1. Letting your Pokemon smell the Criminal's scent.
 2. Interviewing the potential eyewitnesses.
 
 

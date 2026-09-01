@@ -30,9 +30,9 @@
 > 
 > Stealing counts as a Malicious Attempt.
 > 
->Once a Criminal chooses to steal from a Player, the Player is removed from their Marked Targets. A 10-minute Stealing Timer is started.
+>Once a Criminal chooses to steal from a Player, the Player is removed from their Marked Targets. Any goods stole from that player is bundled into a Stolen Bundle. A **10m** Stealing Timer is started. During this time, if a Player reports the crime and an Officer responds, the Criminal is immediately caught and the Goods are returned. 
 >
->And any goods stoled from that player is bundled into a Stolen Bundle. A Hot Goods timer is started and the player is notified that they have been stolen from. The Stealing timer starts at **8h** by default, and is reduced by the Accumulated Stakeout specific to their target.
+>A Hot Goods timer is started and the player is notified that they have been stolen from. The Stealing timer starts at **8h** by default, and is reduced by the Accumulated Stakeout specific to their target.
 >
 
 Hot Goods

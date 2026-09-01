@@ -16,7 +16,7 @@
 > 
 > Each time, a Criminal Marks a target, a Stakeout timer is started, and there is a chance of notifying the Target that they feel like they are being watched.
 > 
-> * Raising a Target's Markedness to (x=1,2,3) takes about **xh** and upon completion, accumulates **x.h** of Stakeout.
+> * Raising a Target's Markedness to (so`=1,2,3) takes about **xh** and upon completion, accumulates **x'h** of Stakeout.
 > 
 > So, if a Target's Markedness was successfully raised to 3, they have accumulated **1+2+3 = 6h** of Stakeout. Accumulated Stakeout is specific to each target. 
 >> [!example] Calling Off a Mark
@@ -32,7 +32,7 @@
 > 
 >Once a Criminal chooses to steal from a Player, the Player is removed from their Marked Targets. Any goods stole from that player is bundled into a Stolen Goods bundle. A **5m** Stealing Timer is started. During this time, if a Player reports the crime and an Officer responds, the Criminal is immediately caught and the Goods are returned. 
 >
->If the Stealing Timer finishes completely, the Stolen Goods becomes a Hot Goods, and a Hot Goods timer is started. A Hot Goods Timer starts at **yh** and is reduced by any amount of Accumulated Stakeout **xh**.
+>If the Stealing Timer finishes completely, the Stolen Goods becomes a Hot Goods, and a Hot Goods timer is started. A Hot Goods Timer starts at **y'h** and is reduced by any amount of Accumulated Stakeout **x'h**.
 >
 >A Player may still report the crime while the Hot Goods Timer is active. This increases the Hot Goods Timer by 20m, to account for cases like the Player reporting the crime with only 5s left on the Hot Goods Timer.
 >

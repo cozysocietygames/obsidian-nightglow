@@ -9,8 +9,6 @@
 
 Chemical A-Z except B (25 possibilities) contributes to 55% of the weight.
 
-
-
 RGB Solvent (3 possibilities) contributes to 25% of the weight.
 
 BW Solvent (2 possibilities) contributes to 2% of the weight.

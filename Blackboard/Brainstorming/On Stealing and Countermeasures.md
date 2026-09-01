@@ -42,6 +42,8 @@
 Hot Goods
 # The Officers
 
+## Lookouts
+
 > [!example] Suggestion: Lookouts (Core Mechanic) (Model 1)
 > Officers may train Pokemon they own to be Lookouts. A Lookout has a number of Lookout Charges, starting at 1 by default. 
 > 
@@ -56,8 +58,11 @@ Hot Goods
 >>Without risk, a Player must hire the exact amount of Lookout Charges that would give them the exact guaranteed duration of protection they need. With an element of risk, it becomes more challenging for Criminals to plan, and it allows the Player to pay cheaper prices if they accept the risk.  
 >
 
+## Investigation
 
+> [!example]
 
+If an Officer takes on a case while the Stealing Timer is on,
 
 
 

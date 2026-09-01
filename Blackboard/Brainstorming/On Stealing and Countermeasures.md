@@ -66,7 +66,7 @@ Hot Goods
 > When an Ongoing Investigation is started, the Hot Goods Timer is increased by 20m and the Officer gets a list of things to do. 
 ### The POI List
 To start an investigation, an Officer must spend some time looking for persons-of-interest, or POIs.
-More time spent means a smaller list of POIs. The POIs are all NPCs, apart from the Criminal themself, although the Officer cannot interact with them directly, as all the POIs simply appear as 
+More time spent means a smaller list of POIs. The POIs are all NPCs, apart from the Criminal themself, although the Officer cannot interact with them directly, as all the POIs simply appear as `POI #1` , `POI #2` etc.
 
 
 

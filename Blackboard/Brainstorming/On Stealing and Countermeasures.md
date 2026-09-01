@@ -7,6 +7,8 @@
 
 # Increasing the Engagement of Criminals
 
+## Marking a Target
+
 > [!example] Suggestion: Stakeout Timer - Marking a Target
 > A Criminal can mark several targets at a time, starting an independent timer for each of them. A target can be marked up to three times, each of which increases their Markedness by 1.
 > 
@@ -41,7 +43,7 @@
 >
 >
 >>[!warning] The Privacy of Lookouts
->>If Criminals *freely* know how many Lookouts or Lookout Charges are assigned to a player, then there is no element of risk, as they know exactly how many Lookout Charges they (or even their fellow Criminals if they organize with them) must trigger in order for the player to be vulnerable. Whether or not this i
+>>If Criminals *freely* know how many Lookouts or Lookout Charges are assigned to a player, then there is no element of risk, as they know exactly how many Lookout Charges they (or even their fellow Criminals if they organize with them) must trigger in order for the player to be vulnerable. Whether or not this is a good thing, I'm not sure.
 >
 
 

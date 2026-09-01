@@ -13,7 +13,7 @@ RGB Solvent (3 possibilities) contributes to 25% of the weight.
 
 BW Solvent (2 possibilities) contributes to 2% of the weight.
 
-
+Gamma, Delta, Zeta, Theta, Kappa, Lambda, Mu, Nu, Xi, Pi, Rho, Sigma, Tau, 
 
 B1-10 Solubles (10 possibilities) contributes to 1% of the weight.
 

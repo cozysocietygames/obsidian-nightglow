@@ -93,7 +93,7 @@ There will always be enough Suspects so that there are at least 10 POIs. These a
 
  
 
-If the Officer spends less time
+If the Officer spends less time 
 
 
 ### Leads
@@ -112,15 +112,4 @@ A scent similar to that of a Berry.
 >[!question] Real Players as Eyewitnesses?
 >
 >I considered making actual players eyewitnesses by notifying them when a crime takes place, but it raises a lot of questions: should we give them the option to lie? Should we give them the option to actively go to the Police Station to report what they saw?
-### Looking for Leads
-There are several ways to look for leads. 
 
-1. Letting their Pokemon smell the Criminal's scent.
-2. Inspecting the crime scene for any pawprints?
-3. Interviewing the potential eyewitnesses.
-
-
-
-
-## Emergent Cooperation between Criminals
-Since Criminals do not freely know if there are Lookouts guarding a player, a Criminal might

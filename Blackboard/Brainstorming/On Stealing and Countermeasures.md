@@ -85,7 +85,7 @@ A fully revealed POI would look something like this:
 		Smells like Oran and Pecha Berry.
 		Smells of Zigzagoon, Wingull, and Poochyena.
 
-
+Three POIs will be eyewitnesses, and altogether they will all identify which Pokemon were not in the Heist Team.
 
 ### Leads
 The Officer can look for Leads that allow him to cross out POIs as suspects.

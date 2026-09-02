@@ -83,9 +83,9 @@ A fully revealed POI would look something like this:
 		Suspect
 		Weak Alibi.
 		Smells like Oran and Pecha Berry.
-		Smells of Zigzagoon, Wingull, and Poochyena.
+		Smells of Wingull and Poochyena.
 
-There will always be at least five Eyewitnesses among the POIs, and altogether they will all identify which Pokemon were not in the Heist Team.
+There will always be as many Eyewitnesses as there are Pokemon that were **not** in the Heist Team, and each of them will cross out a Pokemon 
 
 ### Leads
 The Officer can look for Leads that allow him to cross out POIs as suspects.

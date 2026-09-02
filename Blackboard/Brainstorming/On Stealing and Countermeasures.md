@@ -85,7 +85,10 @@ A fully revealed POI would look something like this:
 		Smells like Oran and Pecha Berry.
 		Smells of Wingull and Poochyena.
 
-There will always be as many Eyewitnesses as there are Pokemon that were **not** in the Heist Team, and each of them will give the player information to eliminate one Pokemon from the scents. 
+There will always be as many Eyewitnesses as there are Pokemon that were **not** in the Heist Team, and each of them will give the player information to eliminate one Pokemon from the scents.
+
+There will always be at least five
+
 
 ### Leads
 The Officer can look for Leads that allow him to cross out POIs as suspects.

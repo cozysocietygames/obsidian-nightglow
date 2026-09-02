@@ -86,7 +86,7 @@ A fully revealed POI would look something like this:
 		Smells of Wingull and Poochyena.
 
 #### Eyewitnesses
-There will always be as many Eyewitnesses (at least 3, at most 5) as there are Pokemon that were **not** in the Heist Team, and each of them will give the player information to eliminate one Pokemon from the scents. 
+There will always be three Eyewitnesses. Each of them will give the player information to eliminate one or two Pokemon from the scents.  
 
 #### Suspects
 There will always be enough Suspects so that there are at least 10 POIs. These are the Core Suspects. Including the Criminal themself, there are at least 5, and at most 7 Core Suspects. One Core Suspect  

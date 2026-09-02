@@ -75,17 +75,17 @@ A fully revealed POI would look something like this:
 
 		POI #1
 		Eyewitness
-		Solid Alibi.
+		Watertight Alibi.
 		Claims that the suspect did not have a Wingull.
 		Smells like Leppa and Oran Berry.
 		Smells of Zigzagoon, Poochyena, Elekid.
 
 		POI #2
-		Eyewitness
-		Solid Alibi.
+		Suspect
+		Weak Alibi.
 		Claims that the suspect did not have a Wingull.
-		Smells like Leppa and Oran Berry.
-		Smells of Zigzagoon, Poochyena, Elekid.
+		Smells like Oran and Pecha Berry.
+		Smells of Zigzagoon, Taillow, Elekid.
 
 ### Leads
 The Officer can look for Leads that allow him to cross out POIs as suspects.

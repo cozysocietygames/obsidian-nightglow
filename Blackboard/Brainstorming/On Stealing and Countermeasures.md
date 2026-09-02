@@ -97,7 +97,7 @@ The Officer can look for Leads that allow him to cross out POIs as suspects.
 #### Sniff Scent
 An Officer's Pokemon automatically sniffs out the scents in the Crime Scene. A scent will be generated every minute:
 
-The scents of at least six distinct Pokemon: at most three Pokemon on the Heist Team, A Pokemon of the Victim, a number of Wild Pokemon in the Region that neither of them had.
+The scents of at least six distinct Pokemon: at most three Pokemon on the Heist Team, A Pokemon of the Victim if applicable, and a number of Wild Pokemon in the Region that neither of them had.
 A scent similar to that of a Berry.
 
 

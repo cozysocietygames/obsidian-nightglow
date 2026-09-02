@@ -87,7 +87,7 @@ A fully revealed POI would look something like this:
 
 There will always be as many Eyewitnesses as there are Pokemon that were **not** in the Heist Team, and each of them will give the player information to eliminate one Pokemon from the scents.
 
-There will always be at least five
+There will always be enough Suspects 
 
 
 ### Leads

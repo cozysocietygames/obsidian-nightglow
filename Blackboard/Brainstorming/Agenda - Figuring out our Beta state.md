@@ -18,16 +18,15 @@ A single type of wood to be used for any crafting/construction recipe that requi
 > A sense of discovery, like when we find a secret area that we didn't think would have anything?
 > A sense of progress, like when we solve a puzzle and are thus able to progress to the next area?
 
-### Abstraction of Spaces
+### Abstraction of Space
 
-
+![[Pasted image 20260905113540.png|227]]
 #### Off-camera Spaces
-- Locations with an implied physical space that is left up to the player's imagination. 
+- Locations with an implied physical space whose exact layout is left up to the player's imagination. 
 - Expansion is as simple as saying there is more usable space now.
 #### On-camera Spaces
 - Locations with a visually represented physical space which can usually be populated by entities that have some abstracted size. 
 - Expansion of the location itself is more constrained because it must be visually represented, such as by a new part of a map.
-- ![[Pasted image 20260905113540.png|215]]
 
 #### Pocket Dimension
 - A Pocket Dimension is an On-camera space whose map represents the interior of some container on an outer dimension. It can usually be expanded freely without much alteration of its appearance on the outer dimension. 

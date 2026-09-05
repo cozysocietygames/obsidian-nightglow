@@ -31,9 +31,9 @@ A single type of wood to be used for any crafting/construction recipe that requi
 #### Pocket Dimension
 - A Pocket Dimension is an On-camera space whose map represents the interior of some container on an outer dimension. It can usually be expanded freely without much alteration of its appearance on the outer dimension. 
 
-- Stardew Houses have a constant dedicated exterior space even when upgraded, with only minor aesthetic illusions for immersion.
+- Stardew Houses take up a constant dedicated exterior space even when upgraded, with only minor aesthetic illusions for immersion.
 - ![[Pasted image 20260905115112.png]]        ![[Pasted image 20260905115121.png]]
 
-- Pocket Dimensions can also have exterior representations that do take up more space, although the maximum space allotted for the exterior is usually pre-defined, such as the House in Friends of Mineral Town, or the Stables from Tribal Wars.
+- Pocket Dimensions can also have exterior representations that do take up more space as they are upgraded, although the maximum space allotted for the exterior is usually pre-defined, such as the House in Friends of Mineral Town, or the Stables from Tribal Wars.
 ![[Pasted image 20260905120628.png |50%]]
 ![[Pasted image 20260905120631.png|50%]]![[Pasted image 20260905120635.png|100%]]

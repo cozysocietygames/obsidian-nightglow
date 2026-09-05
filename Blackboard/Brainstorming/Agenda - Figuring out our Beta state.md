@@ -43,5 +43,7 @@ A single type of wood to be used for any crafting/construction recipe that requi
 ### Which On-camera Spaces do we need? 
 
 1. Town and City Maps
-	1
+	- Necessary if we want space management to be part of Government's building management gameplay 
 2. Route Maps
+	- Necessar
+3. Cave Maps

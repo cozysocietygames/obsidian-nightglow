@@ -77,6 +77,6 @@ Prioritize Wilderness Locations that provide the fundamental resources needed fo
 
 ### Point-and-Click as Primary UI, Direct Control as Secondary UI
 
-Point-and-Click leans into browser game traditions, and allows the players to quickly access the menus they need. We can still offer Direct Control as a secondary way of interacting with the game ju
+Point-and-Click leans into browser game traditions, and allows the players to quickly access the menus they need. We can still offer Direct Control as a secondary way of interacting with the game just as it is in the Arknights base.
 
 https://www.reddit.com/r/gamedesign/comments/oz4i0f/would_it_be_better_to_have_a_large_seamless_open/

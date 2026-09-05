@@ -5,8 +5,9 @@
 > [!tip] It's all about purpose.
 
 Compare:
-A single kind of wood to be used for any crafting/construction recipe that requires some wooden material. vs. Different kinds of wood with different benefits.
-	
+A single type of wood to be used for any crafting/construction recipe that requires some wooden material. vs. Different kinds of wood with different benefits.
+	A single type of wood means a simpler fundamental resource.
+	Different types of wood means more functional variety.  
 
 
 ## Exploration/Navigation

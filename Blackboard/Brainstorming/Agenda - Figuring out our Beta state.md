@@ -19,6 +19,6 @@ A single type of wood to be used for any crafting/construction recipe that requi
 > A sense of progress, like when we solve a puzzle and are thus able to progress to the next area?
 
 ### On- and Off-camera Locations
-Off-camera locations would be some ab
+Off-camera locations would be something that happens off-screen. 
 
 

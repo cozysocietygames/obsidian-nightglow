@@ -48,7 +48,7 @@ A single type of wood to be used for any crafting/construction recipe that requi
 
 > [!question] Town and City Maps first and introduce Explorable Maps as needed?
 > 
-> 
+> Perhaps it isn't really necessary 
 
 
 
@@ -57,4 +57,5 @@ A single type of wood to be used for any crafting/construction recipe that requi
 	- Necessary if we want space management to be part of Government's building management gameplay 
 2. Route Maps
 	- Necessary if we need the 
-3. Cave Maps
+3. Tent Map
+	- Necessary if we want the player to have a base whose visual layout they can play around wi

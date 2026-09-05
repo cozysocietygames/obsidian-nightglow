@@ -34,6 +34,6 @@ A single type of wood to be used for any crafting/construction recipe that requi
 - Stardew Houses have a constant dedicated exterior space even when upgraded, with only minor aesthetic illusions for immersion.
 - ![[Pasted image 20260905115112.png]]        ![[Pasted image 20260905115121.png]]
 
-- 
-![[Pasted image 20260905120628.png | 100]]
+- Pocket Dimensions can also have exterior representations that do take up more space, although the space allotted for the exterior i
+![[Pasted image 20260905120628.png |50%]]
 ![[Pasted image 20260905120631.png|50%]]![[Pasted image 20260905120635.png|100%]]

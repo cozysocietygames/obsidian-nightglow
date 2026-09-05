@@ -2,7 +2,7 @@
 
 ## Resource Management
 
-# Graphics-based vs. Text-based Exploration/Navigation
+## Graphics-based vs. Text-based Exploration/Navigation
 
 > [!question] What aspects of Exploration are important to us?
 > 

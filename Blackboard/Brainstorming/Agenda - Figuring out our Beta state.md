@@ -31,5 +31,5 @@ A single type of wood to be used for any crafting/construction recipe that requi
 #### Pocket Dimension
 - A Pocket Dimension is an On-camera space whose map represents the interior of some container on an outer dimension. It can usually be expanded freely without much alteration of its appearance on the outer dimension. 
 
-- Stardew Houses take up the same exterior space even when upgraded, only with minor aesthetic illusions for immersion.
+- Stardew Houses have a constant dedicated exterior space even when upgraded, with only minor aesthetic illusions for immersion.
 - ![[Pasted image 20260905115112.png]]        ![[Pasted image 20260905115121.png]]

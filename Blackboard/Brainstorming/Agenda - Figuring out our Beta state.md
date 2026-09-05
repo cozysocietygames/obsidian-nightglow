@@ -2,8 +2,11 @@
 
 ## Resource Management
 
-> [!tip] Compare:
-> A single kind of wood to be used for any crafting/construction recipe that requires some wooden material. vs. Different kinds of wood with different benefits.
+> [!tip] It's all about purpose.
+
+Compare:
+A single kind of wood to be used for any crafting/construction recipe that requires some wooden material. vs. Different kinds of wood with different benefits.
+	
 
 
 ## Exploration/Navigation

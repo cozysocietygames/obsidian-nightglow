@@ -6,3 +6,6 @@
 > A sense of discovery, like when we find a secret area that we didn't think would have anything?
 > A sense of progress, like when we solve a puzzle and are thus able to progress to the next area?
 
+## How much abstraction?
+
+### On- and Off-camera Locations

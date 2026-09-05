@@ -34,10 +34,9 @@ A single type of wood to be used for any crafting/construction recipe that requi
 - Pocket Dimension occupy a constant *maximum* dedicated exterior space even when upgraded, with only minor aesthetic illusions for immersion.
 - ![[Pasted image 20260905115112.png]]
 - ![[Pasted image 20260905115121.png]]
-- ![[Pasted image 20260905130030.png]]![[Pasted image 20260905122044.png]]
+- ![[Pasted image 20260905130030.png|308]]
+- ![[Pasted image 20260905122044.png|312]] ![[Pasted image 20260905122441.png|280]]
 
-![[Pasted image 20260905122441.png]]
 
-
-![[Pasted image 20260905120628.png |50%]]
-![[Pasted image 20260905120631.png|50%]]![[Pasted image 20260905120635.png|100%]]
+![[Pasted image 20260905120628.png |50%|145]]
+![[Pasted image 20260905120631.png|50%|224]]![[Pasted image 20260905120635.png|100%]]

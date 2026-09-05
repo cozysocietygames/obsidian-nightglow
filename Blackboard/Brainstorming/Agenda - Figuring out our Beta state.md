@@ -46,7 +46,7 @@ A single type of wood to be used for any crafting/construction recipe that requi
 > [!warning] The Old Plan: Ports and Surrounding Maps
 > The old plan was that ports/docks were necessary because that would be where players start the game, plus the maps surrounding them so the players get to explore around them. 
 
-> [!question] Town and City Maps first?
+> [!question] Town and City Maps first and introduce Explorable Maps as needed?
 > 
 > 
 

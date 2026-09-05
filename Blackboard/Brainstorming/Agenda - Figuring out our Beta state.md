@@ -38,3 +38,5 @@ A single type of wood to be used for any crafting/construction recipe that requi
 
 
 ![[Pasted image 20260905130030.png|461]]
+
+

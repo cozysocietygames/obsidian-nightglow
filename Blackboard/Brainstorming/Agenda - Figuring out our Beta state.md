@@ -33,5 +33,3 @@ A single type of wood to be used for any crafting/construction recipe that requi
 
 - Stardew Houses take up the same exterior space even when upgraded, only with minor aesthetic illusions for immersion.
 - ![[Pasted image 20260905115112.png]]        ![[Pasted image 20260905115121.png]]
-
-

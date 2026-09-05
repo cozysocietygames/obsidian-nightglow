@@ -48,7 +48,7 @@ A single type of wood to be used for any crafting/construction recipe that requi
 > 
 > >[!warning] Problem
 > >
-> >Progress is highly gated and thus wild pokemon they encounter will be severely limited due to the geographic constraints. Developer's time constraints are dictating the flow and pacing of the game as opposed to actual 
+> >Progress is highly gated and thus wild pokemon they encounter will be severely limited due to the geographic constraints. Developer's time constraints are dictating the flow and pacing of the game as opposed to an intentional design of pacing. 
 > >
 > >
 
@@ -56,6 +56,7 @@ A single type of wood to be used for any crafting/construction recipe that requi
 > 
 > What if we don't prioritize walking as a method of travel over long distances?
 
+Prioritizing rendering Town and City Maps
 1. Town and City Maps
 	- Necessary if we want space management to be part of Government's building management gameplay.
 2. Route Maps
@@ -63,4 +64,4 @@ A single type of wood to be used for any crafting/construction recipe that requi
 3. Tent Map
 	- Necessary if we want the player to have a base whose visual layout they can customize.
 4. Dungeon Maps
-	- Necessary for explorable pocket dimensions 
+	- Necessary for explorable pocket dimensions.

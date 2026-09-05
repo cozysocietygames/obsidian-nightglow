@@ -44,7 +44,7 @@ A single type of wood to be used for any crafting/construction recipe that requi
 ### Which On-camera Spaces do we need in Beta state?
 
 > [!warning] The Old Plan: Ports and Surrounding Maps
-> The old plan was that ports/docks were necessary because that would be where players start the game, then introduce the   
+> The old plan was that ports/docks were necessary because that would be where players start the game, plus the maps surrounding them so the players get to explore around them. 
 
 > [!question] Town and City Maps first?
 > 

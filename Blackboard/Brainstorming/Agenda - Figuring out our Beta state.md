@@ -59,7 +59,7 @@ A single type of wood to be used for any crafting/construction recipe that requi
 Prioritizing rendering **Town and City Maps** allows the Government to be fully functional early on as opposed to only having one or two working cities for a long time.
 
 Alakazamming
-We can station Alakazams ar
+We can station Alakazams at Town and City Centers to allow fast travel between them. 
 
 1. Town and City Maps
 	- Necessary if we want space management to be part of Government's building management gameplay.

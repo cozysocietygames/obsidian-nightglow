@@ -75,8 +75,8 @@ Prioritize Wilderness Locations that provide the fundamental resources needed fo
 4. Dungeon Maps
 	- Necessary for explorable pocket dimensions.
 
-### Point-and-Click as Primary Interaction, Direct Control a
+### Point-and-Click as Primary UI, Direct Control as Secondary UI
 
-
+Point-and-Click leans into browser game traditions, and allows the players to quickly access the menus they need. We can still offer Direct Control as a secondary way of interacting with the game ju
 
 https://www.reddit.com/r/gamedesign/comments/oz4i0f/would_it_be_better_to_have_a_large_seamless_open/

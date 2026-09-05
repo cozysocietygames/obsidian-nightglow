@@ -42,7 +42,7 @@ A single type of wood to be used for any crafting/construction recipe that requi
 
 
 ### On Travel
-Simulating walking/running on a map was necessary in Pokemon Emerald and similar games because the adventuring was a core aspect of the gameplay. 
+Simulating walking/running on a map was necessary in Pokemon Emerald and similar games because the environment was a core part of the experience they wanted to curate. 
 ### Which On-camera Spaces do we need?
 
 1. Town and City Maps

@@ -40,6 +40,8 @@ A single type of wood to be used for any crafting/construction recipe that requi
 ![[Pasted image 20260905130030.png|461]]
 
 
-### Abstract Traveling 
+### Which On-camera Spaces do we need? 
 
-If Exploration isn't a huge part of the experience we wish to curate, 
+1. Town and City Maps
+	1
+2. Route Maps

@@ -56,7 +56,9 @@ A single type of wood to be used for any crafting/construction recipe that requi
 > 
 > What if we don't prioritize walking as a method of travel over long distances?
 
-Prioritizing **Town and City Maps** as On-camera spaces allows the Government to be fully functional early on as opposed to only having one or two working cities for a long time. We can station Alakazams at Town and City Centers to allow fast travel between them. 
+Prioritizing **Town and City Maps** as On-camera spaces allows the Government to be fully functional early on as opposed to only having one or two working cities for a long time. We can station Alakazams at Town and City Centers to allow fast travel between them.
+
+We can introduce several
 
 
 1. Town and City Maps

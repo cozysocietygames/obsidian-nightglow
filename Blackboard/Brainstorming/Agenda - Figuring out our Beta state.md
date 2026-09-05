@@ -35,8 +35,9 @@ A single type of wood to be used for any crafting/construction recipe that requi
 - ![[Pasted image 20260905115112.png]]        ![[Pasted image 20260905115121.png]]
 
 - Pocket Dimensions can also have exterior representations that do take up more space as they are upgraded, although the maximum space allotted for the exterior is usually pre-defined, such as the House in Friends of Mineral Town, or the Stables from Tribal Wars.
+- ![[Pasted image 20260905122044.png]]
 
-![[Pasted image 20260905121741.png]]
+
 
 ![[Pasted image 20260905121846.png]]
 

@@ -22,10 +22,10 @@ A single type of wood to be used for any crafting/construction recipe that requi
 
 ![[Pasted image 20260905113540.png|227]]
 #### Off-camera Spaces
-- Locations with an implied physical space whose exact layout is left up to the player's imagination. 
-- Expansion is as simple as saying there is more usable space now.
+- Implied physical spaces whose exact layout is left up to the player's imagination. 
+- Expansion of the space is as simple as saying there is more usable space now.
 #### On-camera Spaces
-- Locations with a visually represented physical space which can usually be populated by entities that have some abstracted size. 
+- Visually represented physical spaces which can usually be populated by entities that have some notion of size and position. 
 - Expansion of the location itself is more constrained because it must be visually represented, such as by a new part of a map.
 
 #### Pocket Dimension

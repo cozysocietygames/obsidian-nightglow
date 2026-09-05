@@ -23,6 +23,8 @@ A single type of wood to be used for any crafting/construction recipe that requi
 - Locations with an implied physical space that is left up to the player's imagination. 
 - Expansion is as simple as saying there is more usable space now.
 
-#### On
+#### On-camera Spaces
+- Locations with a visually represented physical space which can usually be populated by entities that have some abstracted size. 
+- 
 
 

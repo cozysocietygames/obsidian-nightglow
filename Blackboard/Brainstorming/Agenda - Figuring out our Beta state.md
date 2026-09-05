@@ -42,7 +42,7 @@ A single type of wood to be used for any crafting/construction recipe that requi
 
 
 ### On Travel
-Should we lean into the 
+Simulating walking on a map was neces
 ### Which On-camera Spaces do we need?
 
 1. Town and City Maps

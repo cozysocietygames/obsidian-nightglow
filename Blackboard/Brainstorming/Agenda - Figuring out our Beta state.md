@@ -40,7 +40,10 @@ A single type of wood to be used for any crafting/construction recipe that requi
 ![[Pasted image 20260905130030.png|461]]
 
 
-### Which On-camera Spaces do we need? 
+
+### On Travel
+Should we lean into the the
+### Which On-camera Spaces do we need?
 
 1. Town and City Maps
 	- Necessary if we want space management to be part of Government's building management gameplay 

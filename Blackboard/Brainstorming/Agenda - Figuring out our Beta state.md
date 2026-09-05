@@ -6,8 +6,9 @@
 
 Compare:
 A single type of wood to be used for any crafting/construction recipe that requires some wooden material. vs. Different kinds of wood with different benefits.
-	A single type of wood means a simpler and more stable fundamental resource. There are lots of taps/sources.
-	Different types of wood could introduce more functional variety.
+	Consider Harvest Moon with only one kind of wood.
+	Consider Minecraft with several kinds of wood with aesthetic variety.
+	Consider WLO with several kinds of wood with functional variety. 
 
 ## Exploration/Navigation
 

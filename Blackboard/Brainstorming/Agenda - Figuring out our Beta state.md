@@ -64,7 +64,7 @@ Fiction explanation could be that explorable areas are highly regulated as manda
 
 By prioritizing Alakazam travel, we allow ourselves the freedom to develop maps as needed without worrying much about the exact method of how the player will access them. 
 
-
+Prioritize Wilderness Locations that provide the fundamental resources needed for crafting and construction gameplay, as well as offer a sufficient selection of wild Pokemon.
 
 1. Town and City Maps
 	- Necessary if we want space management to be part of Government's building management gameplay.
@@ -74,6 +74,8 @@ By prioritizing Alakazam travel, we allow ourselves the freedom to develop maps 
 	- Necessary if we want the player to have a base whose visual layout they can customize.
 4. Dungeon Maps
 	- Necessary for explorable pocket dimensions.
+
+### Point-and-Click as Primary Interaction, Direct Control a
 
 
 

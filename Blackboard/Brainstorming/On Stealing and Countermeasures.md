@@ -65,7 +65,7 @@ Hot Goods
 > 
 > When an Ongoing Investigation is started, the Hot Goods Timer is increased by 20m and the Officer gets a list of things to do. 
 
-> [!tip] Inspiration
+> [!tip] Related Literature
 > https://www.pokemysterygame.com/
 
 ### The POI List

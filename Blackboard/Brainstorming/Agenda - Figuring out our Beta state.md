@@ -37,4 +37,4 @@ A single type of wood to be used for any crafting/construction recipe that requi
 ![[Pasted image 20260905120628.png |50%|196]]![[Pasted image 20260905120631.png|50%|224]]![[Pasted image 20260905120635.png|100%|260]]
 
 
-![[Pasted image 20260905130030.png]]
+![[Pasted image 20260905130030.png|461]]

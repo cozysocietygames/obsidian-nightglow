@@ -58,11 +58,12 @@ A single type of wood to be used for any crafting/construction recipe that requi
 
 Prioritizing **Town and City Maps** as On-camera spaces allows the Government to be fully functional earlier on, as opposed to only having one or two working cities for a long time. We can station Alakazams at Town and City Centers to allow fast travel between them.
 
-We can introduce several key Wilderness Locations that players can explore early on by Alakazamming into and out of them. 
+We can introduce several key **Wilderness Locations** that players can explore early on by Alakazamming into and out of them. 
 
 Fiction explanation could be that explorable areas are highly regulated as mandated by the national government due to safety concerns.
 
-By focusing on an Alaka
+By prioritizing Alakazam travel, we allow ourselves the freedom to develop maps as needed without worrying much about the exact method of how the player will access them. 
+
 
 
 1. Town and City Maps

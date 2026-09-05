@@ -30,6 +30,6 @@ A single type of wood to be used for any crafting/construction recipe that requi
 - ![[Pasted image 20260905113540.png|215]]
 
 #### Pocket Dimension
-- A Pocket Dimension can be a
+- A Pocket Dimension is usually an On-camera space whose map represents the interior of some entity on an outer dimension. Such as a House. 
 
 

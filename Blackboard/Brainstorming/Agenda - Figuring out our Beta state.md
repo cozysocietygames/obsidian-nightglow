@@ -18,8 +18,8 @@ A single type of wood to be used for any crafting/construction recipe that requi
 > A sense of discovery, like when we find a secret area that we didn't think would have anything?
 > A sense of progress, like when we solve a puzzle and are thus able to progress to the next area?
 
-### On- and Off-camera Locations
+### Abstraction of Physical Space: On- and Off-camera Locations
 #### Off-camera Locations
-* 
+- abstracted locations which leave the layout of the physical space up to the player's imagination.  
 
 

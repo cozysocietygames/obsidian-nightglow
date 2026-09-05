@@ -71,7 +71,7 @@ Prioritize Wilderness Locations that provide the fundamental resources needed fo
 2. Route Maps
 	- Necessary if we need to visually represent the player walking to different towns.
 3. Tent Map
-	- Necessary if we want the player to have a base whose visual layout they can customize.
+	- Necessary if we want the player to have a base whose visual layout they can customize. This can be the primary place where a player can see their Pokemon walking around. 
 4. Dungeon Maps
 	- Necessary for explorable pocket dimensions.
 

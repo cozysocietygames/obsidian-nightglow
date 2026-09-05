@@ -45,5 +45,5 @@ A single type of wood to be used for any crafting/construction recipe that requi
 1. Town and City Maps
 	- Necessary if we want space management to be part of Government's building management gameplay 
 2. Route Maps
-	- Necessar
+	- Necessary if we need the 
 3. Cave Maps

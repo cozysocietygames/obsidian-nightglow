@@ -48,10 +48,7 @@ A single type of wood to be used for any crafting/construction recipe that requi
 
 > [!question] Town and City Maps first and introduce Explorable Maps as needed?
 > 
-> Perhaps it isn't really necessary to prioritize walking as a method of travel over long distances? 
-
-
-
+> What if we don't prioritize walking as a method of travel over long distances?
 
 1. Town and City Maps
 	- Necessary if we want space management to be part of Government's building management gameplay.
@@ -59,3 +56,5 @@ A single type of wood to be used for any crafting/construction recipe that requi
 	- Necessary if we need to visually represent the player walking to different towns.
 3. Tent Map
 	- Necessary if we want the player to have a base whose visual layout they can customize.
+4. Dungeon Maps
+	- Necessary for explorable pocket dimensions 

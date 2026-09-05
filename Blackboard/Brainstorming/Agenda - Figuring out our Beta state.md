@@ -56,7 +56,7 @@ A single type of wood to be used for any crafting/construction recipe that requi
 > 
 > What if we don't prioritize walking as a method of travel over long distances?
 
-Prioritizing rendering Town and City Maps allows the Government to be fully functional early on as opposed to only having one or two working cities for a long time. As for traveling between them, we can just Alakazam players. 
+Prioritizing rendering **Town and City Maps** allows the Government to be fully functional early on as opposed to only having one or two working cities for a long time. As for traveling between them, we can just Alakazam players.
 
 1. Town and City Maps
 	- Necessary if we want space management to be part of Government's building management gameplay.

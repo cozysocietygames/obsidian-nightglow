@@ -1,1 +1,2 @@
-# Graphics-based vs. Text-based
+# Graphics-based vs. Text-based Exploration/Navigation
+

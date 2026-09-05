@@ -20,6 +20,8 @@ A single type of wood to be used for any crafting/construction recipe that requi
 
 ### Abstraction of Physical Space: On- and Off-camera Locations
 #### Off-camera Locations
-- Locations with an implied physical space that is left up to the player's imagination.  
+- Locations with an implied physical space that is left up to the player's imagination. 
+- Expansion is as simple as saying there is more usable space now.
+- 
 
 

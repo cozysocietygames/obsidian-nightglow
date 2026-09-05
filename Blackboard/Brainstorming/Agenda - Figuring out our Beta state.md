@@ -6,8 +6,8 @@
 
 Compare:
 A single type of wood to be used for any crafting/construction recipe that requires some wooden material. vs. Different kinds of wood with different benefits.
-	A single type of wood means a simpler fundamental resource.
-	Different types of wood means more functional variety.  
+	A single type of wood means a simpler and more stable fundamental resource. There are lots of taps/sources.
+	Different types of wood means more functional variety. In gam
 
 
 ## Exploration/Navigation

@@ -2,6 +2,8 @@
 
 ## Resource Management
 
+Single Wood vs. Different types of Wood 
+
 ## Exploration/Navigation
 
 > [!question] What aspects of Exploration are important to us?

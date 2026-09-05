@@ -64,6 +64,10 @@ Hot Goods
 > If an Officer attends to a crime report while the Stealing Timer is on, the Criminal is automatically caught. On the other hand, if an Officer attends to a crime report after the Stealing Timer is finished but before the Hot Goods Timer finishes, an Ongoing Investigation is started.
 > 
 > When an Ongoing Investigation is started, the Hot Goods Timer is increased by 20m and the Officer gets a list of things to do. 
+
+> [!tip] Inspiration
+> https://www.pokemysterygame.com/
+
 ### The POI List
 To start an investigation, an Officer must spend some time looking for persons-of-interest, or POIs.
 More time spent means a smaller list of POIs. The POIs are all NPCs, apart from the Criminal themself, although the Officer cannot interact with them directly, as all the POIs simply appear as `POI #1` , `POI #2` etc. No matter how much time an Officer spends, the Criminal will always be on the POI list.

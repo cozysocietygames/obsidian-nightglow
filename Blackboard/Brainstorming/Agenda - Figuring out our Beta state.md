@@ -43,7 +43,15 @@ A single type of wood to be used for any crafting/construction recipe that requi
 
 ### Which On-camera Spaces do we need in Beta state?
 
-Simulating walking/running on a map was necessary in Pokemon Emerald and similar games because the visuality was a core part of the experience they wanted to curate, they wanted players to be able to 
+> [!warning] The Old Plan: Docks and Surrounding Maps
+> The old plan was to  
+
+> [!question] Town and City Maps first?
+> 
+> 
+
+
+
 
 1. Town and City Maps
 	- Necessary if we want space management to be part of Government's building management gameplay 

@@ -25,7 +25,9 @@ A single type of wood to be used for any crafting/construction recipe that requi
 
 #### On-camera Spaces
 - Locations with a visually represented physical space which can usually be populated by entities that have some abstracted size. 
-- Expansion is more constrained because it must be visually represented.
+- Expansion is more constrained because it must be visually represented, such as by a new part of a map.
+
+Pocket Dimension 
 
 ![[Pasted image 20260905113540.png|246]]
 

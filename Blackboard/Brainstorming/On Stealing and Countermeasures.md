@@ -30,10 +30,13 @@
 > 
 > Stealing counts as a Malicious Attempt.
 > 
->Once a Criminal chooses to steal from a Player, the Player is removed from their Marked Targets. Any goods stolen from that player is bundled into a Hot Goods bundle. Then there must be a period of time in which the Stolen Goods bundle can be recovered.
+>Once a Criminal chooses to steal from a Player, the Player is removed from their Marked Targets. Any goods stolen from that player is bundled into a Hot Goods bundle. Then there must be a period of time in which the Hot Goods bundle can be recovered.
 
 ### Hot Goods
 
+Hot Goods are recently stolen items that are hard to sell or use because they pose a huge risk. Thus, th
+
+- To be fair to the Criminal, the Hot Goods 
 
 >A multi-phase Stealing Timer is started. , although this may be reduced by the proficiency of the Criminal's Pokemon. During this time, if a Player reports the crime and an Officer responds, the Criminal is immediately caught and the Goods are returned. 
 >

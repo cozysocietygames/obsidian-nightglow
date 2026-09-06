@@ -62,8 +62,8 @@ Prioritizing **Town and City Maps** as On-camera spaces allows the Government to
 > Ports are still important as Regional Capitals: 
 > 1. Vermilion City in Kanto
 > 2. Olivine City in Johto
-> 3. Slateport City in Hoenn
-> 4. Canalave City? Sunyshore Ci in Sinnoh
+> 3. Slateport City? Lilycove City? in Hoenn
+> 4. Canalave City? Sunyshore City? in Sinnoh
 
 We can introduce several key **Wilderness Locations** that players can explore early on by Alakazamming into and out of them. 
 

@@ -58,6 +58,9 @@ A single type of wood to be used for any crafting/construction recipe that requi
 
 Prioritizing **Town and City Maps** as On-camera spaces allows the Government to be fully functional earlier on, as opposed to only having one or two working cities for a long time. We can station Alakazams at Town and City Centers to allow fast travel between them.
 
+> [!info] Ports as Regional Capitals
+> Ports are still important as Regional Capitals.
+
 We can introduce several key **Wilderness Locations** that players can explore early on by Alakazamming into and out of them. 
 
 Fiction explanation could be that explorable areas are highly regulated as mandated by the national government due to safety concerns.

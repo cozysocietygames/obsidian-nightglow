@@ -25,12 +25,12 @@
 
 ## Stealing
 
-> [!example] Stealing Timer and Hot Goods Timer (Core Mechanic)
+> [!example] Stealing Timer (Core Mechanic)
 > A Criminal can steal from any of their Marked Targets, by assembling a Heist Team out of one or more of their Pokemon. 
 > 
 > Stealing counts as a Malicious Attempt.
 > 
->Once a Criminal chooses to steal from a Player, the Player is removed from their Marked Targets. Any goods stolen from that player is bundled into a Stolen Goods bundle. A **6m** Stealing Timer is started, although this may be reduced by the proficiency of the Criminal's Pokemon. During this time, if a Player reports the crime and an Officer responds, the Criminal is immediately caught and the Goods are returned. 
+>Once a Criminal chooses to steal from a Player, the Player is removed from their Marked Targets. Any goods stolen from that player is bundled into a Stolen Goods bundle. A multi-phase Stealing Timer is started. , although this may be reduced by the proficiency of the Criminal's Pokemon. During this time, if a Player reports the crime and an Officer responds, the Criminal is immediately caught and the Goods are returned. 
 >
 >If the Stealing Timer finishes completely, the Stolen Goods becomes a Hot Goods, and a Hot Goods timer is started. A Hot Goods Timer starts at **`hotgoods=9?`h** and is reduced by any amount of Accumulated Stakeout.
 >

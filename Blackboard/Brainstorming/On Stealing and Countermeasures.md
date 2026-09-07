@@ -72,9 +72,11 @@ The Hot Goods Timer must be increased by some amount when a player reports a Cri
 > [!tip] Related Media
 > https://www.pokemysterygame.com/
 
-An Investigation is started when an Officer opens a Case reported by a Player. An Investigation has different Statuses which correspond directly to the phases of the Hot Goods Timer.
+An Investigation is started when an Officer opens a Case reported by a Player. A Case has different Statuses which correspond directly to the phases of the Hot Goods Timer.
 
-If a
+If a Case is Sizzling, then when an Officer opens it, the Investigation will immediately succeed with no effort at all. 
+
+If a Case 
 
 ### The POI List
 To start an investigation, an Officer must spend some time looking for persons-of-interest, or POIs.

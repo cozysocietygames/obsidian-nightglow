@@ -80,7 +80,7 @@ If a Case is Sizzling, then when an Officer opens it, the Investigation will sta
 If a Case is Hot or Warm, then when an Officer opens it, the Investigation will start, but the Officer will need to play a minigame to succeed.
 ## Investigation
 
-A Hot or Warm Case's Investigaton primarily differs by difficulty, with a Hot Case being easier and a Warm Case being more difficult. Additionally, to prevent an Officer intentionally aiding a Criminal by taking the case and doing nothing to solve it, Warm Cases may be worked on by several Officers at a time.
+A Hot or Warm Case's Investigation primarily differs by difficulty, with a Hot Case being easier and a Warm Case being more difficult. Additionally, to prevent an Officer intentionally aiding a Criminal by taking the case and doing nothing to solve it, Warm Cases may be worked on by several Officers at a time.
 
 > [!tip] Investigation Gameplay
 > 

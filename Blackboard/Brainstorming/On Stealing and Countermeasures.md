@@ -86,9 +86,7 @@ A Hot or Warm Case's Investigation primarily differs by difficulty, with a Hot C
 > 
 > An Officer must pursue some Leads and sort through randomized information to ultimately try and identify the Culprits—the Pokemon who were used in the Heist Team. 
 
-### The POI List
-To start an investigation, an Officer must spend some time looking for pokemon-of-interest, or POIs.
-More time spent means a smaller list of POIs. The POIs are all NPCs, apart from the Criminal themself, although the Officer cannot interact with them directly, as all the POIs simply appear as `POI #1` , `POI #2` etc. No matter how much time an Officer spends, the Criminal will always be on the POI list.
+### Investigation
 
 #### POI Details
 Every POI will have some information attached to them, although they are not all revealed at the beginning. Some of the POIs will have some information revealed. An officer can only click one POI at a time, which starts a 5s timer, after which more information will be revealed about them.

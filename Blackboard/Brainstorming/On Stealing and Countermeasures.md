@@ -46,21 +46,9 @@ Hot Goods are recently stolen items that are hard to sell or use because they po
 - Sizzling means the Criminal has a 100% chance of getting caught if the crime is reported and an Officer opens the case. Sizzling should have a relatively short duration.
 - Hot means the Officer has to put in moderate effort in their Investigation to catch the Criminal. 
 - Warm means the Officer has to put in much effort in their Investigatoin to catch the Criminal.
-- Cold means th
+- Cold means that the Criminal has a 0% chance of getting caught now. 
 
-
-
-
->A multi-phase Stealing Timer is started. , although this may be reduced by the proficiency of the Criminal's Pokemon. During this time, if a Player reports the crime and an Officer responds, the Criminal is immediately caught and the Goods are returned. 
->
->If the Stealing Timer finishes completely, the Stolen Goods becomes a Hot Goods, and a Hot Goods timer is started. A Hot Goods Timer starts at **`hotgoods=9?`h** and is reduced by any amount of Accumulated Stakeout.
->
->A Player may still report the crime while the Hot Goods Timer is active. This increases the Hot Goods Timer by 20m, to account for cases like the Player reporting the crime with only 5s left on the Hot Goods Timer.
->
->A Hot Goods timer is started and the player is notified that they have been stolen from. The Stealing timer starts at **8h** by default, and is reduced by the Accumulated Stakeout specific to their target.
->
-
-Hot Goods
+The Hot Goods Timer must be increased by some amount when a player reports a Crime, and also when an Officer first opens an Investigation. 
 # The Officers
 
 ## Lookouts

@@ -78,14 +78,15 @@ If a Case is Sizzling, then when an Officer opens it, the Investigation will sta
 - Alternatively, perhaps the Officer can battle the Heist Team? And if he fails, the Case will/can be handed over to a different Officer
 
 If a Case is Hot or Warm, then when an Officer opens it, the Investigation will start, but the Officer will need to play a minigame to succeed.
-
 ## Investigation
 
  A Hot or Warm Case's Investigaton only differs by difficulty, with a Hot Case being easier and a Warm Case being more difficult.
 
 > [!tip] Investigation Gameplay
 > 
-> An Officer must sort through some Leads 
+> An Officer must pursue some Leads and sort through randomized information to ultimately try and identify the Culprits—the Pokemon who were used in the Heist Team. 
+
+
 
 
 

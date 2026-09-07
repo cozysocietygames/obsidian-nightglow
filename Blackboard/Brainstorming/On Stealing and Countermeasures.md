@@ -93,7 +93,7 @@ An Investigation has three Phases.
 #### Phase One: How many Culprits?
 To complete Phase One of the Investigation, the Officer must identify how many culprits there were. 
 #### Phase Two: Who were the Culprits?
-
+The Officer must identify all the species of the Pokemon in the Heist Team.
 
 #### POI Details
 Every POI will have some information attached to them, although they are not all revealed at the beginning. Some of the POIs will have some information revealed. An officer can only click one POI at a time, which starts a 5s timer, after which more information will be revealed about them.

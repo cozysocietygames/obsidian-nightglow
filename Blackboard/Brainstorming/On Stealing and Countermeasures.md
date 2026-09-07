@@ -69,13 +69,12 @@ The Hot Goods Timer must be increased by some amount when a player reports a Cri
 
 ## Investigation
 
-> [!example] Suggestion: Investigation
-> If an Officer attends to a crime report while the Stealing Timer is on, the Criminal is automatically caught. On the other hand, if an Officer attends to a crime report after the Stealing Timer is finished but before the Hot Goods Timer finishes, an Ongoing Investigation is started.
-> 
-> When an Ongoing Investigation is started, the Hot Goods Timer is increased by 20m and the Officer gets a list of things to do. 
-
 > [!tip] Related Media
 > https://www.pokemysterygame.com/
+
+An Investigation is started when an Officer opens a Case reported by a Player. An Investigation has different Statuses which correspond directly to the phases of the Hot Goods Timer.
+
+If a
 
 ### The POI List
 To start an investigation, an Officer must spend some time looking for persons-of-interest, or POIs.

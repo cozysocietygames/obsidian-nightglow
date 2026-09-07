@@ -38,6 +38,7 @@ Hot Goods are recently stolen items that are hard to sell or use because they po
 
 - A Hot Goods Timer that is started once the Criminal steals. 
 - To incentivize Criminals to mark their targets, the 
+- 
 
 >A multi-phase Stealing Timer is started. , although this may be reduced by the proficiency of the Criminal's Pokemon. During this time, if a Player reports the crime and an Officer responds, the Criminal is immediately caught and the Goods are returned. 
 >

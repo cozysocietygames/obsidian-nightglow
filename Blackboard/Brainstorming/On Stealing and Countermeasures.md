@@ -67,16 +67,18 @@ The Hot Goods Timer must be increased by some amount when a player reports a Cri
 >>Without risk, a Player must hire the exact amount of Lookout Charges that would give them the exact guaranteed duration of protection they need. With an element of risk, it becomes more challenging for Criminals to plan, and it allows the Player to pay cheaper prices if they accept the risk.  
 >
 
-## Investigation
+## Cases
 
 > [!tip] Related Media
 > https://www.pokemysterygame.com/
 
-An Investigation is started when an Officer opens a Case reported by a Player. A Case has different Statuses which correspond directly to the phases of the Hot Goods Timer.
+A Case is created when a Criminal stea. A Case has different Statuses which correspond directly to the phases of the Hot Goods Timer.
 
-If a Case is Sizzling, then when an Officer opens it, the Investigation will immediately succeed with no effort at all. 
+If a Case is Sizzling, then when an Officer opens it, the Investigation will immediately succeed with no effort at all.
+- Alternatively, perhaps the Officer can battle the Heist Team? And if he fails, the Case will/can be handed over to a different Officer
 
-If a Case 
+If a Case is Hot or Warm, then when an Officer opens it, the Investigation will start.
+
 
 ### The POI List
 To start an investigation, an Officer must spend some time looking for persons-of-interest, or POIs.

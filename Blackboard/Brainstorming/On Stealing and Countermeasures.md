@@ -86,7 +86,12 @@ A Hot or Warm Case's Investigation primarily differs by difficulty, with a Hot C
 > 
 > An Officer must pursue some Leads and sort through randomized information to ultimately try and identify the Culprits—the Pokemon who were used in the Heist Team. 
 
-### Investigation
+### Investigation Phases
+
+An Investigation has three Phases.
+
+#### Phase One: How many Culprits?
+To complete Phase One of the Investigation, the Officer must identify how many culprits there were. 
 
 #### POI Details
 Every POI will have some information attached to them, although they are not all revealed at the beginning. Some of the POIs will have some information revealed. An officer can only click one POI at a time, which starts a 5s timer, after which more information will be revealed about them.

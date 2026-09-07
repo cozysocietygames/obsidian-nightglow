@@ -72,12 +72,21 @@ The Hot Goods Timer must be increased by some amount when a player reports a Cri
 > [!tip] Related Media
 > https://www.pokemysterygame.com/
 
-A Case is created when a Criminal stea. A Case has different Statuses which correspond directly to the phases of the Hot Goods Timer.
+A Case is created when a Criminal steals from a Player, and a Player may report the Case to the Police Station. A Case has different Statuses which correspond directly to the phases of the Hot Goods Timer.
 
-If a Case is Sizzling, then when an Officer opens it, the Investigation will immediately succeed with no effort at all.
+If a Case is Sizzling, then when an Officer opens it, the Investigation will start and immediately succeed with no effort at all.
 - Alternatively, perhaps the Officer can battle the Heist Team? And if he fails, the Case will/can be handed over to a different Officer
 
-If a Case is Hot or Warm, then when an Officer opens it, the Investigation will start.
+If a Case is Hot or Warm, then when an Officer opens it, the Investigation will start, but the Officer will need to play a minigame to succeed.
+
+## Investigation
+
+ A Hot or Warm Case's Investigaton only differs by difficulty, with a Hot Case being easier and a Warm Case being more difficult.
+
+> [!tip] Investigation Gameplay
+> 
+> An Officer must sort through some Leads 
+
 
 
 ### The POI List

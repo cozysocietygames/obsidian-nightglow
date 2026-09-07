@@ -42,8 +42,9 @@ Hot Goods are recently stolen items that are hard to sell or use because they po
 
 #### A multi-phase Hot Goods Timer
 
-- A Hot Goods Timer can have different phases— which correspond to the likelihood of the criminal getting caught.
-- 
+- A Hot Goods Timer has different phases—Sizzling, Hot, Warm, Lukewarm. Which correspond to the likelihood of the criminal getting caught.
+- Sizzling means the Criminal has a 100% chance of getting caught if the crime is reported and an Officer opens the case. Sizzling should have a relatively short duration.
+- Hot means the Officer has to put in little effort to catch the criminal. 
 
 
 

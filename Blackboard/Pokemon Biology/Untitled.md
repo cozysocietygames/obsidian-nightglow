@@ -25,6 +25,8 @@ And I almost forgot, these species are also going to eventually have a `Learnabl
 
 Is it unadvisable to put in the `SpeciesEntity`​ a property like`learnableMoveset: LearnableMovesetId`​? On a separate page, we'd have a registry of`LearnableMovesetEntity`​ entities. A `LearnableMovesetEntity` ​ would have three components: one that is a list of moves learnable via level up, one is a list of learnable TM Moves, and one is a list of learnable Egg Moves. Or is it better to just have a `learnableMoveset: LearnableMoveset`​ similar to all the other properties of `SpeciesEntity`​ so far, where `LearnableMoveset`​ is an interface that has three properties, one is level-up moves, one is tm-moves, and one is egg moves? The only reason I thought of the first one is so that we could have a working registry right away, and maybe the SpeciesEntity won't look so crowded, but I'm not sure if it's a good idea. Please let me know which of these is better, or if you have an even better third alternative.
 
+Come to think of it, why don't we do the same thing for BodyPlan and Integument? Although those do share some property types like functionTags[]: Function
+
 
 
 Once you've addressed those issues, I'd like you to generate a sample population for the registry using Mudkip, Quilava, Meganium, Blaziken, and Sceptile. But you can ask me for any clarifications before you do that.

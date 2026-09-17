@@ -56,6 +56,10 @@ In this alternate universe, Kyogre and Groudon wreaked havoc upon the lands and 
 * Any Emergent Player-defined Goals
 
 ### Why is this fun?
-* The game is fun because it allows the player to engage with the Pokemon World with a much broad outside of the Trainer framework
+* This gameplay is fun because it allows players to engage with the Pokemon World on a much broader scale outside of the Trainer framework provided in the canon games.
+* Player choices shape the shared world.
+
+### Key Features
+1. Player-run Government
 
 ![[Core Design]]

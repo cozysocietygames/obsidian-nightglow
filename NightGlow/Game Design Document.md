@@ -1,6 +1,7 @@
 # Game Name
 Pokemon NightGlow
-(Can we think of a better name?)
+(Somewh)
+
 # Genre
 Pokemon-themed browser-based Sandbox MMO, City/Community Builder, Political/Economic Sim
 

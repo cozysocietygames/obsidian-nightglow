@@ -10,7 +10,9 @@ Pokemon-themed browser-based Sandbox MMO, City/Community Builder, Political/Econ
 * Become a Government Official by "taking over" one of the region's Pokemon Gyms, and co-direct the growth of one of the four Regions (Kanto, Johto, Hoenn, Sinnoh) alongside fellow Government Officials
 * Complete quests and commissions to help the Region grow
 * Play through a unique adventure and choose a side in a major conflict: befriend and defend the Legendary Pokemon, or aid the major organization scheming against them.
-* 
+
+# Player
+
 
 
 ![[Core Design]]

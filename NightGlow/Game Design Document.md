@@ -51,7 +51,8 @@ In this alternate universe, Kyogre and Groudon wreaked havoc upon the lands and 
 ### Player's Controls
 * Point-and-click (primarily)
 ### Winning and Losing
+* Completing the main storyline is the individual win state of the game. It is not a hard win state, as the ending of the game leaves the player with more goals, such as befriending the 
 * Reaching "Steady State" is the collective win state of the game — ensuring that the government can handle any disasters that come its way while sustaining the needs of their players. 
-* 
+* Any Emergent Player-defined Goals
 
 ![[Core Design]]

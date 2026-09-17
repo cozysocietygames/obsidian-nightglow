@@ -31,7 +31,7 @@ PC, Mobile
 ## Gameplay Outline
 
 ### Story Synopsis
-In this alternate universe, Kyogre and Groudon wreaked havoc upon the lands and seas. The world must be rebuilt. People will rise to the occasion. Some deem it enough to restore order and find ways to navigate such disasters. Others think everything must be done to prevent such a catastrophe from ever happening again.
+In this alternate universe, Kyogre and Groudon wreaked havoc upon the lands and seas. The world must be rebuilt. People will rise to the occasion. Some deem it enough to restore order and find ways to coexist with such disasters. Others think any cost must be paid in order to prevent such a catastrophe from ever happening again.
 ### Modes
 1. Citizen Mode
 	 * This is the main mode of play accessible to everyone: you play as a trainer who catches and raises Pokemon. You complete commissions and quests to interact with your fellow players to avail of their services.
@@ -54,5 +54,8 @@ In this alternate universe, Kyogre and Groudon wreaked havoc upon the lands and 
 * Completing the main storyline is the *individual* win state of the game. It is not a hard win state, as the ending of the game encourages the player to befriend the legendaries that they weren't able to befriend because they were locked out due to the story route they took.
 * Reaching "Steady State" is the *collective* win state of the game — ensuring that the government can handle any disasters that come its way while sustaining the needs of their players. 
 * Any Emergent Player-defined Goals
+
+### Why is this fun?
+* The game is fun because it allows the player to engage with the Pokemon World with a much broad outside of the Trainer framework
 
 ![[Core Design]]

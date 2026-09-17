@@ -69,3 +69,4 @@ In this alternate universe, Kyogre and Groudon wreaked havoc upon the lands and 
 ![[Design Guidelines]]
 
 ## Game Design Definitions
+1. 

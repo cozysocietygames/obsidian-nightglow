@@ -61,5 +61,7 @@ In this alternate universe, Kyogre and Groudon wreaked havoc upon the lands and 
 
 ### Key Features
 1. Player-run Government
+2. Occupation-themed Player Classes
+# Design Document
 
 ![[Core Design]]

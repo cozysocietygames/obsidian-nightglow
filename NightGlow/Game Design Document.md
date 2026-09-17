@@ -36,6 +36,8 @@ In this alternate universe, Kyogre and Groudon wreaked havoc upon the lands and 
 1. Citizen Mode
 	 * This is the main mode of play accessible to everyone: you play as a trainer who catches and raises Pokemon. You complete commissions and quests to interact with your fellow players to avail of their services.
 2. Government Mode
+	* This mode of gameplay is limited to those who manage to take over a gym. In this mode, you have a management interface to make decisions that steer the direction of the growth of the region.
 
+### 
 
 ![[Core Design]]

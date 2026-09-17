@@ -3,7 +3,7 @@ Pokemon NightGlow
 (subject to change)
 
 # Genre
-C Builder
+City/Community Builder, Political Sim, Creature Collector, 
 
 
 ![[Core Design]]

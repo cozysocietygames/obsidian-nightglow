@@ -1,6 +1,6 @@
 # Game Name
 Pokemon NightGlow
-(Somewh)
+(somewhat outdated name)
 
 # Genre
 Pokemon-themed browser-based Sandbox MMO, City/Community Builder, Political/Economic Sim
@@ -13,6 +13,8 @@ Pokemon-themed browser-based Sandbox MMO, City/Community Builder, Political/Econ
 * Play through a unique adventure and choose a side in a major conflict: befriend and defend the Legendary Pokemon, or aid the major organization scheming against them.
 
 # Player
+Massively Multiplayer. (Real-time multiplayer limited to several players at a time.)
+
 
 
 

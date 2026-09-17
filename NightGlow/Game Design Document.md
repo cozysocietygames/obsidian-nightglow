@@ -32,6 +32,10 @@ PC, Mobile
 
 ### Story Synopsis
 In this alternate universe, Kyogre and Groudon wreaked havoc upon the lands and seas. The world must be rebuilt. People will rise to the occasion. Some deem it enough to restore order and find ways to bounce back in the face of such disasters. Others think everything must be done to prevent such a catastrophe from ever happening again.
+### Modes
+1. Citizen Mode
+	 * This is the main mode of play accessible to everyone: you play as a trainer who catches and raises Pokemon. You complete commissions and quests to interact with your fellow players to avail of their services.
+2. Government Mode
 
 
 ![[Core Design]]

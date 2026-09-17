@@ -17,8 +17,11 @@ A few thousands can play at a time. (Real-time multiplayer limited to several pl
 
 ## Technical Form
 2D graphics
-
 ## View
-Top-down 
+Top-down Oblique
+## Platform
+PC browser, Mobile browser, possibly Mobile app in the future
+## Language
+React/Typescript
 
 ![[Core Design]]

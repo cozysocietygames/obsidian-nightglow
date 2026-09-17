@@ -38,6 +38,12 @@ In this alternate universe, Kyogre and Groudon wreaked havoc upon the lands and 
 2. Government Mode
 	* This mode of gameplay is limited to those who manage to take over a gym. In this mode, you have a management interface to make decisions that steer the direction of the growth of the region.
 
-### 
+### Game elements 
+1. Creature Collection + Creature Care
+2. Creature vs. Creature Battling
+3. Occupation-based RPG Classes
+4. Governement Management Sim
+5. Quests and Commissions
+6. 
 
 ![[Core Design]]

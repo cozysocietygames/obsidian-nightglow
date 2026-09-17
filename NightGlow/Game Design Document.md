@@ -3,7 +3,7 @@ Pokemon NightGlow
 (subject to change)
 
 # Genre
-City/Community Builder, Political Sim, Creature Collector, 
+Major Genre: Pokemon-themed browser-based MMO sandbox, City/Community Builder, Political/Economic Sim. 
 
 
 ![[Core Design]]

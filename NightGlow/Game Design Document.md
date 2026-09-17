@@ -51,6 +51,7 @@ In this alternate universe, Kyogre and Groudon wreaked havoc upon the lands and 
 ### Player's Controls
 * Point-and-click (primarily)
 ### Winning and Losing
-* There is no set win state, but loss is felt when disasters happen 
+* Reaching "Steady State" is the collective win state of the game — ensuring that the government can handle any disasters that come its way while sustaining the needs of their players. 
+* 
 
 ![[Core Design]]

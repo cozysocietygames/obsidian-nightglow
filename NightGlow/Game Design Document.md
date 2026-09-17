@@ -50,6 +50,7 @@ In this alternate universe, Kyogre and Groudon wreaked havoc upon the lands and 
 * Game progression is soft-coded, player is guided by their Trainer Tier (E-D-C-B-A-S). Higher tier trainers have an easier time taking on more difficult battles and challenges. 
 ### Player's Controls
 * Point-and-click (primarily)
-###
+### Winning and Losing
+* There is no set win state, but loss is felt when disasters happen 
 
 ![[Core Design]]

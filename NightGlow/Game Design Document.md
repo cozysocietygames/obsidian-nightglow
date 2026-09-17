@@ -6,7 +6,7 @@ Pokemon NightGlow
 Pokemon-themed browser-based Sandbox MMO, City/Community Builder, Political/Economic Sim
 
 # Game Elements
-* Collect Pokemon, and care for them. 
+* Collect your favorite Pokemon and care for them to help them grow in ways that surpass their canon capabilities, and defeat 
 * Play as a Pokemon Breeder, Doctor, Criminal, Educator, Officer, and Researcher and provide your services to other players 
 * Become a Government Official via competing for Pokemon Gyms, and co-direct the growth of one of the four Regions (Kanto, Johto, Hoenn, Sinnoh) alongside fellow Government Officials
 * Complete quests and commissions to help the Region grow

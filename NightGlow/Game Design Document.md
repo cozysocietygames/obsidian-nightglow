@@ -31,7 +31,7 @@ PC, Mobile
 ## Gameplay Outline
 
 ### Story Synopsis
-In this alternate universe, Kyogre and Groudon wreaked havoc upon the lands and seas. The world must be rebuilt. People will rise to the occasion. Some of them wish to restore things to how t
+In this alternate universe, Kyogre and Groudon wreaked havoc upon the lands and seas. The world must be rebuilt. People will rise to the occasion. Some deem it enough to restore order and find ways to bounce back in the face of such disasters. Others think everything must be done to prevent such a catastrophe from ever happening again.
 
 
 ![[Core Design]]

@@ -35,7 +35,11 @@ React/Typescript, NodeJS
 
 ## Systems
 
-### 1. Trainer #Essential
+### 1. System: Trainer #Essential
+1. Subsystem: Trainer Card
+	* The Trainer Card displays information about the Trainer such as:
+		* their T
+* 
 1. Creature Collection #Essential
 	* Trainers are able to generate encounters with Wild Pokemon allowing them to battle and capture them. 
 2. Adventure #Essential

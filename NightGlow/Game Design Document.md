@@ -56,7 +56,7 @@ In this alternate universe, Kyogre and Groudon wreaked havoc upon the lands and 
 6. Limited RPG Adventure
 ### Game Progression
 * Game is open-world so there are no true "game levels."
-* Game progression is soft-coded, player is guided by their Trainer Tier (E-D-C-B-A-S). Higher tier trainers have an easier time taking on more difficult battles and challenges. 
+* Game progression is soft-coded, player is guided by their Trainer Tier (E-D-C-B-A-S) and Professional Level. Higher tier trainers have an easier time taking on more difficult battles and challenges, Higher-level professionals have more privileges. 
 ### Player's Controls
 * Point-and-click (primarily)
 ### Winning and Losing

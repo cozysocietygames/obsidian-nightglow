@@ -30,9 +30,10 @@ In this alternate universe, Kyogre and Groudon wreaked havoc upon the lands and 
 ### Modes
 1. Citizen Mode
 	 * This is the main mode of play accessible to everyone: you play as a trainer who catches and raises Pokemon.
-	 * Aside from playing as a trainer, you also play as one Occupation-themed class of your choice and offer your services to other trainers.
-	 * As a citizen, you complete commissions given by the government to help aid the growth of the region, and complete quests to advance the main storyline.
-2. Government Mode
+	 * As a citizen, you complete commissions given by the government to help aid the growth of the region, and complete quests to advance the main storyline.. 
+2. Professional Mode
+	* You also play as one Occupation-themed class of your choice and offer your services to other trainers.
+3. Government Mode
 	* This mode of gameplay is limited to Government Officials. In this mode, you have a management interface to make decisions that allow you to administrate the region.
 	* Draft proposals and vote on proposals made by fellow Government Officials to decide:
 		* Hard Infrastructure Decisions:
@@ -41,8 +42,8 @@ In this alternate universe, Kyogre and Groudon wreaked havoc upon the lands and 
 			* management of accessory buildings like power/water
 		* Soft Infrastructure Decisions:
 			* management of regional laws and programs that:
-				* create commissions for citizens in Citizen Mode
-				* regulate public resources 
+				* create commissions for citizens to do in Citizen Mode
+				* regulate public resources to be used by Citizens
 				* create systems of rewards
 
 ### Game elements 

@@ -38,10 +38,17 @@ React/Typescript, NodeJS
 ### 1. Trainer #Essential
 1. Creature Collection #Essential
 2. Adventure #Essential
+	1. Quests #Essential
+		* Quests are the checkpoints that a player must complete i the player advances the main storyline. 
 3. Exploration #Optional 
-
 ### 2. Professional
-1. 
+1. Breeder
+2. Criminal
+3. Doctor
+4. Educator
+5. Officer
+6. Researcher
+### 3. Government
 
 ### Modes
 1. Trainer Mode

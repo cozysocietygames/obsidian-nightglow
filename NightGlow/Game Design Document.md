@@ -29,8 +29,9 @@ React/Typescript, NodeJS
 In this alternate universe, Kyogre and Groudon wreaked havoc upon the lands and seas. The world must be rebuilt. People will rise to the occasion. Some deem it enough to restore order and find ways to coexist with such disasters. Others think any cost must be paid in order to prevent such a catastrophe from ever happening again.
 ### Modes
 1. Citizen Mode
-	 * This is the main mode of play accessible to everyone: you play as a trainer who catches and raises Pokemon. You complete commissions and quests to interact with your fellow players to avail of their services.
-	 * You also play as a
+	 * This is the main mode of play accessible to everyone: you play as a trainer who catches and raises Pokemon.
+	 * Aside from playing as a trainer, you also play as one Occupation-themed class of your choice and offer your services to other trainers.
+	 * As a citizen, you complete commissions given by the government to help aid the growth of the region, and complete quests to advance the main storyline.
 2. Government Mode
 	* This mode of gameplay is limited to those who manage to take over a gym. In this mode, you have a management interface to make decisions that steer the direction of the growth of the region.
 

@@ -13,8 +13,6 @@ React/Typescript, NodeJS
 
 ## Gameplay Outline
 
-### Main Storyline Synopsis
-In this alternate universe, Kyogre and Groudon wreaked havoc upon the lands and seas. The world must be rebuilt. People will rise to the occasion. Some deem it enough to restore order and find ways to coexist with such disasters. Others think any cost must be paid in order to prevent such a catastrophe from ever happening again.
 ### Modes
 1. Trainer Mode
 	 * This is the main mode of play accessible to everyone: you play as a trainer who catches and raises Pokemon.

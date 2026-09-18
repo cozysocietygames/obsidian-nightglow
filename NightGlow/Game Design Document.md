@@ -11,7 +11,14 @@ React/Typescript, NodeJS
 ---
 # Gameplay
 
-## Gameplay Outline
+## Game elements 
+1. Creature Collection + Pet sim
+2. Creature vs. Creature Battling
+3. Occupation-based RPG Classes
+4. Government/Economy Management Sandbox
+5. Quests and Commissions
+6. Limited RPG Adventure
+## Systems Overview
 
 ### Modes
 1. Trainer Mode
@@ -33,13 +40,7 @@ React/Typescript, NodeJS
 				* regulate public resources to be used by Citizens
 				* create systems of rewards for Citizens
 
-### Game elements 
-1. Creature Collection + Pet sim
-2. Creature vs. Creature Battling
-3. Occupation-based RPG Classes
-4. Government/Economy Management Sandbox
-5. Quests and Commissions
-6. Limited RPG Adventure
+
 ### Game Progression
 * Game is open-world so there are no true "game levels."
 * Game progression is soft-coded, player is guided by their Trainer Tier (E-D-C-B-A-S) and Professional Level. Higher tier trainers have an easier time taking on more difficult battles and challenges, Higher-level professionals have more privileges. 

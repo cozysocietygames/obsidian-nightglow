@@ -7,18 +7,36 @@ Some thousands can play at a time. (Real-time multiplayer limited to several pla
 2D graphics, with a Top-down Oblique view.
 ### Language
 React/Typescript, NodeJS
+### Player's Controls
+* Point-and-click (primarily)
 
 ---
 # Gameplay
 
-## Game elements 
+## Gameplay elements 
 1. Creature Collection + Pet sim
 2. Creature vs. Creature Battling
 3. Occupation-based RPG Classes
 4. Government/Economy Management Sandbox
 5. Quests and Commissions
 6. Limited RPG Adventure
+## Game Progression
+* Game is open-world so there are no true "game levels."
+* Game progression is soft-coded, player is guided by their Trainer Tier (E-D-C-B-A-S) and Professional Level. Higher tier trainers have an easier time taking on more difficult battles and challenges, Higher-level professionals have more privileges.
+## Winning and Losing
+* Completing the main storyline is the *individual* win state of the game. It is not a hard win state, as the ending of the game encourages the player to befriend the legendaries that they weren't able to befriend because they were locked out due to the story route they took.
+* Reaching "Steady State" is the *collective* win state of the game — ensuring that the government can handle any disasters that come its way while sustaining the needs of their players. 
+* Any Emergent Player-defined Goals
+## Why is this fun?
+* This gameplay is fun because it allows players to engage with the Pokemon World on a much broader scale outside of the Trainer framework provided in the canon games.
+* Player choices shape the shared world.
+
+# Design Document
+
 ## Systems Overview
+
+### 1. Trainer
+
 
 ### Modes
 1. Trainer Mode
@@ -40,30 +58,6 @@ React/Typescript, NodeJS
 				* regulate public resources to be used by Citizens
 				* create systems of rewards for Citizens
 
-
-### Game Progression
-* Game is open-world so there are no true "game levels."
-* Game progression is soft-coded, player is guided by their Trainer Tier (E-D-C-B-A-S) and Professional Level. Higher tier trainers have an easier time taking on more difficult battles and challenges, Higher-level professionals have more privileges. 
-### Player's Controls
-* Point-and-click (primarily)
-### Winning and Losing
-* Completing the main storyline is the *individual* win state of the game. It is not a hard win state, as the ending of the game encourages the player to befriend the legendaries that they weren't able to befriend because they were locked out due to the story route they took.
-* Reaching "Steady State" is the *collective* win state of the game — ensuring that the government can handle any disasters that come its way while sustaining the needs of their players. 
-* Any Emergent Player-defined Goals
-
-### Key Features
-1. Shared Persistent World that responds to individual and collective choices
-2. Player-run Government
-3. Occupation-themed Player Classes
-### Why is this fun?
-* This gameplay is fun because it allows players to engage with the Pokemon World on a much broader scale outside of the Trainer framework provided in the canon games.
-* Player choices shape the shared world.
-
-# Design Document
-
-## Design Guidelines
-## Game Design Definitions
-
 ### Core Concepts
 #### Regional Political Structure
 The political structure in each region is as follows:
@@ -76,4 +70,5 @@ The political structure in each region is as follows:
 #### National Political Structure
 * Politics on the National Level is highly abstracted, and only exists as a means for the developers to impose, via National Mandates, certain laws that must be there across all four regions: e.g. Regulations on bringing Pokemon who are not endemic to a region into that region.
 #### Currency
-* 
+
+

@@ -1,5 +1,8 @@
 # Pokemon NightGlow
 (somewhat outdated name)
+
+# Introduction
+
 ## Genre
 Pokemon-themed browser-based Sandbox MMO, City/Community Builder, Political/Economic Sim
 
@@ -12,8 +15,7 @@ Pokemon-themed browser-based Sandbox MMO, City/Community Builder, Political/Econ
 
 ## Players
 Some thousands can play at a time. (Real-time multiplayer limited to several players at a time.)
-
-# Technical Specs
+# Technical Overview
 
 ## Technical Form
 2D graphics

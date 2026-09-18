@@ -83,3 +83,7 @@ In this alternate universe, Kyogre and Groudon wreaked havoc upon the lands and 
 
 ## Game Design Definitions
 
+### Core Concepts
+#### Political Structure
+The political structure in each region is as follows:
+	**

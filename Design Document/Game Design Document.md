@@ -40,15 +40,16 @@ React/Typescript, NodeJS
 2. Adventure #Essential
 	1. Quests #Essential
 		* Quests are the checkpoints that a player must complete in order to advances the main storyline. Quests are hardcoded by the developers. Keep quests multi-purpose! 
-3. Exploration #Optional 
-### 2. Professional
-1. Breeder
-2. Criminal
-3. Doctor
-4. Educator
-5. Officer
-6. Researcher
-### 3. Government
+3. Exploration #Future 
+### 2. Professional #Essential 
+1. Breeder #Essential 
+2. Criminal #Essential 
+3. Doctor #Essential 
+4. Educator #Essential 
+5. Officer #Essential 
+6. Researcher #Essential 
+### 3. Government #Essential 
+1. 
 
 ### Modes
 1. Trainer Mode

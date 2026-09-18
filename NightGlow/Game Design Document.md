@@ -11,7 +11,7 @@ Pokemon-themed browser-based Sandbox MMO, City/Community Builder, Political/Econ
 * Play through a unique adventure and choose a side in a major conflict: befriend and defend the Legendary Pokemon, or aid the major organization scheming against them.
 
 ## Players
-A few thousands can play at a time. (Real-time multiplayer limited to several players at a time.)
+Some thousands can play at a time. (Real-time multiplayer limited to several players at a time.)
 
 # Technical Specs
 
@@ -69,4 +69,5 @@ In this alternate universe, Kyogre and Groudon wreaked havoc upon the lands and 
 ![[Design Guidelines]]
 
 ## Game Design Definitions
+
 1. 

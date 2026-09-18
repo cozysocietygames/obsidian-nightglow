@@ -18,5 +18,3 @@ aliases:
 > The mood on the individual scale will depend on how well the government tends to individuals' needs, but it is always supplemented with the joy of caring for your favorite Pokemon
 
 
-
-

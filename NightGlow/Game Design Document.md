@@ -86,4 +86,9 @@ In this alternate universe, Kyogre and Groudon wreaked havoc upon the lands and 
 ### Core Concepts
 #### Political Structure
 The political structure in each region is as follows:
-	**
+* The Elites
+	* A Champion - the topmost government official
+	* Elite Four - four government officials who are just under the Champion in terms of power
+* The Local Officials
+	* Gym Leaders - eight gym leaders who each govern a city or town of their own
+	* Assistant Gym Leaders - a

@@ -38,7 +38,8 @@ React/Typescript, NodeJS
 ### 1. System: Trainer #Essential
 1. Subsystem: Trainer Card
 	* The Trainer Card displays information about the Trainer such as:
-		* their T
+		* their Tier (E, D, C, B, A, S) which progresses as their Pokemon's strength reaches certain thresholds
+		* t
 * 
 1. Creature Collection #Essential
 	* Trainers are able to generate encounters with Wild Pokemon allowing them to battle and capture them. 

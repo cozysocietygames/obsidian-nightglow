@@ -40,10 +40,10 @@ In this alternate universe, Kyogre and Groudon wreaked havoc upon the lands and 
 			* demolition, relocation, and managing upgrades of old buildings
 			* management of accessory buildings like power/water
 		* Soft Infrastructure Decisions:
-			* management of government programs that:
-				* give benefits given to their citizens
-				* 
-			* management of government 
+			* management of regional laws and programs that:
+				* create commissions for citizens in Citizen Mode
+				* regulate public resources 
+				* create systems of rewards
 
 ### Game elements 
 1. Creature Collection + Pet sim

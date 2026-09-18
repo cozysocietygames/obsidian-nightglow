@@ -32,7 +32,8 @@ In this alternate universe, Kyogre and Groudon wreaked havoc upon the lands and 
 	 * This is the main mode of play accessible to everyone: you play as a trainer who catches and raises Pokemon.
 	 * As a citizen, you complete commissions given by the government to help aid the growth of the region, and complete quests to advance the main storyline.. 
 2. Professional Mode
-	* You also play as one Occupation-themed class of your choice and offer your services to other trainers.
+	* Secondary gameplay heavily depends on an Occupation-themed class of the Player's choice — choose from Breeder, Doctor, Criminal, Educator, Officer, or Researcher.
+		* e.g. If you play as a Criminal, most of Secondary Gameplay revolves around stealing other players' Pokemon or resources.
 3. Government Mode
 	* This mode of gameplay is limited to Government Officials. In this mode, you have a management interface to make decisions that allow you to administrate the region.
 	* Draft proposals and vote on proposals made by fellow Government Officials to decide:

@@ -35,7 +35,10 @@ In this alternate universe, Kyogre and Groudon wreaked havoc upon the lands and 
 2. Government Mode
 	* This mode of gameplay is limited to Government Officials. In this mode, you have a management interface to make decisions that allow you to administrate the region.
 	* Draft proposals and vote on proposals made by fellow Government Officials to decide:
-		* Hard Infrastruct
+		* Hard Infrastructure Decisions:
+			* placement of new buildings
+			* demolition, relocation, and managing upgrades of old buildings
+			* management of ac
 
 ### Game elements 
 1. Creature Collection + Pet sim

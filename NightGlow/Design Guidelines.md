@@ -14,6 +14,8 @@ aliases:
 
 > [!tip] Mood of the Game
 > Struggling against the harshness of nature, counterbalanced with the joy of caring for your favorite Pokemon
+> 
+> The mood on t
 
 
 

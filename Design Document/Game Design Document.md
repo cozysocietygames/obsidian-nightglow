@@ -40,7 +40,7 @@ React/Typescript, NodeJS
 	* Trainers are able to generate encounters with Wild Pokemon allowing them to battle and capture them. 
 2. Adventure #Essential
 	1. Quests #Essential
-		* Quests are the checkpoints that a player must complete in order to advances the main storyline. Quests are hardcoded by the developers. Keep quests multi-purpose! 
+		* Quests are the checkpoints that a player must complete in order to advances the main storyline. Quests are hardcoded by the developers. Keep quests multi-purpose!
 3. Exploration #Future 
 ### 2. Professional #Essential 
 1. Breeder #Essential 

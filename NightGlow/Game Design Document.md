@@ -33,7 +33,7 @@ In this alternate universe, Kyogre and Groudon wreaked havoc upon the lands and 
 	 * Aside from playing as a trainer, you also play as one Occupation-themed class of your choice and offer your services to other trainers.
 	 * As a citizen, you complete commissions given by the government to help aid the growth of the region, and complete quests to advance the main storyline.
 2. Government Mode
-	* This mode of gameplay is limited to those who manage to take over a gym. In this mode, you have a management interface to make decisions that steer the direction of the growth of the region.
+	* This mode of gameplay is limited to those who manage to take over a gym or beat of the Elite Four in take-over mode. In this mode, you have a management interface to make decisions that steer the direction of the growth of the region.
 
 ### Game elements 
 1. Creature Collection + Pet sim

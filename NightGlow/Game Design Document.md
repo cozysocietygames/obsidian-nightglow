@@ -36,7 +36,7 @@ In this alternate universe, Kyogre and Groudon wreaked havoc upon the lands and 
 		* e.g. If you play as a Criminal, most of Secondary Gameplay revolves around stealing other players' Pokemon or resources.
 3. Government Mode
 	* This mode of gameplay is limited to Government Officials. In this mode, you have a management interface to make decisions that allow you to administrate the region.
-	* Draft proposals and vote on proposals made by fellow Government Officials to decide:
+	* Draft proposals and vote on proposals drafted by fellow Government Officials to decide:
 		* Hard Infrastructure Decisions:
 			* placement of new buildings
 			* demolition, relocation, and managing upgrades of old buildings
@@ -44,8 +44,8 @@ In this alternate universe, Kyogre and Groudon wreaked havoc upon the lands and 
 		* Soft Infrastructure Decisions:
 			* management of regional laws and programs that:
 				* create commissions for citizens to do in Citizen Mode
-				* regulate public resources to be used by Citizens
-				* create systems of rewards
+				* regulate public resources to be used by Citizens and Professionals
+				* create systems of rewards for Citi
 
 ### Game elements 
 1. Creature Collection + Pet sim

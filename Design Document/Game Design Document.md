@@ -33,10 +33,15 @@ React/Typescript, NodeJS
 
 # Design Document
 
-## Systems Overview
+## Systems
 
-### 1. Trainer
+### 1. Trainer #Essential
+1. Creature Collection #Essential
+2. Adventure #Essential
+3. Exploration #Optional 
 
+### 2. Professional
+1. 
 
 ### Modes
 1. Trainer Mode

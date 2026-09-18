@@ -1,6 +1,7 @@
 # Pokemon NightGlow
 (legacy name)
 
+---
 # Introduction
 
 ## Genre
@@ -21,6 +22,8 @@ Some thousands can play at a time. (Real-time multiplayer limited to several pla
 Web browsers on PC and Mobile, possibly Mobile App in the future
 ### Language
 React/Typescript, NodeJS
+
+---
 # Gameplay
 
 ## Gameplay Outline
@@ -64,13 +67,13 @@ In this alternate universe, Kyogre and Groudon wreaked havoc upon the lands and 
 * Reaching "Steady State" is the *collective* win state of the game — ensuring that the government can handle any disasters that come its way while sustaining the needs of their players. 
 * Any Emergent Player-defined Goals
 
+### Key Features
+1. Player-run Government
+2. Occupation-themed Player Classes
 ### Why is this fun?
 * This gameplay is fun because it allows players to engage with the Pokemon World on a much broader scale outside of the Trainer framework provided in the canon games.
 * Player choices shape the shared world.
 
-### Key Features
-1. Player-run Government
-2. Occupation-themed Player Classes
 # Design Document
 
 ## Design Guidelines

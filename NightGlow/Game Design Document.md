@@ -62,9 +62,6 @@ React/Typescript, NodeJS
 # Design Document
 
 ## Design Guidelines
-
-![[Design Guidelines]]
-
 ## Game Design Definitions
 
 ### Core Concepts

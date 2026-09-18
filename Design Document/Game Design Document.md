@@ -39,7 +39,7 @@ React/Typescript, NodeJS
 1. Creature Collection #Essential
 2. Adventure #Essential
 	1. Quests #Essential
-		* Quests are the checkpoints that a player must complete i the player advances the main storyline. 
+		* Quests are the checkpoints that a player must complete in order to advances the main storyline. Quests are hardcoded by the developers. Keep quests multi-purpose! 
 3. Exploration #Optional 
 ### 2. Professional
 1. Breeder

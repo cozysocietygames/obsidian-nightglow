@@ -51,7 +51,7 @@ In this alternate universe, Kyogre and Groudon wreaked havoc upon the lands and 
 1. Creature Collection + Pet sim
 2. Creature vs. Creature Battling
 3. Occupation-based RPG Classes
-4. Governement/Economy Management Sandbox
+4. Government/Economy Management Sandbox
 5. Quests and Commissions
 6. Limited RPG Adventure
 ### Game Progression

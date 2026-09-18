@@ -1,11 +1,7 @@
-# Pokemon NightGlow
-(legacy name)
 
 ---
 # Introduction
 
-## Genre
-Pokemon-themed browser-based Sandbox MMO, City/Community Builder, Political/Economic Sim 
 ## Game Overview
 * Collect and care for your favorite Pokemon them to help them grow in ways that surpass their canon capabilities, and unleash their full potential in Pokemon battles
 * Play as a Breeder, Doctor, Criminal, Educator, Officer, or Researcher as your side gig and provide your services to other players
@@ -18,8 +14,6 @@ Some thousands can play at a time. (Real-time multiplayer limited to several pla
 
 ### Technical Form
 2D graphics, with a Top-down Oblique view.
-### Platform & Devices
-Web browsers on PC and Mobile, possibly Mobile App in the future
 ### Language
 React/Typescript, NodeJS
 

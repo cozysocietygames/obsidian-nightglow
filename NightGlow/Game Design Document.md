@@ -6,6 +6,8 @@
 ## Genre
 Pokemon-themed browser-based Sandbox MMO, City/Community Builder, Political/Economic Sim
 
+## Player Exper
+
 ## Game Elements
 * Collect and care for your favorite Pokemon them to help them grow in ways that surpass their canon capabilities, and unleash their full potential in Pokemon battles
 * Play as a Pokemon Breeder, Doctor, Criminal, Educator, Officer, and Researcher as your side gig and provide your services to other players
@@ -15,18 +17,14 @@ Pokemon-themed browser-based Sandbox MMO, City/Community Builder, Political/Econ
 
 ## Players
 Some thousands can play at a time. (Real-time multiplayer limited to several players at a time.)
-# Technical Overview
+## Technical Overview
 
-## Technical Form
-2D graphics
-## View
-Top-down Oblique
-## Platform
-Web browser, possibly Mobile App in the future
-## Language
+### Technical Form
+2D graphics, with a Top-down Oblique view.
+### Platform & Devices
+Web browsers on PC and Mobile, possibly Mobile App in the future
+### Language
 React/Typescript, NodeJS
-## Device
-PC, Mobile
 
 # Gameplay
 

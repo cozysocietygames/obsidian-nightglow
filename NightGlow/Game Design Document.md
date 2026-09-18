@@ -38,7 +38,12 @@ In this alternate universe, Kyogre and Groudon wreaked havoc upon the lands and 
 		* Hard Infrastructure Decisions:
 			* placement of new buildings
 			* demolition, relocation, and managing upgrades of old buildings
-			* management of ac
+			* management of accessory buildings like power/water
+		* Soft Infrastructure Decisions:
+			* management of government programs that:
+				* give benefits given to their citizens
+				* 
+			* management of government 
 
 ### Game elements 
 1. Creature Collection + Pet sim

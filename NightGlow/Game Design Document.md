@@ -92,6 +92,5 @@ The political structure in each region is as follows:
 * The Local Officials
 	* Gym Leaders - eight gym leaders who each govern a city or town of their own
 	* Assistant Gym Leaders - assistants who can make decisions when the Gym Leaders are unavailable
-
 #### National Political Structure
-* Politics on the National Level is highly abstracted, and only exists as a means for the developers There is an unspecified topmost official who isn't discussed much. 
+* Politics on the National Level is highly abstracted, and only exists as a means for the developers to impose, via National Mandates, certain laws that must be there across all four regions: e.g. Regulations on bringing Pokemon who are not endemic to a region into that region.

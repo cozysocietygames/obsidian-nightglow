@@ -68,8 +68,9 @@ In this alternate universe, Kyogre and Groudon wreaked havoc upon the lands and 
 * Any Emergent Player-defined Goals
 
 ### Key Features
-1. Player-run Government
-2. Occupation-themed Player Classes
+1. Shared Persistent World that responds to individual and collective choices
+2. Player-run Government
+3. Occupation-themed Player Classes
 ### Why is this fun?
 * This gameplay is fun because it allows players to engage with the Pokemon World on a much broader scale outside of the Trainer framework provided in the canon games.
 * Player choices shape the shared world.
@@ -82,4 +83,3 @@ In this alternate universe, Kyogre and Groudon wreaked havoc upon the lands and 
 
 ## Game Design Definitions
 
-1. 

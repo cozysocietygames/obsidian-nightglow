@@ -37,6 +37,7 @@ React/Typescript, NodeJS
 
 ### 1. Trainer #Essential
 1. Creature Collection #Essential
+	* Trainers are able to generate encounters with Wild Pokemon allowing them to battle and capture them. 
 2. Adventure #Essential
 	1. Quests #Essential
 		* Quests are the checkpoints that a player must complete in order to advances the main storyline. Quests are hardcoded by the developers. Keep quests multi-purpose! 

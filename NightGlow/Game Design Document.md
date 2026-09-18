@@ -1,5 +1,5 @@
 # Pokemon NightGlow
-(somewhat outdated name)
+(legacy name)
 
 # Introduction
 

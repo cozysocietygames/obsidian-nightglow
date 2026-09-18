@@ -6,7 +6,7 @@ Pokemon-themed browser-based Sandbox MMO, City/Community Builder, Political/Econ
 
 ### Inspirations
 1. Pokemon - creature collector adventure JRPG.
-2. Wonderland Online - MMORPG where you can capture pets, and fight alongside them. You can also fight alongside companions.
+2. Wonderland Online - MMORPG where you can capture pets, and fight alongside them. It features a unique movable player-housing system supported by a rich crafting sys
 3. Anno1777 - Browser-based Political/Economic Sim.
 ## Platform & Devices
 Web browsers on PC and Mobile, possibly Mobile App in the future

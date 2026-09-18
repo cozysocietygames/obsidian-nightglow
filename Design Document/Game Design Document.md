@@ -39,7 +39,7 @@ React/Typescript, NodeJS
 1. Subsystem: Trainer Card
 	* The Trainer Card displays information about the Trainer such as:
 		* their Stars which they gain when they complete certain requirements such as finishing the story
-		* their Tier (E, D, C, B, A, S) which progresses as their Pokemon's levels   #discuss
+		* their Tier (E, D, C, B, A, S) which progresses as their Pokemon's strengths reach certain thresholds  #discuss
 		* 
 		* game achievements of their choice
 		* 

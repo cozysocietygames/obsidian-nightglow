@@ -28,9 +28,9 @@ React/Typescript, NodeJS
 ### Main Storyline Synopsis
 In this alternate universe, Kyogre and Groudon wreaked havoc upon the lands and seas. The world must be rebuilt. People will rise to the occasion. Some deem it enough to restore order and find ways to coexist with such disasters. Others think any cost must be paid in order to prevent such a catastrophe from ever happening again.
 ### Modes
-1. Citizen Mode
+1. Trainer Mode
 	 * This is the main mode of play accessible to everyone: you play as a trainer who catches and raises Pokemon.
-	 * As a citizen, you complete commissions given by the government to help aid the growth of the region, and complete quests to advance the main storyline.. 
+	 * Complete commissions given by the government to help aid the growth of the region, and complete quests to advance the main storyline.
 2. Professional Mode
 	* Secondary gameplay heavily depends on an Occupation-themed class of the Player's choice — choose from Breeder, Doctor, Criminal, Educator, Officer, or Researcher.
 		* e.g. If you play as a Criminal, most of Secondary Gameplay revolves around stealing other players' Pokemon or resources.
@@ -44,8 +44,8 @@ In this alternate universe, Kyogre and Groudon wreaked havoc upon the lands and 
 		* Soft Infrastructure Decisions:
 			* management of regional laws and programs that:
 				* create commissions for citizens to do in Citizen Mode
-				* regulate public resources to be used by Citizens and Professionals
-				* create systems of rewards for Citi
+				* regulate public resources to be used by Citizens
+				* create systems of rewards for Citizens
 
 ### Game elements 
 1. Creature Collection + Pet sim

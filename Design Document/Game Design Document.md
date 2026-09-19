@@ -44,7 +44,10 @@ React/Typescript, NodeJS
 		* game achievements of their choice
 2. Subsystem: Pokedex
 	* The Pokedex contains a record for all Pokemon that can be encountered.
-	* Each record has three basic states: Known, Seen, and Obtained. 
+	* Each record has three states: Seen, Known, Obtained.
+		* A Pokemon's record starts at the basic state: Known.
+		* When a Pokemon is encountered, its record is updated to Seen.
+		* If it is capturedObtained.
 	1. Familiarity #Essential 
 		* A Trainer has a familiarity value towards each of the Pokemon they can encounter. Higher values lead to better chances of capturing the Pokemon. #discuss
 			* At the start of the game, they are given a higher starting value for Familiarity towards certain common Pokemon in their chosen starting Region. 

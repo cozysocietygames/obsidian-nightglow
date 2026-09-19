@@ -45,11 +45,13 @@ React/Typescript, NodeJS
 2. Subsystem: Familiarity #Essential 
 	* A Trainer has a familiarity value towards each of the Pokemon they can encounter. Higher values lead to better chances of capturing the Pokemon. #discuss
 		* At the start of the game, they are given a higher starting value for Familiarity towards certain common Pokemon in their chosen starting Region. 
-		* At the start of the game, they are given a choice of a favorite Pokemon in each Region, and they are given a higher starting value for Familiarity. 
+		* At the start of the game, they will be asked to select a favorite Pokemon in each Region; their selections are given a higher starting value for Familiarity.
 3. Subsystem: 
-
-### System: Creature Collection #Essential
-	* Trainers are able to generate encounters with Wild Pokemon allowing them to battle and capture them. 
+### System: Ecosystem
+1. Subsystem: 
+Creature Collection #Essential
+Trainers are able to generate encounters with Wild Pokemon allowing them to battle and capture them. 
+2. Subsystem: Ecosystem and Creature Distribution
 3. Adventure #Essential
 	1. Quests #Essential
 		* Quests are the checkpoints that a player must complete in order to advances the main storyline. Quests are hardcoded by the developers. Keep quests multi-purpose!

@@ -54,8 +54,9 @@ React/Typescript, NodeJS
 			* At the start of the game, they will be asked to identify a favorite Pokemon in each Region; their selections are given a higher starting value for Familiarity. Legendaries are not included in the selection.
 3. Subsystem: 
 ### System: Ecosystem
-1. Subsystem: Endemic
-	* An initial database of how creatures are initdistributed. which Pokemon are endemic to certain maps and regions.
+1. Subsystem: Geographic Distribution
+	* Create an initial database of how Pokemon are initially distributed across maps, along with what times they are active and a number .
+		* This implicitly decides which Pokemon are endemic to each region.
 2. Subsystem
 Creature Collection #Essential
 Trainers are able to generate encounters with Wild Pokemon allowing them to battle and capture them. 

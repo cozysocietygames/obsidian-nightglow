@@ -55,8 +55,11 @@ React/Typescript, NodeJS
 3. Subsystem: 
 ### System: Ecosystem
 1. Subsystem: Geographic Distribution
-	* Create an initial database of how Pokemon are initially distributed across maps, along with what times they are active and a number .
+	* Create an initial database of how Pokemon are initially distributed across maps, along with what times they are active and a population number.
 		* This implicitly decides which Pokemon are endemic to each region.
+	1. Subsystem: Population Fluctuation #Future
+		* Every day, the population numbers of each map is recomputed based on their 
+		* When a Pokemon is captured, their population number is decreased.
 2. Subsystem
 Creature Collection #Essential
 Trainers are able to generate encounters with Wild Pokemon allowing them to battle and capture them. 

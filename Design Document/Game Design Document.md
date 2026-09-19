@@ -48,14 +48,16 @@ React/Typescript, NodeJS
 		* At the start of the game, they will be asked to select a favorite Pokemon in each Region; their selections are given a higher starting value for Familiarity.
 3. Subsystem: 
 ### System: Ecosystem
-1. Subsystem: 
+1. Subsystem: Endemic
+	* An initial database is kept, deciding which Pokemon are endemic to certain maps and regions.
+2. Subsystem
 Creature Collection #Essential
 Trainers are able to generate encounters with Wild Pokemon allowing them to battle and capture them. 
-2. Subsystem: Ecosystem and Creature Distribution
-3. Adventure #Essential
+3. Subsystem: Ecosystem and Creature Distribution
+4. Adventure #Essential
 	1. Quests #Essential
 		* Quests are the checkpoints that a player must complete in order to advances the main storyline. Quests are hardcoded by the developers. Keep quests multi-purpose!
-4. Exploration #Future 
+5. Exploration #Future 
 ### 2. Professional #Essential 
 1. Breeder #Essential 
 2. Criminal #Essential 

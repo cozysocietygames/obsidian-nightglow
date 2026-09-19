@@ -59,7 +59,7 @@ React/Typescript, NodeJS
 		* This implicitly decides which Pokemon are endemic to each region.
 	1. Subsystem: Population Fluctuation #Future
 		* Every day, the population numbers of each species on each map is recomputed based on their symbiotic relationships with other species.
-			* Keep relationships simple, like: Predation, Commensalism, 
+			* Relationships are abstracted by an alpha coefficient. See [[Lotka-Volterra simulation]].  
 		* When a Pokemon is captured, their population number is decreased.
 2. Subsystem
 Creature Collection #Essential

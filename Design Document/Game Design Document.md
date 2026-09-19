@@ -43,8 +43,9 @@ React/Typescript, NodeJS
 		* gym badges
 		* game achievements of their choice
 2. Subsystem: Familiarity #Essential 
-	1.
-3. Subsystem:
+	* A Trainer has a familiarity value towards each of the Pokemon they can encounter. Higher values lead to better chances of capturing the Pokemon.
+		* At the start of the game, they are given a one-time Familiarity bonus towards certain common Pokemon in their chosen starting Region. 
+3. Subsystem: 
 
 ### System: Creature Collection #Essential
 	* Trainers are able to generate encounters with Wild Pokemon allowing them to battle and capture them. 

@@ -38,18 +38,11 @@ React/Typescript, NodeJS
 ### 1. System: Trainer #Essential
 1. Subsystem: Trainer Card
 	* The Trainer Card displays information about the Trainer such as:
-		* their Stars which they gain when they complete certain requirements such as finishing certain parts of the story
+		* Stars which they can gain when they complete certain iconic requirements #discuss
 		* their Tier (E, D, C, B, A, S) which progresses as their Pokemon's strengths reach certain thresholds  #discuss
 		* gym badges
-		* pokemon showcase
 		* game achievements of their choice
-* 
-1. Creature Collection #Essential
-	* Trainers are able to generate encounters with Wild Pokemon allowing them to battle and capture them. 
-2. Adventure #Essential
-	1. Quests #Essential
-		* Quests are the checkpoints that a player must complete in order to advances the main storyline. Quests are hardcoded by the developers. Keep quests multi-purpose!
-3. Exploration #Future 
+2.
 ### 2. Professional #Essential 
 1. Breeder #Essential 
 2. Criminal #Essential 

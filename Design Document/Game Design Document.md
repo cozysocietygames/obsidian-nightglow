@@ -45,7 +45,7 @@ React/Typescript, NodeJS
 2. Subsystem: Familiarity #Essential 
 	* A Trainer has a familiarity value towards each of the Pokemon they can encounter. Higher values lead to better chances of capturing the Pokemon. #discuss
 		* At the start of the game, they are given a higher starting value for Familiarity towards certain common Pokemon in their chosen starting Region. 
-		* At the start of the game, they will be asked to select a favorite Pokemon in each Region; their selections are given a higher starting value for Familiarity.
+		* At the start of the game, they will be asked to identify a favorite Pokemon in each Region; their selections are given a higher starting value for Familiarity. Legendaries are not included in the selection.
 3. Subsystem: 
 ### System: Ecosystem
 1. Subsystem: Endemic

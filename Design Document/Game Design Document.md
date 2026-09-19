@@ -58,7 +58,8 @@ React/Typescript, NodeJS
 	* Create an initial database of how Pokemon are initially distributed across maps, along with what times they are active and a population number.
 		* This implicitly decides which Pokemon are endemic to each region.
 	1. Subsystem: Population Fluctuation #Future
-		* Every day, the population numbers of each map is recomputed based on their 
+		* Every day, the population numbers of each species on each map is recomputed based on their relationships to other species.
+			* Keep relationships simple, like: Predation,
 		* When a Pokemon is captured, their population number is decreased.
 2. Subsystem
 Creature Collection #Essential

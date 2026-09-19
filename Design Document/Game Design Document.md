@@ -42,10 +42,13 @@ React/Typescript, NodeJS
 		* their Tier (E, D, C, B, A, S) which progresses as their Pokemon's strengths reach certain thresholds  #discuss
 		* gym badges
 		* game achievements of their choice
-2. Subsystem: Familiarity #Essential 
-	* A Trainer has a familiarity value towards each of the Pokemon they can encounter. Higher values lead to better chances of capturing the Pokemon. #discuss
-		* At the start of the game, they are given a higher starting value for Familiarity towards certain common Pokemon in their chosen starting Region. 
-		* At the start of the game, they will be asked to identify a favorite Pokemon in each Region; their selections are given a higher starting value for Familiarity. Legendaries are not included in the selection.
+2. Subsystem: Pokedex
+	* The Pokedex contains a record for all Pokemon that can be encountered.
+	* Each record has three basic states: Known, Seen, and Obtained. 
+	1. Familiarity #Essential 
+		* A Trainer has a familiarity value towards each of the Pokemon they can encounter. Higher values lead to better chances of capturing the Pokemon. #discuss
+			* At the start of the game, they are given a higher starting value for Familiarity towards certain common Pokemon in their chosen starting Region. 
+			* At the start of the game, they will be asked to identify a favorite Pokemon in each Region; their selections are given a higher starting value for Familiarity. Legendaries are not included in the selection.
 3. Subsystem: 
 ### System: Ecosystem
 1. Subsystem: Endemic

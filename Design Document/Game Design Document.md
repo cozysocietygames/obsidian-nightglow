@@ -64,17 +64,17 @@ React/Typescript, NodeJS
 2. Subsystem
 
 ### System: Pokemon
-1. Subsystem: Canon Capabilities
-	* Pokemon have the base stats and learnable moves as they do in the games.
+1. Subsystem: Creature Collection #Essential
+	* Trainers are able to generate encounters with Wild Pokemon allowing them to battle and capture them.
 	* 
-2. Subsystem: Creature Collection #Essential
+2. Subsystem: Pokemon Battle #Essential
+	* Pokemon have the base stats and learnable moves as they do in the games.
 3. 
-Trainers are able to generate encounters with Wild Pokemon allowing them to battle and capture them. 
-3. Subsystem: Ecosystem and Creature Distribution
-4. Adventure #Essential
+4. Subsystem: Ecosystem and Creature Distribution
+5. Adventure #Essential
 	1. Quests #Essential
 		* Quests are the checkpoints that a player must complete in order to advances the main storyline. Quests are hardcoded by the developers. Keep quests multi-purpose!
-5. Exploration #Future 
+6. Exploration #Future 
 ### 2. Professional #Essential 
 1. Breeder #Essential 
 2. Criminal #Essential 

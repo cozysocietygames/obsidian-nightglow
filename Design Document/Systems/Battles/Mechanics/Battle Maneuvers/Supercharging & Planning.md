@@ -6,3 +6,6 @@ Pokemon can use [SP](SP.md) to supercharge their main move, applying their Cool 
 - On the first round, `p` is a low number, like `30%`.
 - `p` increases by an amount each round, tentatively `10%`.
 
+> [!info] Analysis
+> 
+> We ddddd

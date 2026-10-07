@@ -66,10 +66,11 @@ React/Typescript, NodeJS
 ### System: Pokemon
 1. Subsystem: Creature Collection #Essential
 	* Trainers are able to generate encounters with Wild Pokemon allowing them to battle and capture them.
-	* 
 2. Subsystem: Pokemon Battle #Essential
-	* Pokemon have the base stats and learnable moves as they do in the games.
-3. 
+	* Pokemon have the base stats and learnable moves as they do in Gen VI.
+	* Battle mechanics work according to Gen VI canon.
+3. Subsystem: Appeal Stats #Essential 
+	* Pokemon have 
 4. Subsystem: Ecosystem and Creature Distribution
 5. Adventure #Essential
 	1. Quests #Essential

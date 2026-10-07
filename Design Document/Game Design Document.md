@@ -69,8 +69,10 @@ React/Typescript, NodeJS
 2. Subsystem: Pokemon Battle #Essential
 	* Pokemon have the base stats and learnable moves as they do in Gen VI.
 	* Battle mechanics work according to Gen VI canon.
+	1. Subsystem: Supplementary Battle Mechanics
+		* Pokemon have Appeal Stats
 3. Subsystem: Appeal Stats #Essential 
-	* Pokemon have 
+	* Pokemon have Appeal Stats just like in S/R/E and ORAS, but they 
 4. Subsystem: Ecosystem and Creature Distribution
 5. Adventure #Essential
 	1. Quests #Essential

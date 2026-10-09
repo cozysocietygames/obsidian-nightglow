@@ -8,5 +8,5 @@ Pokemon can use [SP](SP.md) to supercharge their main move, applying their Cool 
 
 > [!info] Analysis
 > 
-> We designed it this way because we didn't want them using this maneuver right away. 
+> We designed it this way because we didn't want them using this maneuver right away. But if we make SP something that they gain through battle...
 > 

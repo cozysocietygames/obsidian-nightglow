@@ -1,3 +1,5 @@
+#Essential 
+
 %% Begin Landmark %%
 - **Mechanics**
 	- **[[Battle Maneuvers]]**

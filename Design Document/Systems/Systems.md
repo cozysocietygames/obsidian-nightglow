@@ -1,15 +1,4 @@
 %% Begin Waypoint %%
-- **Battles**
-	- **Mechanics**
-		- **[[Battle Maneuvers]]**
-			- [[Defensive Maneuver]]
-			- [[Last Stand]]
-			- [[Multiple Attacks]]
-			- [[Supercharging & Planning]]
-		- [[Fifth Move]]
-		- [[SP]]
-	- [[Battles Design]]
-	- [[Pokemon Battles]]
 - **Economy**
 	- [[Economy Design]]
 - **Occupations**
@@ -19,6 +8,7 @@
 	- [[Educator]]
 	- [[Officer]]
 	- [[Player]]
+- **[[System - Battle]]**
 - [[System Template]]
 
 %% End Waypoint %%

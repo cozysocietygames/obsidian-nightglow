@@ -1,4 +1,4 @@
-#Essential 
+#essential 
 
 %% Begin Landmark %%
 - **Mechanics**

@@ -35,20 +35,20 @@ React/Typescript, NodeJS
 
 ## Systems
 
-### System: Trainer #Essential
-1. Subsystem: Trainer Card #Essential 
+### System: Trainer #essential
+1. Subsystem: Trainer Card #essential 
 	* The Trainer Card displays information about the Trainer such as:
 		* Stars which they can gain when they complete certain iconic requirements #discuss
 		* their Tier (E, D, C, B, A, S) which progresses as their Pokemon's strengths reach certain thresholds  #discuss
 		* gym badges
 		* game achievements of their choice
-2. Subsystem: Pokedex #Essential
+2. Subsystem: Pokedex #essential
 	* The Pokedex contains a record for all Pokemon that can be encountered.
 	* Each record has three states: Seen, Known, Obtained.
 		* A Pokemon's record starts at the basic state: Known.
 		* When a Pokemon is encountered, its record is updated to Seen.
 		* If it is captured (or in the case of the Legendaries, temporarily recruited), its record's state changes to Obtained.
-	1. Subsystem: Familiarity #Essential 
+	1. Subsystem: Familiarity #essential 
 		* A Trainer has a familiarity value towards each of the Pokemon they can encounter. Higher values lead to better chances of capturing the Pokemon. #discuss
 			* At the start of the game, they are given a higher starting value for Familiarity towards certain common Pokemon in their chosen starting Region. 
 			* At the start of the game, they will be asked to identify a favorite Pokemon in each Region; their selections are given a higher starting value for Familiarity. Legendaries are not included in the selection.
@@ -67,28 +67,28 @@ React/Typescript, NodeJS
 * Pokemon have the base stats and learnable moves as they do in Gen VI.
 * Pokemon have Appeal Stats just like in S/R/E and ORAS, but they affect battle mechanics in a supplementary way.
 * 
-1. Subsystem: Creature Collection #Essential
+1. Subsystem: Creature Collection #essential
 	* Trainers are able to generate encounters with Wild Pokemon allowing them to battle and capture them.
-2. Subsystem: Pokemon Battle #Essential
+2. Subsystem: Pokemon Battle #essential
 	* 
 	* Battle mechanics work according to Gen VI canon.
 	1. Subsystem: Supplementary Battle Mechanics
 		* Pokemon have Appeal Stats
-3. Subsystem: Appeal Stats #Essential 
+3. Subsystem: Appeal Stats #essential 
 	* Pokemon have Appeal Stats just like in S/R/E and ORAS, but they affect supplementary battle mechanics
 4. Subsystem: Ecosystem and Creature Distribution
 ### System: Progression
-1. Subsystem: Quests #Essential 
+1. Subsystem: Quests #essential 
 	* Quests are the checkpoints that a player must complete in order to advances the main storyline. Quests are hardcoded by the developers. Keep quests multi-purpose!
 2. Exploration #Future 
-### 2. Professional #Essential 
-1. Breeder #Essential 
-2. Criminal #Essential 
-3. Doctor #Essential 
-4. Educator #Essential 
-5. Officer #Essential 
-6. Researcher #Essential 
-### 3. Government #Essential 
+### 2. Professional #essential 
+1. Breeder #essential 
+2. Criminal #essential 
+3. Doctor #essential 
+4. Educator #essential 
+5. Officer #essential 
+6. Researcher #essential 
+### 3. Government #essential 
 1. 
 
 ### Modes

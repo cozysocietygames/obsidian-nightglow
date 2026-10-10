@@ -1,4 +1,10 @@
-#tag
+```yaml
+---
+tags:
+  - 
+---
+```
+
 %% Landmark
 %%
 # Objectives

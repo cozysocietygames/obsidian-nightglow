@@ -74,10 +74,10 @@ React/Typescript, NodeJS
 3. Subsystem: Appeal Stats #Essential 
 	* Pokemon have Appeal Stats just like in S/R/E and ORAS, but they 
 4. Subsystem: Ecosystem and Creature Distribution
-5. Adventure #Essential
-	1. Quests #Essential
+### System: Progression
+1. Subsystem: Quests #Essential
 		* Quests are the checkpoints that a player must complete in order to advances the main storyline. Quests are hardcoded by the developers. Keep quests multi-purpose!
-6. Exploration #Future 
+2. Exploration #Future 
 ### 2. Professional #Essential 
 1. Breeder #Essential 
 2. Criminal #Essential 

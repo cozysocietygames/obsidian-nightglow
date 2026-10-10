@@ -10,4 +10,14 @@
 %%  How the system works, in technical language, as specific as possible. %%
 
 # Balance
+%% Progression calculations, level scaling, probabilities. For smaller systems, a table is enough. %%
+
+# Analytics
+%% Data to track. %%
+
+
+
+%% Optional Sections
+# Art
+# Audio
 

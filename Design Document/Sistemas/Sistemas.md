@@ -19,7 +19,7 @@
 		- [[SP]]
 	- [[Battles Design]]
 	- [[Pokemon Battles]]
-- [[System Template]]
+- [[Sistema Template]]
 
 %% End Waypoint %%
 

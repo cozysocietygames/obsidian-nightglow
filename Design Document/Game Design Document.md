@@ -72,7 +72,7 @@ React/Typescript, NodeJS
 	1. Subsystem: Supplementary Battle Mechanics
 		* Pokemon have Appeal Stats
 3. Subsystem: Appeal Stats #Essential 
-	* Pokemon have Appeal Stats just like in S/R/E and ORAS, but they 
+	* Pokemon have Appeal Stats just like in S/R/E and ORAS, but they affect supplementary battle mechanics
 4. Subsystem: Ecosystem and Creature Distribution
 ### System: Progression
 1. Subsystem: Quests #Essential 

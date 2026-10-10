@@ -1,4 +1,4 @@
-%% Begin Waypoint %%
+%% Begin Landmark %%
 - **Mechanics**
 	- **[[Battle Maneuvers]]**
 		- [[Defensive Maneuver]]
@@ -9,5 +9,7 @@
 	- [[SP]]
 - [[Battles Design]]
 - [[Pokemon Battles]]
+%% End Landmark %%
 
-%% End Waypoint %%
+
+

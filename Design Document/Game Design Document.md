@@ -64,10 +64,13 @@ React/Typescript, NodeJS
 2. Subsystem
 
 ### System: Pokemon
+* Pokemon have the base stats and learnable moves as they do in Gen VI.
+* Pokemon have Appeal Stats just like in S/R/E and ORAS, but they affect battle mechanics in a supplementary way.
+* 
 1. Subsystem: Creature Collection #Essential
 	* Trainers are able to generate encounters with Wild Pokemon allowing them to battle and capture them.
 2. Subsystem: Pokemon Battle #Essential
-	* Pokemon have the base stats and learnable moves as they do in Gen VI.
+	* 
 	* Battle mechanics work according to Gen VI canon.
 	1. Subsystem: Supplementary Battle Mechanics
 		* Pokemon have Appeal Stats

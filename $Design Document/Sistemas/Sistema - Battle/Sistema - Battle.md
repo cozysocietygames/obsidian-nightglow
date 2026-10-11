@@ -1,3 +1,4 @@
+# Index
 %% Begin Landmark %%
 - **Mechanics**
 	- **[[Battle Maneuvers]]**
@@ -10,7 +11,6 @@
 	- [[SP]]
 - [[Battles Design]]
 - [[Pokemon Battles]]
-
 %% End Landmark %%
 
 # Objectives
@@ -23,7 +23,6 @@
 %% Progression calculations, level scaling, probabilities. For smaller systems, a table is enough. %%
 # Analytics
 %% Data to track. %%
-Gather battle data to train our own custom AI.
 # References
 %% References needed to understand the system. %%
 
@@ -31,5 +30,4 @@ Gather battle data to train our own custom AI.
 
 # Art
 # Audio
-
 

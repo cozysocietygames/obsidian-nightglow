@@ -1,5 +1,4 @@
-![[Base.base]]
-
+# Index
 %% Landmark
 %%
 # Objectives

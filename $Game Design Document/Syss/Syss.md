@@ -1,26 +1,25 @@
 %% Begin Waypoint %%
-- **[[Sistema - Battle]]**
-	- **Mechanics**
+- **[[Sys - Battle]]**
+	- **[[Subsys - Supplementary Mechanics]]**
 		- **[[Battle Maneuvers]]**
 			- [[Defensive Maneuver]]
 			- [[Last Stand]]
 			- [[Multiple Attacks]]
 			- [[Supercharging & Planning]]
 		- [[Fifth Move]]
-	- **[[Subsistema - Supplementary Mechanics]]**
 		- [[SP]]
-	- [[Pokemon Battles]]
-- **Sistema - Economy**
+- **Sys - Economy**
 	- [[Economy Design]]
-- **[[Sistema - Occupations]]**
+- **Sys - Occupations**
 	- [[Breeder]]
 	- [[Criminal]]
 	- [[Doctor]]
 	- [[Educator]]
 	- [[Officer]]
 	- [[Player]]
-- **[[Sistema - Trainer]]**
-	- **Subsistema - Collecting Pokemon**
+	- [[Sistema - Occupations]]
+- **[[Sys - Trainer]]**
+	- **[[Subsys - Collecting and Training Pokemon]]**
 
 %% End Waypoint %%
 

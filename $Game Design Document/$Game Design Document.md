@@ -1,5 +1,5 @@
 %% Begin Waypoint %%
-- **[[Sistemas]]**
+- **[[Syss]]**
 - [[Conceptual Design Document]]
 - [[Design Guidelines]]
 

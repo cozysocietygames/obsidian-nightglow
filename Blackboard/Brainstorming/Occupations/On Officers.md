@@ -37,6 +37,7 @@ A Hot or Warm Case's Investigation primarily differs by difficulty, with a Hot C
 
 An Investigation has three Phases. 
 
+
 #### Phase One: How many Culprits?
 To complete Phase One of the Investigation, the Officer must identify how many culprits there were. 
 #### Phase Two: Who were the Culprits?

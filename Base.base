@@ -1,0 +1,10 @@
+views:
+  - type: list
+    name: List
+    filters:
+      and:
+        - file.folder.startsWith(this.file.folder)
+    groupBy:
+      property: file.folder
+      direction: ASC
+    indentProperties: true

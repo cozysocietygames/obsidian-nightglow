@@ -1,3 +1,7 @@
+![[Base.base]]
+
+
+
 %% Begin Waypoint %%
 - **[[Sistema - Battle]]**
 	- **Mechanics**
@@ -13,7 +17,7 @@
 	- [[Pokemon Battles]]
 - **Sistema - Economy**
 	- [[Economy Design]]
-- **Sistema - Occupations**
+- **[[Sistema - Occupations]]**
 	- [[Breeder]]
 	- [[Criminal]]
 	- [[Doctor]]

@@ -1,13 +1,6 @@
 %% Begin Waypoint %%
 - **Economy**
 	- [[Economy Design]]
-- **Occupations**
-	- [[Breeder]]
-	- [[Criminal]]
-	- [[Doctor]]
-	- [[Educator]]
-	- [[Officer]]
-	- [[Player]]
 - **[[System - Battle]]**
 	- **Mechanics**
 		- **[[Battle Maneuvers]]**
@@ -19,6 +12,13 @@
 		- [[SP]]
 	- [[Battles Design]]
 	- [[Pokemon Battles]]
+- **System - Occupations**
+	- [[Breeder]]
+	- [[Criminal]]
+	- [[Doctor]]
+	- [[Educator]]
+	- [[Officer]]
+	- [[Player]]
 - [[Sistema Template]]
 
 %% End Waypoint %%

@@ -12,12 +12,12 @@
 		{
 			"id":"29b183a26b1747f0",
 			"type":"text",
-			"text":"[]",
+			"text":"[]\n[]",
 			"styleAttributes":{},
 			"x":-120,
-			"y":-20,
-			"width":260,
-			"height":60
+			"y":-100,
+			"width":240,
+			"height":140
 		}
 	],
 	"edges":[]

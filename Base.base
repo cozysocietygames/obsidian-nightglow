@@ -7,4 +7,7 @@ views:
     groupBy:
       property: file.folder
       direction: ASC
+    order:
+      - file.name
+    sort: []
     indentProperties: true

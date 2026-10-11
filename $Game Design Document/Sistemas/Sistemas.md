@@ -19,8 +19,8 @@
 	- [[Educator]]
 	- [[Officer]]
 	- [[Player]]
-- **[[Sistema - Trainer Stats]]**
-
+- **[[Sistema - Trainer]]**
+	- **Subsistema - Collecting Pokemon**
 
 %% End Waypoint %%
 

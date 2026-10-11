@@ -12,7 +12,6 @@
 >>If Criminals *freely* know how many Lookouts or Lookout Charges are assigned to a player, then there is no element of risk, as they know exactly how many Lookout Charges they (or even their fellow Criminals if they organize with them) must trigger in order for the player to be vulnerable.
 >>
 >>Without risk, a Player must hire the exact amount of Lookout Charges that would give them the exact guaranteed duration of protection they need. With an element of risk, it becomes more challenging for Criminals to plan, and it allows the Player to pay cheaper prices if they accept the risk.  
->
 
 # Cases
 
@@ -37,17 +36,11 @@ A Hot or Warm Case's Investigation primarily differs by difficulty, with a Hot C
 
 An Investigation has three Phases. 
 
-
 #### Phase One: How many Culprits?
 To complete Phase One of the Investigation, the Officer must identify how many culprits there were. 
 #### Phase Two: Who were the Culprits?
 The Officer must identify all the species of the Pokemon in the Heist Team.
 
-
-
-
-
 >[!question] Real Players as Eyewitnesses?
 >
 >I considered making actual players eyewitnesses by notifying them when a crime takes place, but it raises a lot of questions: should we give them the option to lie? Should we give them the option to actively go to the Police Station to report what they saw?
-

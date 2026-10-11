@@ -7,7 +7,8 @@
 			- [[Multiple Attacks]]
 			- [[Supercharging & Planning]]
 		- [[Fifth Move]]
-		- [[SP]]
+		- [[Design Document/Sistemas/Sistema - Battle/Mechanics/SP]]
+	- **Subsistema - Supplementary Mechanics**
 	- [[Battles Design]]
 	- [[Pokemon Battles]]
 - **Sistema - Economy**

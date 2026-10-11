@@ -1,5 +1,18 @@
-%% Landmark
-%%
+%% Begin Landmark %%
+- **Mechanics**
+	- **[[Battle Maneuvers]]**
+		- [[Defensive Maneuver]]
+		- [[Last Stand]]
+		- [[Multiple Attacks]]
+		- [[Supercharging & Planning]]
+	- [[Fifth Move]]
+	- [[Design Document/Sistemas/Sistema - Battle/Mechanics/SP]]
+- **Subsistema - Supplementary Mechanics**
+- [[Battles Design]]
+- [[Pokemon Battles]]
+
+%% End Landmark %%
+
 # Objectives
 %% What the team is trying to achieve by building this system. %%
 # Overview
@@ -10,6 +23,7 @@
 %% Progression calculations, level scaling, probabilities. For smaller systems, a table is enough. %%
 # Analytics
 %% Data to track. %%
+Gather battle data to train our own custom AI.
 # References
 %% References needed to understand the system. %%
 

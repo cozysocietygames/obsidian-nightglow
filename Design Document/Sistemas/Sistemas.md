@@ -19,7 +19,6 @@
 	- [[Educator]]
 	- [[Officer]]
 	- [[Player]]
-- [[Sistema Template]]
 
 %% End Waypoint %%
 

@@ -1,5 +1,8 @@
-%% Landmark
-%%
+%% Begin Landmark %%
+- [[SP]]
+
+%% End Landmark %%
+
 # Objectives
 %% What the team is trying to achieve by building this system. %%
 # Overview

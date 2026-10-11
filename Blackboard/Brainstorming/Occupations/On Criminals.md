@@ -49,4 +49,3 @@ Hot Goods are recently stolen items that are hard to sell or use because they po
 - Cold means that the Criminal has a 0% chance of getting caught now. 
 
 The Hot Goods Timer must be increased by some amount when a player reports a Crime, and also when an Officer first opens an Investigation. 
-[[The Officers]]

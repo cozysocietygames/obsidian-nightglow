@@ -4,6 +4,6 @@ In a single round, apart from the main move used by the Pokemon, a Pokemon can p
 
 - Each extra attack is a generic attack; not a Pokemon move.
 - Each extra attack deals True Damage.
-- Each extra attack costs a certain amount of [SP](Design%20Document/Sistemas/Sistema%20-%20Battle/Mechanics/SP.md).
+- Each extra attack costs a certain amount of [SP](Design%20Document/Sistemas/Sistema%20-%20Battle/Subsistema%20-%20Supplementary%20Mechanics/SP.md).
 - The number of extra attacks that can be done depends on the ratio of your stats to your opponent’s stats.
     - The stats used are a combination of Primary Stats and Appeal Stats.

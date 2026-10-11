@@ -1,10 +1,3 @@
-```yaml
----
-tags:
-  - 
----
-```
-
 %% Landmark
 %%
 # Objectives

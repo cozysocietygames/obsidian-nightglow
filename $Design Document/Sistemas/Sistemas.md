@@ -9,7 +9,6 @@
 		- [[Fifth Move]]
 	- **[[Subsistema - Supplementary Mechanics]]**
 		- [[SP]]
-	- [[Battles Design]]
 	- [[Pokemon Battles]]
 - **Sistema - Economy**
 	- [[Economy Design]]

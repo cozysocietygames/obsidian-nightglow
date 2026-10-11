@@ -1,6 +1,5 @@
 %% Begin Landmark %%
 - [[SP]]
-
 %% End Landmark %%
 
 # Objectives

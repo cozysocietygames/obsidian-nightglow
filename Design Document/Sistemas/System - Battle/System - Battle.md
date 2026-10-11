@@ -11,7 +11,6 @@
 	- [[SP]]
 - [[Battles Design]]
 - [[Pokemon Battles]]
-
 %% End Landmark %%
 
 

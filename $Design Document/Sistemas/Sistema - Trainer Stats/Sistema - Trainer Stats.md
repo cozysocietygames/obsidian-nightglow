@@ -5,9 +5,12 @@
 %% End Landmark %%
 # Objectives
 %% What the team is trying to achieve by building this system. %%
-- Create a 
+- Create mechanisms that convey a sense of progression in the trainer's growth.
 # Overview
 %% A summary of how the system should behave once built. %%
+[
+> [!tip] 💡Design Philosophy
+> *In the spirit of the anime, Trainers should be able to express their potential through their mastery over and friendship with Pokemon.
 # Behavior, Interface, Mechanics
 %%  How the system works, in technical language, as specific as possible. %%
 # Balance

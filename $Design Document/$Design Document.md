@@ -1,3 +1,11 @@
+%% Begin Waypoint %%
+- **[[Sistemas]]**
+- [[Conceptual Design Document]]
+- [[Design Guidelines]]
+
+%% End Waypoint %%
+
+
 # Introduction
 ### Players
 Some thousands can play at a time. (Real-time multiplayer limited to several players at a time.)

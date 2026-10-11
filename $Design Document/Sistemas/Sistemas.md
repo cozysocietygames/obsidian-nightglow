@@ -1,7 +1,3 @@
-![[Base.base]]
-
-
-
 %% Begin Waypoint %%
 - **[[Sistema - Battle]]**
 	- **Mechanics**

@@ -74,11 +74,11 @@ By prioritizing Alakazam travel, we allow ourselves the freedom to develop maps 
 Prioritize Wilderness Locations that provide the fundamental resources needed for crafting and construction gameplay, as well as offer a sufficient selection of wild Pokemon.
 
 1. Town and City Maps
-	- Necessary if we want space management to be part of Government's building management gameplay.
+	- Necessary when we want space management to be part of Government's building management gameplay.
 2. Route Maps
-	- Necessary if we need to visually represent the player walking to different towns.
+	- Necessary when we need to visually represent the player walking to different towns.
 3. Tent Map
-	- Necessary if we want the player to have a base whose visual layout they can customize. This can be the primary place where a player can see their own Pokemon walking around. 
+	- Necessary when we want the player to have a base whose visual layout they can customize. This can be the primary place where a player can see their own Pokemon walking around. 
 4. Dungeon Maps
 	- Necessary for explorable pocket dimensions.
 

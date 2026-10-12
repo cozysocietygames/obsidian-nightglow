@@ -1,5 +1,11 @@
 # Pokemon NightGlow
 (legacy name)
+- We need the pull of the brand we established before and old players recognize us by this name.
+- Things to consider for a potential new name:
+	1. The core of our game — why is it fun?
+	2. The ending of our game
+	3. The journey
+	4. The beginning
 ## Genre
 Pokemon-themed browser-based Sandbox MMO, City/Community Builder, Political/Economic Sim
 ### Inspirations
@@ -9,7 +15,7 @@ Pokemon-themed browser-based Sandbox MMO, City/Community Builder, Political/Econ
 4. Anno1777 - Browser-based Political/Economic Strategy Sim.
 ## Game Overview
 ### Key Features
-* Collect and care for your favorite Pokemon them to help them grow in ways that surpass their canon capabilities, and unleash their full potential in Pokemon battles
+* Collect and care for your favorite Pokemon then help them grow in ways that surpass their canon capabilities, and unleash their full potential in Pokemon battles
 * Get a side gig as a Breeder, Doctor, Criminal, Educator, Officer, or Researcher and offer your services to other players
 * Co-administrate the growth of one of the four Regions (Kanto, Johto, Hoenn, Sinnoh) by becoming a Government Official when you take over one of the region's Pokemon Gyms
 * Complete quests and commissions to help the Region grow

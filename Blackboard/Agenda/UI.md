@@ -8,3 +8,9 @@
 	- Profile
 	- Settings
 - Bag
+- Legal
+	- About Us
+	- Contact Us
+	- TOS / PP
+- Control Panels
+	- 

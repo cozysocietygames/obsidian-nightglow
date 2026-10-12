@@ -2,14 +2,18 @@
 
 # List of stuff
 - Account
-	- Mail
-	- Notifs
 	- Profile
 	- Settings
 - Control Panels
 	- Occupation View
 	- Government View
 - Bag
+- SmartGear
+	- Pokedex
+	- Weather
+	- Wiki
+	- Mail / Chat
+	- Notifs
 - Services
 	- Occupation-related Services
 - Legal

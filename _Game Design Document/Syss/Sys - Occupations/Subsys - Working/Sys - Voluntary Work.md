@@ -8,8 +8,7 @@
 %% A summary of how the system should behave once built. %%
 # Behavior, Interface, Mechanics
 %%  How the system works, in technical language, as specific as possible. %%
-
-We can require a certain amount of [[Sys - Duties|duties]] to be performed before allowing a player to do Voluntary Work. This way, when a player makes alt accounts or additional characters in an attempt to help themselves, they contribute to the economy before being able to help themselves. #mechanic/balance/economy 
+We can require a certain amount of [[Sys - Duty|duties]] to be performed before allowing a player to do Voluntary Work. This way, when a player makes alt accounts or additional characters in an attempt to help themselves, they contribute to the economy before being able to help themselves. #mechanic/balance/economy 
 
 Voluntary Work is when you perform a directed service at a client. This is the primary mechanic that makes co-op (in the context of the Occupations) between friends fun. #mechanic/social When doing Voluntary Work, you need [[Resource|resources]]. This disincentivizes players from making alts, because you'll need time and effort to gain those [[Resource|resources]]—time and effort which a player could spend earning gold on their main instead. #mechanic/disincentivize/alts 
 

@@ -12,11 +12,12 @@
 	- [[Economy Design]]
 - **[[Sys - Exploration]]**
 - **[[Sys - Occupations]]**
-	- **Subsys - Services**
-		- **[[Subsys - Specialized Services]]**
+	- **Subsys - Working**
+		- **[[Subsys - Services]]**
 		- [[Occupation Building]]
-		- [[Sys - Duties]]
+		- [[Sys - Duty]]
 		- [[Sys - Freelancing]]
+		- [[Sys - Selfservice]]
 		- [[Sys - Voluntary Work]]
 	- [[Breeder]]
 	- [[Criminal]]

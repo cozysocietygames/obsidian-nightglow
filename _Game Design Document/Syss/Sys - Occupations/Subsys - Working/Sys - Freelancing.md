@@ -8,7 +8,6 @@
 %% A summary of how the system should behave once built. %%
 # Behavior, Interface, Mechanics
 %%  How the system works, in technical language, as specific as possible. %%
-
 Freelancing would be providing services on your own time in exchange for currency. #discuss/further 
 # Balance
 %% Progression calculations, level scaling, probabilities. For smaller systems, a table is enough. %%

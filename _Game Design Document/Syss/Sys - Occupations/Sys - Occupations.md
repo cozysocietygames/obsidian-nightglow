@@ -9,7 +9,8 @@
 %%  How the system works, in technical language, as specific as possible. %%
 ## Mechanics
 ### Working
-[[On Researchers]]
+
+A merchant practices their Occupation through several ways: [[Sys - Duty|Duties]], [[Sys - Voluntary Work|Voluntary Work]], [[Sys - Freelancing|Freelancing]], and 
 #### Voluntary Work
 
 #### Freelancing

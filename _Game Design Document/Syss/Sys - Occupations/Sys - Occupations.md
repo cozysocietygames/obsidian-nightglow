@@ -24,12 +24,12 @@ At the Occupation Building, they may view a list of anonymized clients, and prov
 #### Freelancing
 
 #### Voluntary Work
-We can require a certain amount of duties to be performed before allowing a player to do Voluntary Work. This way, when a player makes alt accounts or additional characters in an attempt to help themselves, they contribute to the economy before being able to help themselves. #disincentivizing-mechanic/alts
+We can require a certain amount of duties to be performed before allowing a player to do Voluntary Work. This way, when a player makes alt accounts or additional characters in an attempt to help themselves, they contribute to the economy before being able to help themselves. #mechanic/balance/economy 
 
-Voluntary Work is when you perform a directed service at a client. This is the primary mechanic that makes co-op (in the context of the Occupations) between friends fun. When performing your service, you need resources.
+Voluntary Work is when you perform a directed service at a client. This is the primary mechanic that makes co-op (in the context of the Occupations) between friends fun. #mechanic/social When doing Voluntary Work, you need [[Resource|resources]]. This disincentivizes players from making alts, because you'll need time and effort to gain those [[Resource|resources]]—time which a player could spend earning gold on their main instead. #mechanic/disincentivize/alts 
 
-Macro Resources - Consumable Equipment with low Consumption Rate
-Micro Resources - Consumable Equipment with high Consumption Rate
+Macro-Resources - Consumable [[Resource|resources]] with a low [[Resource#Consumption Ratio|Consumption Ratio]]
+Micro Resources - Consumable  [[Resource|resources]] with a high [[Resource#Consumption Ratio|Consumption Ratio]]
 # Balance
 %% Progression calculations, level scaling, probabilities. For smaller systems, a table is enough. %%
 # Analytics

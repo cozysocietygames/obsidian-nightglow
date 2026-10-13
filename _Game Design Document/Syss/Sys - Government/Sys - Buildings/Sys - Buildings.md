@@ -17,7 +17,7 @@ Subtypes:
 3. Pokemon School
 4. Pokemon Precinct
 5. Pokemon Lab
-
+6. Warehouse (?)
 # Balance
 %% Progression calculations, level scaling, probabilities. For smaller systems, a table is enough. %%
 # Analytics

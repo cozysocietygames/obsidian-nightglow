@@ -1,3 +1,4 @@
+
 # Prologue
 
 > [!note] [[Main Storyline#Prologue|Prologue]]
@@ -10,7 +11,10 @@
 ## Introduction
 Player makes decisions that determine their starting conditions. (Starter Pokemon, etc.)
 
-```dataview
-LIST WHERE file.outlinks
 
+
+
+```dataviewjs
+let elements = dv.pages()
+dv.taskList(elements.file.tasks)
 ```

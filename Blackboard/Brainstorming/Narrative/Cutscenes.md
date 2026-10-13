@@ -4,7 +4,7 @@ Primarily dialogue. Animations can be added later on.
 
 > [!question] 
 > How do Animations come into the picture exactly?
-> #discussfurther 
+> #discuss/further 
 > 
 > Tentative: We narrate the animations, and then when the animations are available, they show as animation.
 

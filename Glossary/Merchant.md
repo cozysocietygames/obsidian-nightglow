@@ -1,0 +1,1 @@
+A character with an Occupation providing a service to a client. 

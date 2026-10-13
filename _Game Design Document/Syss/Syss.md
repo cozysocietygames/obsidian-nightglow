@@ -10,14 +10,13 @@
 		- [[SP]]
 - **Sys - Economy**
 	- [[Economy Design]]
-- **Sys - Occupations**
+- **[[Sys - Occupations]]**
 	- [[Breeder]]
 	- [[Criminal]]
 	- [[Doctor]]
 	- [[Educator]]
 	- [[Officer]]
 	- [[Player]]
-	- [[Sistema - Occupations]]
 - **[[Sys - Trainer]]**
 	- **[[Subsys - Collecting and Training Pokemon]]**
 

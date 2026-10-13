@@ -43,20 +43,20 @@ React/Typescript, NodeJS
 
 ## Systems
 
-### System: Trainer #essential
-1. Subsystem: Trainer Card #essential 
+### System: Trainer #sys/essential
+1. Subsystem: Trainer Card #sys/essential 
 	* The Trainer Card displays information about the Trainer such as:
 		* Stars which they can gain when they complete certain iconic requirements #discuss
 		* their Tier (E, D, C, B, A, S) which progresses as their Pokemon's strengths reach certain thresholds  #discuss
 		* gym badges
 		* game achievements of their choice
-2. Subsystem: Pokedex #essential
+2. Subsystem: Pokedex #sys/essential
 	* The Pokedex contains a record for all Pokemon that can be encountered.
 	* Each record has three states: Seen, Known, Obtained.
 		* A Pokemon's record starts at the basic state: Known.
 		* When a Pokemon is encountered, its record is updated to Seen.
 		* If it is captured (or in the case of the Legendaries, temporarily recruited), its record's state changes to Obtained.
-	1. Subsystem: Familiarity #essential 
+	1. Subsystem: Familiarity #sys/essential 
 		* A Trainer has a familiarity value towards each of the Pokemon they can encounter. Higher values lead to better chances of capturing the Pokemon. #discuss
 			* At the start of the game, they are given a higher starting value for Familiarity towards certain common Pokemon in their chosen starting Region. 
 			* At the start of the game, they will be asked to identify a favorite Pokemon in each Region; their selections are given a higher starting value for Familiarity. Legendaries are not included in the selection.
@@ -65,7 +65,7 @@ React/Typescript, NodeJS
 1. Subsystem: Geographic Distribution
 	* Create an initial database of how Pokemon are initially distributed across maps, along with what times they are active and a population number.
 		* This implicitly decides which Pokemon are endemic to each region.
-	1. Subsystem: Population Fluctuation #Future
+	1. Subsystem: Population Fluctuation #sys/future
 		* Every day, the population numbers of each species on each map is recomputed based on their symbiotic relationships with other species.
 			* Relationships are abstracted by an alpha coefficient. See [[Lotka-Volterra simulation]].  
 		* When a Pokemon is captured, their population number is decreased.
@@ -75,28 +75,28 @@ React/Typescript, NodeJS
 * Pokemon have the base stats and learnable moves as they do in Gen VI.
 * Pokemon have Appeal Stats just like in S/R/E and ORAS, but they affect battle mechanics in a supplementary way.
 * 
-1. Subsystem: Creature Collection #essential
+1. Subsystem: Creature Collection #sys/essential
 	* Trainers are able to generate encounters with Wild Pokemon allowing them to battle and capture them.
-2. Subsystem: Pokemon Battle #essential
+2. Subsystem: Pokemon Battle #sys/essential
 	* 
 	* Battle mechanics work according to Gen VI canon.
 	1. Subsystem: Supplementary Battle Mechanics
 		* Pokemon have Appeal Stats
-3. Subsystem: Appeal Stats #essential 
+3. Subsystem: Appeal Stats #sys/essential 
 	* Pokemon have Appeal Stats just like in S/R/E and ORAS, but they affect supplementary battle mechanics
 4. Subsystem: Ecosystem and Creature Distribution
 ### System: Progression
-1. Subsystem: Quests #essential 
+1. Subsystem: Quests #sys/essential 
 	* Quests are the checkpoints that a player must complete in order to advances the main storyline. Quests are hardcoded by the developers. Keep quests multi-purpose!
-2. Exploration #Future 
-### 2. Professional #essential 
-1. Breeder #essential 
-2. Criminal #essential 
-3. Doctor #essential 
-4. Educator #essential 
-5. Officer #essential 
-6. Researcher #essential 
-### 3. Government #essential 
+2. Exploration #sys/future 
+### 2. Professional #sys/essential 
+1. Breeder #sys/essential 
+2. Criminal #sys/essential 
+3. Doctor #sys/essential 
+4. Educator #sys/essential 
+5. Officer #sys/essential 
+6. Researcher #sys/essential 
+### 3. Government #sys/essential 
 1. 
 
 ### Modes

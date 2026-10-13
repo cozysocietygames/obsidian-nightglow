@@ -1,3 +1,7 @@
+---
+storyitem-type: character
+entity-type: pokemon
+---
 # Overview
 %% An overview of the character. %%
 ## Profile
@@ -8,19 +12,23 @@
 ### Preferences
 %% A list of their preferences. %%
 #### Likes
-- [ ] adsfasdf [questlines:: 123]
+
 #### Dislikes
 
 # History
 ## Before the catastrophe
 ### The birth of Mewtwo
- - Dr. Fuji, with the funding of Team Rocket, clones Mew through a fossilized eyelash, and Mewtwo is born.
+ - Dr. Fuji, with the funding of Team Rocket, clones Mew through a fossilized eyelash, and Mewtwo is born. 
  - Giovanni attempts to "help" Mewtwo harness their own power, but Mewtwo eventually realizes that Giovanni only wants to control them, and cuts ties.
 ### Some time later...
  - Mewtwo meets Arceus, and understands that there are powers far greater than him.
- - Mewtwo becomes friends with Pepper’s parents and becomes close to their family, children and all.
+ - Mewtwo becomes friends with Pepper’s parents and becomes close to their family, children and all. 
+ - [met:: "[[Pepper]]"] [year:: -2] [month:: 1] [day:: 1]
+ - [met:: "[[Pepper's Father]]"] [year:: -2] [month:: 1] 
+ - [met:: "[[Pepper's Mother]]"] [year:: -2] 
 ## During the catastrophe
 - When the catastrophe strikes, Mewtwo begins to question whether coexistence is possible between humans and Pokemon, given that plenty of legendary Pokemon are capable of so much destruction. Other legendaries helped deal with the consequences of the catastrophe, but others felt like the humans brought it upon themselves for trying to awaken the legendaries.
+- [blah:: value]
 ## After the catastrophe
 - Mewtwo had a falling out with the parents because the parents wanted to clone legendaries and take control of them themselves.
 - They try to win back Mewtwo's friendship by offering control over the clones.
@@ -37,9 +45,18 @@
 ## 
 
 # Relationships
-
-
 %%
+```dataviewjs
+const { GameDate } = await cJS();
+
+const groups = dv.current.file.lists
+.where(l => l.met)
+.sort(x => x.l.year * 10000 + x.l.month * 100 + x.l.day, "desc") .groupBy(x => x.p.file.link);
+
+dv.table(["Character", "Met", "Date"], groups.map(
+g => [ g.key, g.rows.map(x => x.l.met), g.rows.map(x => GameDate.catastrophe_epoch_format(dv, x.l.year, x.l.month, x.l.day)) ]));
+
+```
 # Other Details
 ## Relevant Storylines
 

@@ -1,0 +1,1 @@
+A [[Character]] who is availing of a [[Service]] from a [[Merchant]].

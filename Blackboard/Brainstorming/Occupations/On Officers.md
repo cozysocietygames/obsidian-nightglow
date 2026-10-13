@@ -17,6 +17,7 @@
 
 > [!tip] Related Media
 > https://www.pokemysterygame.com/
+> #reference
 
 A Case is created when a Criminal steals from a Player, and a Player may report the Case to the Police Station. A Case has different Statuses which correspond directly to the phases of the Hot Goods Timer.
 

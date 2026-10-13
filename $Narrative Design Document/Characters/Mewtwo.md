@@ -26,7 +26,8 @@
 - They have two devices: one tailored for Velvet’s parents, and one tailored for Mewtwo. They promise Mewtwo that if he takes the offer, they will destroy their device. Of course, if Mewtwo refuses, then they’d have no choice but to destroy Mewtwo’s device and to take it upon themselves to control them (implying Mewtwo would be out of the picture)… But they know that humans holding control over clones has a bad history, which is why they wanted to offer the proposal to Mewtwo.
 	- They do not inform Mewtwo that the device tailored for Mewtwo contains something that would allow them to control him in the worst case. As a deterrent for Mew, and to keep him in check as well if he loses his way.
 	- But Mewtwo finds out anyway.
-- 
+	- They try to explain themselves once more, arguing that they must do it as justice for losing Pepper’s sister and so that others will not have to experience the same thing.
+	- BV expresses reassurance that Mewtwo is nothing like Giovanni. If anything, they can rest assured that Mewtwo would never use the clones for selfish gain. 
 
 # Relationships
 

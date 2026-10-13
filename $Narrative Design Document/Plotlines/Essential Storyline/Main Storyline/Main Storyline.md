@@ -11,6 +11,6 @@
 Player makes decisions that determine their starting conditions. (Starter Pokemon, etc.)
 
 ```dataview
-LIST
-WHERE questlines="asss"
+LIST WHERE file.outlinks
+
 ```

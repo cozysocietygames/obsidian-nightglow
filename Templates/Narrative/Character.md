@@ -18,7 +18,7 @@
 ## After the catastrophe
 - 
 # Relationships
-%% Relationships of the character. %%
+%% Relationships the character formed. %%
 
 %%
 # Other Details

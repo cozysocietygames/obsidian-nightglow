@@ -9,6 +9,15 @@
 %% A summary of how the system should behave once built. %%
 # Behavior, Interface, Mechanics
 %%  How the system works, in technical language, as specific as possible. %%
+## Maps
+A map is divided into sub-areas by a label grid: a 2D array of the same size as the map's grid, where each cell holds the ID of the subarea that cell belongs to. For example, a 6x4 grid might be:
+
+```
+AAABBB
+AABBBB
+ACCCBB
+ACCCCC
+```
 ## Surveyor Mode
 In [[Sys - Exploration#Surveyor Mode|Surveyor Mode]], you do not control a character. Instead, you control the map camera, and you can pan it to anywhere on the map.
 

@@ -11,12 +11,18 @@
 - **Sys - Economy**
 	- [[Economy Design]]
 - **[[Sys - Occupations]]**
+	- **Subsys - Services**
+		- **Subsys - Specialized Services**
+		- [[Occupation Building]]
+		- [[Sys - Duties]]
+		- [[Sys - Freelancing]]
+		- [[Sys - Voluntary Work]]
 	- [[Breeder]]
 	- [[Criminal]]
 	- [[Doctor]]
 	- [[Educator]]
 	- [[Officer]]
-	- [[Player]]
+	- [[Researcher]]
 - **[[Sys - Trainer]]**
 	- **[[Subsys - Collecting and Training Pokemon]]**
 

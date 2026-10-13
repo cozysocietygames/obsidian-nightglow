@@ -90,6 +90,6 @@ Point-and-Click leans into browser game traditions, and allows the players to qu
 
 # Alt Accounts - Disincentivizing Mules or Feeder-Alts
 
-We can make
+We allow the creation of several characters in one account, because players will want to create at least two accounts to experience the two routes.
 
 https://www.reddit.com/r/gamedesign/comments/oz4i0f/would_it_be_better_to_have_a_large_seamless_open/

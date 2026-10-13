@@ -11,6 +11,8 @@
 - **Sys - Economy**
 	- [[Economy Design]]
 - **[[Sys - Exploration]]**
+- **Sys - Government**
+	- **[[Sys - Buildings]]**
 - **[[Sys - Occupations]]**
 	- **Subsys - Working**
 		- **[[Subsys - Services]]**

@@ -1,7 +1,7 @@
 
 - Sometime in the past, Mewtwo meets Arceus, and understands that there are powers far greater than him.
     
-- Sometime in the past as well, Mewtwo becomes friends with Pepper’s parents and becomes close to their family, children and all.
+- Sometime in the past as well, Mewtwo becomes friends with [[Pepper]]’s parents and becomes close to their family, children and all.
     
 - When the catastrophe strikes, Mewtwo begins to question whether coexistence is possible between humans and Pokemon, given that plenty of legendary Pokemon are capable of so much destruction. Other legendaries helped deal with the consequences of the catastrophe, but others felt like the humans brought it upon themselves for trying to awaken the legendaries.
     

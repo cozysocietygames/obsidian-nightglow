@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{
+			"id":"89e00506b64eebb1",
+			"type":"text",
+			"text":"Start",
+			"styleAttributes":{"shape":"circle","textAlign":"center"},
+			"x":-1060,
+			"y":-300,
+			"width":80,
+			"height":80
+		},
+		{"id":"d71534704734acd5","type":"file","file":"$Narrative Design Document/Plotlines/Essential Storyline/Main Storyline/Introduction.md","x":-900,"y":-330,"width":260,"height":141,"subpath":"#Overview"}
+	],
+	"edges":[
+		{
+			"id":"7fb66fcb1ee5c177",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"89e00506b64eebb1",
+			"fromSide":"right",
+			"toNode":"d71534704734acd5",
+			"toSide":"left"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{},
+		"startNode":"db93e7b98e111cc9"
+	}
+}

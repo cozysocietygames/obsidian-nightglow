@@ -33,9 +33,7 @@
 	- On the other hand, he is afraid that he might become corrupt; he might get lost in his principles if they become too extreme. He has made mistakes before, after all. (Sand-y)
 	- On another hand, he considers perhaps it is best not to clone the Pokemon in the first place, because he is worried at the notion of adding more legendary beings into the picture, because there is already enough destructive power in the world. (UPL-y)
 - On speaking terms once more, Mewtwo helps Pepper’s mom with a personal favor: erasing Pepper’s memory. Mewtwo agrees, because he also believes that Pepper should have the choice not to follow Black Velvet.
-- Near the end of the game, Mewtwo reminds the player of the consequences of cloning Arceus. Because Mewtwo himself could have caused plenty of destruction if he was left to his own devices. 
-	- The player/Pepper asks Mewtwo what stopped him?
-	- Mewtwo says it is because he learned who he is, and he learned that he has a place for himself in this world.
+## 
 
 # Relationships
 

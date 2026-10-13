@@ -14,7 +14,7 @@ We can require a certain amount of [[Sys - Duties|duties]] to be performed befor
 Voluntary Work is when you perform a directed service at a client. This is the primary mechanic that makes co-op (in the context of the Occupations) between friends fun. #mechanic/social When doing Voluntary Work, you need [[Resource|resources]]. This disincentivizes players from making alts, because you'll need time and effort to gain those [[Resource|resources]]—time and effort which a player could spend earning gold on their main instead. #mechanic/disincentivize/alts 
 
 Macro-Resources - Consumable [[Resource|resources]] with a low [[Resource#Consumption Ratio|consumption ratio]]
-Micro Resources - Consumable  [[Resource|resources]] with a high [[Resource#Consumption Ratio|consumption ratio]]
+Micro Resources - Consumable [[Resource|resources]] with a high [[Resource#Consumption Ratio|consumption ratio]]
 
 To perform Voluntary Work, you need both Macro-Resources (like a thematic Portable Stall) and Micro-Resources (like thematic consumable tools you use to actually do the service). 
 # Balance

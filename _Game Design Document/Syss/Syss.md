@@ -10,9 +10,10 @@
 		- [[SP]]
 - **Sys - Economy**
 	- [[Economy Design]]
+- **[[Sys - Exploration]]**
 - **[[Sys - Occupations]]**
 	- **Subsys - Services**
-		- **Subsys - Specialized Services**
+		- **[[Subsys - Specialized Services]]**
 		- [[Occupation Building]]
 		- [[Sys - Duties]]
 		- [[Sys - Freelancing]]

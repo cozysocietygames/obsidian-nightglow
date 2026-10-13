@@ -18,3 +18,5 @@ In the Exploration mode, you control your player character and you can see them 
 Your character must be on Exploration mode to unlock new areas.
 
 Just like in Overview mode, you can see Wild Pokemon roaming about. If you click on one, you can interact with it in the same ways.
+
+Additionally, you might also be prompted of Wild Pokemon hiding in the tall grass. The question is: are you forced to battle them? #discuss/further 

@@ -28,6 +28,10 @@
 	- But Mewtwo finds out anyway.
 	- They try to explain themselves once more, arguing that they must do it as justice for losing Pepper’s sister and so that others will not have to experience the same thing.
 	- BV expresses reassurance that Mewtwo is nothing like Giovanni. If anything, they can rest assured that Mewtwo would never use the clones for selfish gain. 
+- Mewtwo experiences a dilemma:
+	- On one hand, he believes that he is indeed capable; he has grown. He believes that if he gains control over the clones, he will not misuse them or mistreat them like Giovanni and his team did to him. (Velvet-y)
+	- On the other hand, he is afraid that he might become corrupt; he might get lost in his principles if they become too extreme. He has made mistakes before, after all. (Sand-y)
+	- On another hand, he considers perhaps it is best not to clone the Pokemon in the first place, because he is worried at the notion of adding more legendary beings into the picture, because there is already enough destructive power in the world. (UPL-y)
 
 # Relationships
 

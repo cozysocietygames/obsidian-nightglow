@@ -71,6 +71,8 @@ Fiction explanation could be that explorable areas are highly regulated as manda
 
 By prioritizing Alakazam travel, we allow ourselves the freedom to develop maps as needed without worrying much about the exact method of how the player will access them. 
 
+Alakazams can only go to places that the Alakazams themselves—not the players—have been to. This way, we have freedom to gate the Player's progress accordingly. Additional Fiction Explanation: There are times that certain towns' governments regulate the teleportation. #discussfurther
+
 Prioritize Wilderness Locations that provide the fundamental resources needed for crafting and construction gameplay, as well as offer a sufficient selection of wild Pokemon.
 
 1. Town and City Maps

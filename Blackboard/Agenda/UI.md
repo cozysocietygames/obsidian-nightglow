@@ -7,15 +7,23 @@
 - Control Panels
 	- Occupation View
 	- Government View
-- Bag
-- SmartGear
-	- Pokedex
-	- Weather
-	- Wiki
-	- Mail / Chat
-	- Notifs
+- Trainer-related Nav
+	- Pokemon
+	- Bag
+		- Items
+	- SmartGear
+		- Pokedex
+		- Weather
+		- Wiki
+		- Mail / Chat
+		- Notifs
+- Explore
+	- Maps
 - Services
+	- Pokemart
+	- Pokemon Center
 	- Occupation-related Services
+	- 
 - Legal
 	- About Us
 	- Contact Us

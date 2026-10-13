@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{
+			"id":"89e00506b64eebb1",
+			"type":"text",
+			"text":"Start",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-1260,
+			"y":-300,
+			"width":81,
+			"height":60
+		},
+		{
+			"id":"b6e87ef044fecbd2",
+			"type":"text",
+			"text":"[[Main Storyline#Prologue|Prologue]]\n",
+			"styleAttributes":{"shape":"predefined-process"},
+			"x":-1140,
+			"y":-300,
+			"width":134,
+			"height":60
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{},
+		"startNode":"db93e7b98e111cc9"
+	}
+}

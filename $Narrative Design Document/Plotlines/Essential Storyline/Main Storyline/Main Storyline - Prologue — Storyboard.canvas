@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"b1ddaaea633b29f6",
+			"type":"text",
+			"text":"Blerh blarh",
+			"styleAttributes":{},
+			"x":-200,
+			"y":-40,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -7,26 +7,21 @@ class DateUtils {
         
         return y;
     }
-    displayDate (dv, date) {
-
-        let currentPage = dv.current();
+    displayStoryDate (dv, date) {
+        let d = date ? date : dv.current();
+        let wantedDate;
         if (!date) {
-            let date = dv.current();
-            date = {
+            wantedDate = {
                 year: d.story_year,
                 month: d.story_month,
                 day: d.story_day,
             }
         }
-        dv.paragraph();
-        // let date = d ? : ;
-        // if(date){
 
-        // }
-        
+        this.formatDate(dv, wantedDate);
     }
     formatDate (dv, d) {
-        dv.paragraph("formatDate~");
+        
     }
 }
 

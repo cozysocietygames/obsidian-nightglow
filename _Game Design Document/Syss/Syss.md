@@ -16,6 +16,7 @@
 - **[[Sys - Occupations]]**
 	- **Subsys - Working**
 		- **[[Subsys - Services]]**
+			- [[Subsys - Healing]]
 		- [[Occupation Building]]
 		- [[Sys - Duty]]
 		- [[Sys - Freelancing]]
@@ -23,10 +24,10 @@
 		- [[Sys - Voluntary Work]]
 	- [[Breeder]]
 	- [[Criminal]]
-	- [[Doctor]]
 	- [[Educator]]
 	- [[Officer]]
 	- [[Researcher]]
+	- [[Subsys - Doctor]]
 - **[[Sys - Trainer]]**
 	- **[[Subsys - Collecting and Training Pokemon]]**
 

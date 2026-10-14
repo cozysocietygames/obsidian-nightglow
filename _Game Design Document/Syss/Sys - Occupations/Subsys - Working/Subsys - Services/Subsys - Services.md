@@ -1,6 +1,13 @@
+---
+aliases:
+  - service
+---
+
 # Index
-%% Landmark
-%%
+%% Begin Landmark %%
+- [[Subsys - Healing]]
+
+%% End Landmark %%
 # Objectives
 %% What the team is trying to achieve by building this system. %%
 # Overview
@@ -9,6 +16,8 @@ Services are specific things that a [[Merchant]] can do that might benefit a [[C
 # Behavior, Interface, Mechanics
 %%  How the system works, in technical language, as specific as possible. %%
 Each service is tied to a particular [[Sys - Occupations|Occupation]].
+
+See the list of services in the Index.
 # Balance
 %% Progression calculations, level scaling, probabilities. For smaller systems, a table is enough. %%
 # Analytics

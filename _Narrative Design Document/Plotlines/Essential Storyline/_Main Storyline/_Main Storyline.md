@@ -24,7 +24,8 @@ _Finding yourself in the primary seaport of the region, Professor Fern introduce
 > - Meet Pepper #plot-objective/hidden
 > - 
 ## Act 2. A World of Scarcity
-_As you set out to explore the port town on your own, you learn new things about the world. People craft things from scraps. You see firsthand that gyms aren't just testers of trainers' mastery; they are political institutions that continue to help society rebuild itself. And as it happens, they need your help investigating some susipicious activity..._
+_As you set out to explore the port town on your own, you learn new things about the world. People craft things from scraps. You see firsthand that gyms aren't just testers of trainers' mastery; they are political institutions that continue to help society rebuild itself. A necessary presence to quell all the dishonest and dishonorable. As it happens, they need your help investigating some susipicious activity..._
 
+# Act 3. 
 
 # Chapter ? — 

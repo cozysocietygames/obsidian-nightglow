@@ -23,5 +23,6 @@ _Finding yourself in the primary seaport of the region, you listen as Professor 
 > - Learn Battle 
 > - Meet Pepper #plot-objective/hidden
 > - 
+## Act 2. 
 
-
+# Chapter ? — 

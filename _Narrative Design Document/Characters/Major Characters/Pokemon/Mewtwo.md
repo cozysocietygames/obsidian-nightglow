@@ -47,11 +47,11 @@ entity-type: pokemon
 # Relationships
 %%
 ```dataviewjs
-const { GameDate } = await cJS();
+const { GameDate, DateSorter } = await cJS();
 
-const groups = dv.current.file.lists
+const groups = dv.current().file.lists
 .where(l => l.met)
-.sort(x => x.l.year * 10000 + x.l.month * 100 + x.l.day, "desc") .groupBy(x => x.p.file.link);
+.sort(DateSorter, "desc") .groupBy(x => x.p.file.link);
 
 dv.table(["Character", "Met", "Date"], groups.map(
 g => [ g.key, g.rows.map(x => x.l.met), g.rows.map(x => GameDate.catastrophe_epoch_format(dv, x.l.year, x.l.month, x.l.day)) ]));

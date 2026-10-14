@@ -7,11 +7,11 @@ class DateUtils {
         
         return y;
     }
-    displayDate (dv, d) {
+    displayDate (dv, date) {
 
         let currentPage = dv.current();
-        let date;
-        if (d) {
+        if (!date) {
+            let date = dv.current();
             date = {
                 year: d.story_year,
                 month: d.story_month,

@@ -1,3 +1,6 @@
 ---
-aliases:
+type: storyevent
+year:
+month:
+day:
 ---

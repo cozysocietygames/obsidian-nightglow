@@ -18,13 +18,13 @@ const ranIn = tp.config.target_file ?? app.workspace.getActiveFile();
 let target = ranIn;
 let fm = await readFm(target);
 
-// If that note has no date (e.g. Templater made a fresh note), use the most recently opened scene instead
+// If that note has no date (e.g. Templater made a fresh note), use the most recently opened storyevent instead
 if (fm.year == null) {
 	for (const p of app.workspace.getLastOpenFiles()) {
 		const f = app.vault.getAbstractFileByPath(p);
 		if (!f || f.extension !== "md" || f === ranIn) continue;
 		const g = await readFm(f);
-		if (g.type === "scene" && g.year != null) { target = f; fm = g; break; }
+		if (g.type === "storyevent" && g.year != null) { target = f; fm = g; break; }
 	}
 }
 
@@ -49,7 +49,7 @@ while (true) {
 
 if (picked.length < 2) { new Notice("An encounter needs at least two participants."); return; }
 
-// Date: taken from the scene. Only asks if the scene has no year.
+// Date: taken from the storyevent. Only asks if the storyevent has no year.
 const num = v => (v === undefined || v === null || String(v).trim() === "") ? null : Number(v);
 let year = num(fm.year), month = num(fm.month), day = num(fm.day);
 if (year === null) {
@@ -74,7 +74,7 @@ const content = [
 	...(month !== null ? [`month: ${month}`] : []),
 	...(day !== null ? [`day: ${day}`] : []),
 	...(where ? [`where: "[[${where}]]"`] : []),
-	...(fm.type === "scene" ? [`scene: "[[${target.basename}]]"`] : []),
+	...(fm.type === "storyevent" ? [`storyevent: "[[${target.basename}]]"`] : []),
 	"---",
 	"",
 ].join("\n");

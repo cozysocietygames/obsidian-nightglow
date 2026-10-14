@@ -22,12 +22,29 @@ _Finding yourself in the primary seaport of the region, Professor Fern introduce
 > - Learn Basic Controls
 > - Learn Battle 
 > - Meet Pepper #plot-objective/hidden
-> - 
+> - Use the Beginner's Support Card
+
 ## Act 2. A World of Scarcity
 _As you set out to explore the port town on your own, you learn new things about the world. People craft things from scraps. You see firsthand that gyms aren't just testers of trainers' mastery; they are political institutions that continue to help society rebuild itself. A necessary presence to quell all the dishonest and dishonorable. As it happens, they need your help investigating some suspicious activity..._
 
-## Act 3. 
+> [!check] Player Objectives
+> - Learn Basic Crafting
+> - Complete [[Pelipper Population]]
+> - Capture a Pokemon
+> - Complete [[You Guys are Getting Paid?]]
+> - Meet Sand
+
+## Act 3. Many Shadows
 _You arrive at a laboratory at the behest of the local gym leader, and attempt to uncover a scheme. Only to find out that things are not so simple. And there is something bigger than all this at play._
 
+> [!check] Player Objectives
+> - Complete [[The Duplicitous Researcher]]
 
 # Chapter ? — 
+
+> [!check] Player Objectives
+> - Learn the Local Legends
+> - Introduce Pokemon Delivery & NPC Friendship System
+> - Introduce Altars & Legendary Friendship System
+> - 
+> - Meet Sand

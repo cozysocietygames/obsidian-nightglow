@@ -1,2 +1,1 @@
 ![[Birth of Mewtwo]]
-

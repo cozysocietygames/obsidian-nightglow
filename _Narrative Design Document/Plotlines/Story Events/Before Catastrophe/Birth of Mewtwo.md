@@ -2,7 +2,7 @@
 type: storyevent
 story_year: -12
 story_month:
-story_day: 2
+story_day:
 storylines:
 ---
 ```dataviewjs

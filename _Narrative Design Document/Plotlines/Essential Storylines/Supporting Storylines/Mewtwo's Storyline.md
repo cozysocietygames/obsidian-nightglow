@@ -1,5 +1,5 @@
 
-- Sometime in the past, Mewtwo meets Arceus, and understands that there are powers far greater than him.
+- Sometime in the past,
     
 - Sometime in the past as well, Mewtwo becomes friends with [[Pepper]]’s parents and becomes close to their family, children and all.
     

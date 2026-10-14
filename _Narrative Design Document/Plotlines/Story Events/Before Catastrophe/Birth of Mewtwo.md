@@ -1,6 +1,6 @@
 ---
 type: storyevent
-year:
-month:
-day:
+story-year:
+story-month:
+story-day:
 ---

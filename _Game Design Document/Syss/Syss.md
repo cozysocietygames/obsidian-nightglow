@@ -30,6 +30,7 @@
 	- [[Subsys - Doctor]]
 - **[[Sys - Trainer]]**
 	- **[[Subsys - Collecting and Training Pokemon]]**
+	- [[Subsys - Teams]]
 
 %% End Waypoint %%
 

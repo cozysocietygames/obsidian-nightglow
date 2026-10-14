@@ -2,19 +2,34 @@
 const charFolder = "_Narrative Design Document/Characters/";
 const encFolder = "_Narrative Design Document/Plotlines/Timeline/Meetings";
 
-// The note you ran the hotkey from (the scene)
-const target = tp.config.target_file ?? app.workspace.getActiveFile();
-
-// Read the scene's frontmatter straight from the file, so it doesn't depend on Obsidian's cache
-const raw = await app.vault.read(target);
-const block = raw.replace(/^﻿/, "").match(/^---\r?\n([\s\S]*?)\r?\n---/);
-const fm = {
-	...(block ? (tp.obsidian.parseYaml(block[1]) ?? {}) : {}),
-	...(app.metadataCache.getFileCache(target)?.frontmatter ?? {}),
+// Read a note's frontmatter straight from the file, so it doesn't depend on Obsidian's cache
+const readFm = async f => {
+	if (!f) return {};
+	const raw = await app.vault.read(f);
+	const block = raw.replace(/^﻿/, "").match(/^---\r?\n([\s\S]*?)\r?\n---/);
+	return {
+		...(block ? (tp.obsidian.parseYaml(block[1]) ?? {}) : {}),
+		...(app.metadataCache.getFileCache(f)?.frontmatter ?? {}),
+	};
 };
 
+// The note Templater says it's running in
+const ranIn = tp.config.target_file ?? app.workspace.getActiveFile();
+let target = ranIn;
+let fm = await readFm(target);
+
+// If that note has no date (e.g. Templater made a fresh note), use the most recently opened scene instead
+if (fm.year == null) {
+	for (const p of app.workspace.getLastOpenFiles()) {
+		const f = app.vault.getAbstractFileByPath(p);
+		if (!f || f.extension !== "md" || f === ranIn) continue;
+		const g = await readFm(f);
+		if (g.type === "scene" && g.year != null) { target = f; fm = g; break; }
+	}
+}
+
 // Shows what the template read. Delete this line once dates come through.
-new Notice(`Encounter from: ${target.path}\nDate read: ${fm.year ?? "?"}-${fm.month ?? "?"}-${fm.day ?? "?"}`, 8000);
+new Notice(`Templater ran in: ${ranIn?.path}\nDate taken from: ${target?.path}\nDate: ${fm.year ?? "?"}-${fm.month ?? "?"}-${fm.day ?? "?"}`, 10000);
 
 // Pick participants
 const chars = app.vault.getMarkdownFiles()

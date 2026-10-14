@@ -29,9 +29,9 @@ _As you set out to explore the port town on your own, you learn new things about
 
 > [!check] Player Objectives
 > - Learn Basic Crafting
-> - Complete [[Pelipper Population]]
 > - Capture a Pokemon
 > - Complete [[You Guys are Getting Paid?]]
+> - Complete [[Pelipper Population]]
 > - Meet Sand
 
 ## Act 3. Many Shadows
@@ -46,4 +46,11 @@ _You arrive at a laboratory at the behest of the local gym leader, and attempt t
 > - Learn the Local Legends
 > - Introduce Pokemon Delivery & NPC Friendship System
 > - Introduce Altars & Legendary Friendship System
-> - 
+
+# Chapter ? — Black Velvet
+
+## Act 3. The Decision
+
+The battle is interrupted by the awakening of the legendary Pokemon, and they urge you and Pepper to act, and make a decision, instead of just standing there. They escape to the exit closest to them, and you must decide whether you stand with the UPL (conv.) or if you stand with Black Velvet (non-conv.).* Following through, you quickly pursue the person of your choice, and find them in the room with the legendary. They seem to have arrived right at the same time as their adversary. You let them know your decision, and they continue their battle in order to buy you time to destroy/activate the cloning machine.
+
+**

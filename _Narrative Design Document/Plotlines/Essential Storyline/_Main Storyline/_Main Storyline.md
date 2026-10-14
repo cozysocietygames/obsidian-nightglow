@@ -16,13 +16,14 @@
 # Chapter 1 — Rebuilding the World
 
 ## Act 1. **Setting Ashore**
-_Finding yourself in the primary seaport of the region, you listen as Professor Fern tells you about the current state of the world. She introduces you to a girl named Pepper who has been helping her out, and the two of you get acquainted through a Pokemon battle. She’s quite talented, and she thinks out of the box, and she easily gets carried away in the heat of the battle. She takes you to the Pokemon Center and gives you a tour around town afterwards, and the two of you easily become friends._
+_Finding yourself in the primary seaport of the region, you listen as Professor Fern tells you about the current state of the world. She introduces you to a girl named Pepper who has been helping her out, and the two of you get acquainted through a Pokemon battle. She’s quite talented, and she thinks out of the box, and she easily gets carried away in the heat of the battle. She takes you to the Pokemon Center and the two of you easily become friends._
 
 > [!check] Player Objectives
 > - Learn Basic Controls
 > - Learn Battle 
 > - Meet Pepper #plot-objective/hidden
 > - 
-## Act 2. 
+## Act 2. A World of Scarcity
+_As you set out to explore the port town on your own, you learn new things about the world._
 
 # Chapter ? — 

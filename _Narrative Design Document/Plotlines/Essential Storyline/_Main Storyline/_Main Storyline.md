@@ -26,7 +26,7 @@ _Finding yourself in the primary seaport of the region, Professor Fern introduce
 ## Act 2. A World of Scarcity
 _As you set out to explore the port town on your own, you learn new things about the world. People craft things from scraps. You see firsthand that gyms aren't just testers of trainers' mastery; they are political institutions that continue to help society rebuild itself. A necessary presence to quell all the dishonest and dishonorable. As it happens, they need your help investigating some susipicious activity..._
 
-## Act 3. The Power of Research
+## Act 3. 
 _You arrive at a laboratory at the behest of the local gym leader. _
 
 

@@ -18,7 +18,7 @@ entity-type: pokemon
 # History
 ## Before the catastrophe
 ### The birth of Mewtwo
- - Dr. Fuji, with the funding of Team Rocket, clones Mew through a fossilized eyelash, and Mewtwo is born. 
+ 
  - Giovanni attempts to "help" Mewtwo harness their own power, but Mewtwo eventually realizes that Giovanni only wants to control them, and cuts ties.
 ### Some time later...
  - Mewtwo meets Arceus, and understands that there are powers far greater than him.

@@ -10,7 +10,14 @@ class DateUtils {
     displayDate (dv, d) {
 
         let currentPage = dv.current();
-        let year = d ? 
+        let date;
+        if (d) {
+            date = {
+                year: d.story_year,
+                month: d.story_month,
+                day: d.story_day,
+            }
+        }
         dv.paragraph();
         // let date = d ? : ;
         // if(date){

@@ -51,12 +51,15 @@ const { GameDate, DateSorter } = await cJS();
 
 const groups = dv.current().file.lists
 .where(l => l.met)
-.sort(DateSorter, "desc") .groupBy(x => x.p.file.link);
+.sort(DateSorter, "desc")
+.groupBy(l => l.outlinks[0]);
 
 dv.table(["Character", "Met", "Date"], groups.map(
-g => [ g.key, g.rows.map(x => x.l.met), g.rows.map(x => GameDate.catastrophe_epoch_format(dv, x.l.year, x.l.month, x.l.day)) ]));
+g => [ dv.current().file.name, g.rows.map(x => x.met), g.rows.map(x => GameDate.catastrophe_epoch_format(dv, x.year, x.month, x.day)) ]));
 
 ```
+
+
 # Other Details
 ## Relevant Storylines
 

@@ -16,7 +16,7 @@
 # Chapter 1 — Rebuilding the World
 
 ## Act 1. Setting Ashore
-_Finding yourself in the primary seaport of the region, Professor Fern introduces you to a girl named Pepper who has been helping her out, and the two of you get acquainted through a Pokemon battle. She’s quite talented, and she thinks out of the box, and she easily gets carried away in the heat of the battle. She takes you to the Pokemon Center and the two of you easily become friends._
+_Finding yourself in the primary seaport of the region, Professor Fern introduces you to a girl named Pepper who has been helping her out, and the two of you get acquainted through a Pokemon battle. She’s quite talented, and she easily gets carried away in the heat of the battle. She takes you to the Pokemon Center and the two of you easily become friends._
 
 > [!check] Player Objectives
 > - Learn Basic Controls

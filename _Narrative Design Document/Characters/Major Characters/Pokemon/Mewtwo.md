@@ -56,7 +56,6 @@ const groups = dv.current().file.lists
 
 dv.table(["Character", "Met", "Date"], groups.map(
 g => [ dv.current().file.name, g.rows.map(x => x.met), g.rows.map(x => GameDate.catastrophe_epoch_format(dv, x.year, x.month, x.day)) ]));
-
 ```
 
 

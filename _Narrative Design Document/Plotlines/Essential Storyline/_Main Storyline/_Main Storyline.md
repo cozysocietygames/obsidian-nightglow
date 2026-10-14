@@ -47,4 +47,3 @@ _You arrive at a laboratory at the behest of the local gym leader, and attempt t
 > - Introduce Pokemon Delivery & NPC Friendship System
 > - Introduce Altars & Legendary Friendship System
 > - 
-> - Meet Sand

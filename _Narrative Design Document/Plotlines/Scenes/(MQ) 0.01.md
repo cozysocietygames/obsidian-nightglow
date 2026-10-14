@@ -1,7 +1,7 @@
 ---
-storyitem-type: scene
-aliases:
+type: scene
+year: 412
+month: 3
+day: 17
 ---
-#storyline/main/prologue/intro
 
-- [ ] Do or not to do

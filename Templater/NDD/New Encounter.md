@@ -1,6 +1,6 @@
 <%*
-const charFolder = "Characters/";
-const encFolder = "Encounters";
+const charFolder = "_Narrative Design Document/Characters/";
+const encFolder = "_Narrative Design Document/Plotlines/Timeline/Meetings";
 const target = tp.config.target_file;
 const fm = app.metadataCache.getFileCache(target)?.frontmatter ?? {};
 

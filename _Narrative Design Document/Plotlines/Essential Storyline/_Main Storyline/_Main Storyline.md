@@ -1,4 +1,3 @@
-
 # Prologue
 
 > [!note] [[_Main Storyline#Prologue|Prologue]]
@@ -12,7 +11,7 @@
 
 > [!check] Player Objectives
 > - Get an idea of the lore's premise
-> - Make decisions that determine their starting conditions. (Starter Pokemon, etc.)
+> - Make decisions for their starting conditions. (Starter Pokemon, Starting Region etc.)
 
 # Chapter 1 — Rebuilding the World
 
@@ -21,5 +20,8 @@ _Finding yourself in the primary seaport of the region, you listen as Professor 
 
 > [!check] Player Objectives
 > - Learn Basic Controls
-> - Player makes tents.
+> - Learn Battle 
+> - Meet Pepper #plot-objective/hidden
+> - 
+
 

@@ -5,19 +5,89 @@
 			"type":"text",
 			"text":"Start",
 			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-1320,
-			"y":-300,
+			"x":-1041,
+			"y":-580,
 			"width":81,
+			"height":60
+		},
+		{
+			"id":"2e7b20459e832c3d",
+			"type":"text",
+			"text":"[[_Main Storyline#Chapter 1 — Rebuilding the World|Chapter 1 — Rebuilding the World]]",
+			"styleAttributes":{"shape":"predefined-process","textAlign":"center"},
+			"x":-1160,
+			"y":-380,
+			"width":320,
+			"height":60
+		},
+		{
+			"id":"d172edf871dd3c3b",
+			"type":"text",
+			"text":"[[_Main Storyline#Chapter ? —| Chapter ?]]",
+			"styleAttributes":{"shape":"predefined-process","textAlign":"center"},
+			"x":-1160,
+			"y":-280,
+			"width":320,
+			"height":60
+		},
+		{
+			"id":"afde06073df547ae",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{"shape":"predefined-process","textAlign":"center"},
+			"x":-1067,
+			"y":-180,
+			"width":134,
+			"height":60
+		},
+		{
+			"id":"4f3c322c80c8f38f",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{"shape":"predefined-process","textAlign":"center"},
+			"x":-1067,
+			"y":50,
+			"width":134,
+			"height":60
+		},
+		{
+			"id":"062b3144e7b03e71",
+			"type":"text",
+			"text":"[[_Main Storyline#Chapter ? — Summit|Chapter ? — Summit]]",
+			"styleAttributes":{"shape":"predefined-process","textAlign":"center"},
+			"x":-1160,
+			"y":150,
+			"width":320,
+			"height":60
+		},
+		{
+			"id":"a7a8e33b2a473d54",
+			"type":"text",
+			"text":"End",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-1040,
+			"y":270,
+			"width":81,
+			"height":60
+		},
+		{
+			"id":"f44ea835986d2077",
+			"type":"text",
+			"text":"[[_Main Storyline#Chapter ? — Black Velvet|Chapter ? — Black Velvet]]",
+			"styleAttributes":{"shape":"predefined-process","textAlign":"center"},
+			"x":-1160,
+			"y":-50,
+			"width":320,
 			"height":60
 		},
 		{
 			"id":"17f687e0e847deda",
 			"type":"text",
-			"text":"[[_Main Storyline#^Prologue|Prologue]]",
+			"text":"[[_Main Storyline#^Prologue|Prologue — No Heroes]]",
 			"styleAttributes":{"shape":"predefined-process","textAlign":"center"},
-			"x":-1180,
-			"y":-300,
-			"width":140,
+			"x":-1115,
+			"y":-480,
+			"width":230,
 			"height":60
 		}
 	],
@@ -26,10 +96,76 @@
 			"id":"6d0b8fc80ed8412a",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"89e00506b64eebb1",
-			"fromSide":"right",
+			"fromSide":"bottom",
 			"toNode":"17f687e0e847deda",
-			"toSide":"left"
+			"toSide":"top"
+		},
+		{
+			"id":"5675e29c3ce2a7a9",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"17f687e0e847deda",
+			"fromSide":"bottom",
+			"toNode":"2e7b20459e832c3d",
+			"toSide":"top"
+		},
+		{
+			"id":"e3cea8396ae7358a",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"2e7b20459e832c3d",
+			"fromSide":"bottom",
+			"toNode":"d172edf871dd3c3b",
+			"toSide":"top"
+		},
+		{
+			"id":"26047b3cbd2ba1e5",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"d172edf871dd3c3b",
+			"fromSide":"bottom",
+			"toNode":"afde06073df547ae",
+			"toSide":"top"
+		},
+		{
+			"id":"4ac915979734b2e8",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"f44ea835986d2077",
+			"fromSide":"bottom",
+			"toNode":"4f3c322c80c8f38f",
+			"toSide":"top"
+		},
+		{
+			"id":"11ae218a934657b8",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"4f3c322c80c8f38f",
+			"fromSide":"bottom",
+			"toNode":"062b3144e7b03e71",
+			"toSide":"top"
+		},
+		{
+			"id":"bc9c183f1199ed87",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"afde06073df547ae",
+			"fromSide":"bottom",
+			"toNode":"f44ea835986d2077",
+			"toSide":"top"
+		},
+		{
+			"id":"b8b82b99d900ff4f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"062b3144e7b03e71",
+			"fromSide":"bottom",
+			"toNode":"a7a8e33b2a473d54",
+			"toSide":"top"
 		}
 	],
 	"metadata":{

@@ -1,6 +1,6 @@
 ---
-storyitem-type: character
-entity-type: pokemon
+storyitem_type: character
+entity_type: pokemon
 ---
 # Overview
 %% An overview of the character. %%

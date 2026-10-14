@@ -7,21 +7,39 @@ class DateUtils {
         
         return y;
     }
-    displayStoryDate (dv, date) {
+    getStoryDate (dv, date) {
         let d = date ? date : dv.current();
-        let wantedDate;
-        if (!date) {
-            wantedDate = {
+        let wantedDate = {
                 year: d.story_year,
-                month: d.story_month,
-                day: d.story_day,
-            }
-        }
+                ...(d.story_month && {month: d.story_month}),
+                ...(d.story_month && d.story_day && {day: d.story_day}),
+            };
 
-        this.formatDate(dv, wantedDate);
+        return this.formatDate(dv, wantedDate);
     }
-    formatDate (dv, d) {
-        
+    formatDate (dv, wantedDate) {
+        const months = dv.page("Calendar").months;
+        let year, month, day;
+        let text = "";
+        if(wantedDate.year) { 
+            year = wantedDate.year;
+            let ya = year < 0 ? "BCa." : "SCa."
+            let yeartxt = (year + " " + ya);
+            text += yeartxt;
+            if(wantedDate.month) {
+                month = wantedDate.month;
+                let monthtxt = ", " + months[month-1];
+                text += monthtxt;
+                if(wantedDate.day) {
+                    day = wantedDate.day;
+                    let daytxt = " " + String(day).padStart(2, '0');
+                    text += daytxt;
+                }
+            }
+            return text;
+        }else{
+            return "Unspecified Date";
+        } 
     }
 }
 

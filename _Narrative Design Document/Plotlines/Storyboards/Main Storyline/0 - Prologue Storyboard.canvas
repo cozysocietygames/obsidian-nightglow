@@ -4,38 +4,6 @@
 		{"id":"8d1dbb46daca938e","type":"group","x":-260,"y":-540,"width":340,"height":360,"label":"Lore Intro"},
 		{"id":"a8b40b6532b2c142","type":"group","x":-260,"y":-780,"width":340,"height":140,"label":"Character Creation"},
 		{
-			"id":"578e391050bfa5cc",
-			"type":"text",
-			"text":"Start\nScene: Ferry",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":270,
-			"y":-521,
-			"width":193,
-			"height":60,
-			"color":"#0091ff"
-		},
-		{
-			"id":"e21408f7b84f3b77",
-			"type":"text",
-			"text":"(Input) Starting Region",
-			"styleAttributes":{"shape":"parallelogram","textAlign":"center"},
-			"x":291,
-			"y":-440,
-			"width":153,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"8423f4c01e2c5d3f",
-			"type":"text",
-			"text":"Gain Bonus Familiarity for some Common Pokemon in Region",
-			"styleAttributes":{"textAlign":"center"},
-			"x":237,
-			"y":-361,
-			"width":260,
-			"height":100
-		},
-		{
 			"id":"fd23d1853ed75150",
 			"type":"text",
 			"text":"(Input) Starter Pokemon",
@@ -46,49 +14,6 @@
 			"height":60,
 			"color":"4"
 		},
-		{
-			"id":"6855e4a049ebb9b1",
-			"type":"text",
-			"text":"(Input) Favored Pokemon",
-			"styleAttributes":{"shape":"parallelogram","textAlign":"center"},
-			"x":266,
-			"y":-160,
-			"width":203,
-			"height":59,
-			"color":"4"
-		},
-		{
-			"id":"2ed5c82c2e1b45e8",
-			"type":"text",
-			"text":"Gain Bonus Familiarity for Favored Pokemon",
-			"styleAttributes":{},
-			"x":237,
-			"y":-80,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"e470229c9e85748a",
-			"type":"text",
-			"text":"End",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":326,
-			"y":0,
-			"width":81,
-			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"ad11098dc1627895",
-			"type":"text",
-			"text":"",
-			"styleAttributes":{"shape":"predefined-process","textAlign":"center"},
-			"x":220,
-			"y":80,
-			"width":174,
-			"height":60
-		},
-		{"id":"c8f9b02a157da967","type":"file","file":"_Narrative Design Document/Plotlines/Essential Storylines/Main Storyline/Main Storyline.md","subpath":"#^Prologue","x":-880,"y":-560,"width":400,"height":580},
 		{
 			"id":"4b23e82768fbecec",
 			"type":"text",
@@ -152,7 +77,82 @@
 			"width":275,
 			"height":60,
 			"color":"4"
-		}
+		},
+		{
+			"id":"578e391050bfa5cc",
+			"type":"text",
+			"text":"Start\nScene: Ferry",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":270,
+			"y":-521,
+			"width":193,
+			"height":60,
+			"color":"#0091ff"
+		},
+		{
+			"id":"e21408f7b84f3b77",
+			"type":"text",
+			"text":"(Input) Starting Region",
+			"styleAttributes":{"shape":"parallelogram","textAlign":"center"},
+			"x":291,
+			"y":-440,
+			"width":153,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"8423f4c01e2c5d3f",
+			"type":"text",
+			"text":"Gain Bonus Familiarity for some Common Pokemon in Region",
+			"styleAttributes":{"textAlign":"center"},
+			"x":237,
+			"y":-361,
+			"width":260,
+			"height":100
+		},
+		{
+			"id":"6855e4a049ebb9b1",
+			"type":"text",
+			"text":"(Input) Favored Pokemon",
+			"styleAttributes":{"shape":"parallelogram","textAlign":"center"},
+			"x":266,
+			"y":-160,
+			"width":203,
+			"height":59,
+			"color":"4"
+		},
+		{
+			"id":"2ed5c82c2e1b45e8",
+			"type":"text",
+			"text":"Gain Bonus Familiarity for Favored Pokemon",
+			"styleAttributes":{},
+			"x":237,
+			"y":-80,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"e470229c9e85748a",
+			"type":"text",
+			"text":"End",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":326,
+			"y":0,
+			"width":81,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"ad11098dc1627895",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{"shape":"predefined-process","textAlign":"center"},
+			"x":220,
+			"y":80,
+			"width":174,
+			"height":60
+		},
+		{"id":"c8f9b02a157da967","type":"file","file":"_Narrative Design Document/Plotlines/Essential Storylines/Main Storyline/Main Storyline.md","subpath":"#^Prologue","x":-880,"y":-620,"width":400,"height":580}
 	],
 	"edges":[
 		{
@@ -255,6 +255,15 @@
 			"fromSide":"bottom",
 			"toNode":"e21408f7b84f3b77",
 			"toSide":"top"
+		},
+		{
+			"id":"acc6b64f62b416b8",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c8f9b02a157da967",
+			"fromSide":"right",
+			"toNode":"4b23e82768fbecec",
+			"toSide":"left"
 		}
 	],
 	"metadata":{

@@ -1,17 +1,140 @@
 {
 	"nodes":[
+		{"id":"c5fb79977b7c4e54","type":"group","x":-380,"y":-640,"width":820,"height":920,"label":"Professor Fern's Interview"},
+		{"id":"c8f9b02a157da967","type":"file","file":"_Narrative Design Document/Plotlines/Essential Storylines/_Main Storyline/_Main Storyline.md","subpath":"#^Prologue","x":-880,"y":-560,"width":400,"height":580},
 		{
-			"id":"b1ddaaea633b29f6",
+			"id":"c9889d9ef4b4724c",
 			"type":"text",
-			"text":"Blerh blarh",
+			"text":"Input: Pronouns & Body Sprite",
+			"styleAttributes":{"shape":"parallelogram","textAlign":"center"},
+			"x":-350,
+			"y":-620,
+			"width":275,
+			"height":60
+		},
+		{
+			"id":"8423f4c01e2c5d3f",
+			"type":"text",
+			"text":"Gain Bonus Familiarity for some Common Pokemon in Region",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-342,
+			"y":-420,
+			"width":260,
+			"height":100
+		},
+		{
+			"id":"e21408f7b84f3b77",
+			"type":"text",
+			"text":"Input: Starting Region",
+			"styleAttributes":{"shape":"parallelogram","textAlign":"center"},
+			"x":-289,
+			"y":-520,
+			"width":153,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"fd23d1853ed75150",
+			"type":"text",
+			"text":"Input: Starter Pokemon",
+			"styleAttributes":{"shape":"parallelogram","textAlign":"center"},
+			"x":-284,
+			"y":-270,
+			"width":144,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"4b23e82768fbecec",
+			"type":"text",
+			"text":"Start",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-115,
+			"y":-780,
+			"width":81,
+			"height":60,
+			"color":"5"
+		},
+		{
+			"id":"e470229c9e85748a",
+			"type":"text",
+			"text":"End",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":500,
+			"y":20,
+			"width":81,
+			"height":60
+		},
+		{
+			"id":"6855e4a049ebb9b1",
+			"type":"text",
+			"text":"Input: Favored Pokemon",
+			"styleAttributes":{"shape":"parallelogram","textAlign":"center"},
+			"x":-314,
+			"y":-140,
+			"width":203,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"2ed5c82c2e1b45e8",
+			"type":"text",
+			"text":"Gain Bonus Familiarity for Favored Pokemon",
 			"styleAttributes":{},
-			"x":-260,
-			"y":-120,
+			"x":-342,
+			"y":-40,
 			"width":260,
 			"height":60
 		}
 	],
-	"edges":[],
+	"edges":[
+		{
+			"id":"6c672bb01c7bb88f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"c9889d9ef4b4724c",
+			"fromSide":"bottom",
+			"toNode":"e21408f7b84f3b77",
+			"toSide":"top"
+		},
+		{
+			"id":"009b497bd0ba885f",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"e21408f7b84f3b77",
+			"fromSide":"bottom",
+			"toNode":"8423f4c01e2c5d3f",
+			"toSide":"top"
+		},
+		{
+			"id":"f7748f7c21f18989",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"8423f4c01e2c5d3f",
+			"fromSide":"bottom",
+			"toNode":"fd23d1853ed75150",
+			"toSide":"top"
+		},
+		{
+			"id":"c837038dcca2fc7a",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"fd23d1853ed75150",
+			"fromSide":"bottom",
+			"toNode":"6855e4a049ebb9b1",
+			"toSide":"top",
+			"label":"Skippable"
+		},
+		{
+			"id":"165a95daed2430ea",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"6855e4a049ebb9b1",
+			"fromSide":"bottom",
+			"toNode":"2ed5c82c2e1b45e8",
+			"toSide":"top"
+		}
+	],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}

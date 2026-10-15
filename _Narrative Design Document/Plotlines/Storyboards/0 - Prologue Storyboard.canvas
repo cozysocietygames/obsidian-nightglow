@@ -46,17 +46,6 @@
 			"height":60
 		},
 		{
-			"id":"7a0ff304cd06b067",
-			"type":"text",
-			"text":"Start\nSet Scene: Ferry",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":205,
-			"y":-520,
-			"width":232,
-			"height":59,
-			"color":"5"
-		},
-		{
 			"id":"e21408f7b84f3b77",
 			"type":"text",
 			"text":"(Input) Starting Region",
@@ -68,14 +57,15 @@
 			"color":"4"
 		},
 		{
-			"id":"ad11098dc1627895",
+			"id":"7a0ff304cd06b067",
 			"type":"text",
-			"text":"",
-			"styleAttributes":{"shape":"predefined-process","textAlign":"center"},
-			"x":180,
-			"y":180,
-			"width":174,
-			"height":60
+			"text":"Start\nScene: Ferry",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":191,
+			"y":-520,
+			"width":232,
+			"height":59,
+			"color":"5"
 		},
 		{
 			"id":"e470229c9e85748a",
@@ -87,6 +77,16 @@
 			"width":81,
 			"height":60,
 			"color":"1"
+		},
+		{
+			"id":"ad11098dc1627895",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{"shape":"predefined-process","textAlign":"center"},
+			"x":180,
+			"y":180,
+			"width":174,
+			"height":60
 		},
 		{"id":"c8f9b02a157da967","type":"file","file":"_Narrative Design Document/Plotlines/Essential Storylines/_Main Storyline/_Main Storyline.md","subpath":"#^Prologue","x":-880,"y":-560,"width":400,"height":580},
 		{
@@ -110,17 +110,6 @@
 			"width":275,
 			"height":60,
 			"color":"4"
-		},
-		{
-			"id":"7713bed804306bb6",
-			"type":"text",
-			"text":"Start",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-130,
-			"y":-520,
-			"width":81,
-			"height":60,
-			"color":"5"
 		},
 		{
 			"id":"de69fcfe80ececf0",
@@ -152,6 +141,37 @@
 			"y":-250,
 			"width":174,
 			"height":60
+		},
+		{
+			"id":"7713bed804306bb6",
+			"type":"text",
+			"text":"Start\nScene: Black Screen",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-186,
+			"y":-521,
+			"width":193,
+			"height":60,
+			"color":"5"
+		},
+		{
+			"id":"728d87b64062bb26",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{"textAlign":"center"},
+			"x":540,
+			"y":-120,
+			"width":260,
+			"height":100
+		},
+		{
+			"id":"aa3d27ff29294552",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-140,
+			"y":0,
+			"width":260,
+			"height":100
 		}
 	],
 	"edges":[
@@ -200,6 +220,15 @@
 			"fromSide":"bottom",
 			"toNode":"de69fcfe80ececf0",
 			"toSide":"top"
+		},
+		{
+			"id":"a560620ef6fea2e7",
+			"styleAttributes":{"pathfindingMethod":"a-star"},
+			"toFloating":false,
+			"fromNode":"728d87b64062bb26",
+			"fromSide":"bottom",
+			"toNode":"aa3d27ff29294552",
+			"toSide":"right"
 		},
 		{
 			"id":"009b497bd0ba885f",

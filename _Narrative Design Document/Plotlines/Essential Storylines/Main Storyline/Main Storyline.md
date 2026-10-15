@@ -22,7 +22,6 @@
 _Finding yourself in the primary seaport of the region, Professor Fern introduces you to a girl named Pepper who has been helping her out, and the two of you get acquainted through a Pokemon battle. She’s quite talented, and she easily gets carried away in the heat of the battle. She takes you to the Pokemon Center and the two of you easily become friends._
 >^c1a1
 
-
 > [!check] Player Objectives
 > - Learn Basic Controls
 > - Learn Battle 
@@ -36,7 +35,6 @@ _Finding yourself in the primary seaport of the region, Professor Fern introduce
 _As you set out to explore the port town on your own, you learn new things about the world. People craft things from scraps. You see firsthand that gyms aren't just testers of trainers' mastery; they are political institutions that continue to help society rebuild itself. A necessary presence to quell all the dishonest and dishonorable. As it happens, they need your help investigating some suspicious activity..._
 >^c1a2
 
-
 > [!check] Player Objectives
 > - Learn Basic Crafting
 > - Capture a Pokemon
@@ -44,13 +42,12 @@ _As you set out to explore the port town on your own, you learn new things about
 > - Complete [[Quest - Pelipper Population]]
 > - Meet Sand
 
-## Act 3. Numerous Shadows
+## Act 3. More at Play
 > [!note] [[Main Storyline#Act 3. Setting Ashore|Act 3]]
 > [[1 - Chapter 1 Storyboard.canvas|See Storyboard]]
 > 
 _You arrive at a laboratory at the behest of the local gym leader, and attempt to uncover a scheme. Only to find out that things are not so simple. And there is something bigger than all this at play._
 >^c1a3
-
 
 > [!check] Player Objectives
 > - Complete [[The Duplicitous Researcher]]

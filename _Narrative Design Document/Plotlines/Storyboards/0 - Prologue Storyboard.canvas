@@ -70,8 +70,8 @@
 			"type":"text",
 			"text":"Input: Favored Pokemon",
 			"styleAttributes":{"shape":"parallelogram","textAlign":"center"},
-			"x":-314,
-			"y":-140,
+			"x":-313,
+			"y":-160,
 			"width":203,
 			"height":60,
 			"color":"4"
@@ -81,8 +81,8 @@
 			"type":"text",
 			"text":"Gain Bonus Familiarity for Favored Pokemon",
 			"styleAttributes":{},
-			"x":-342,
-			"y":-40,
+			"x":-341,
+			"y":-60,
 			"width":260,
 			"height":60
 		}
@@ -116,22 +116,21 @@
 			"toSide":"top"
 		},
 		{
-			"id":"c837038dcca2fc7a",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"fd23d1853ed75150",
-			"fromSide":"bottom",
-			"toNode":"6855e4a049ebb9b1",
-			"toSide":"top",
-			"label":"Skippable"
-		},
-		{
 			"id":"165a95daed2430ea",
 			"styleAttributes":{},
 			"toFloating":false,
 			"fromNode":"6855e4a049ebb9b1",
 			"fromSide":"bottom",
 			"toNode":"2ed5c82c2e1b45e8",
+			"toSide":"top"
+		},
+		{
+			"id":"0ac049c1ff3bc43c",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"fd23d1853ed75150",
+			"fromSide":"bottom",
+			"toNode":"6855e4a049ebb9b1",
 			"toSide":"top"
 		}
 	],

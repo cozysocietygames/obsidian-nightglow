@@ -1,6 +1,6 @@
 # Prologue
 
-> [!note] [[_Main Storyline#Prologue|Prologue]]
+> [!note] [[Main Storyline#Prologue|Prologue]]
 > [[0 - Prologue Storyboard.canvas|See Storyboard]]
 > 
 > _Seven years ago, a great catastrophe shook the whole country when Groudon and Kyogre were awakened by two nefarious organizations: Team Aqua and Team Magma. But Rayquaza did not awaken. The Pokemon League did everything in their power to stop the disaster, but alas, they failed. Plenty of people had to evacuate and flee to the mountainous wild expanse. Even today, the whole country needs more time to recover._
@@ -16,7 +16,7 @@
 # Chapter 1 — Rebuilding the World
 
 ## Act 1. Setting Ashore
-> [!note] [[_Main Storyline#Act 1. Setting Ashore|Act 1]]
+> [!note] [[Main Storyline#Act 1. Setting Ashore|Act 1]]
 > [[1 - Chapter 1 Storyboard.canvas|See Storyboard]]
 > 
 _Finding yourself in the primary seaport of the region, Professor Fern introduces you to a girl named Pepper who has been helping her out, and the two of you get acquainted through a Pokemon battle. She’s quite talented, and she easily gets carried away in the heat of the battle. She takes you to the Pokemon Center and the two of you easily become friends._
@@ -30,7 +30,7 @@ _Finding yourself in the primary seaport of the region, Professor Fern introduce
 > - Use the Beginner's Support Card
 
 ## Act 2. A World of Scarcity
-> [!note] [[_Main Storyline#Act 2. Setting Ashore|Act 2]]
+> [!note] [[Main Storyline#Act 2. Setting Ashore|Act 2]]
 > [[1 - Chapter 1 Storyboard.canvas|See Storyboard]]
 > 
 _As you set out to explore the port town on your own, you learn new things about the world. People craft things from scraps. You see firsthand that gyms aren't just testers of trainers' mastery; they are political institutions that continue to help society rebuild itself. A necessary presence to quell all the dishonest and dishonorable. As it happens, they need your help investigating some suspicious activity..._
@@ -45,7 +45,7 @@ _As you set out to explore the port town on your own, you learn new things about
 > - Meet Sand
 
 ## Act 3. Many Shadows
-> [!note] [[_Main Storyline#Act 3. Setting Ashore|Act 3]]
+> [!note] [[Main Storyline#Act 3. Setting Ashore|Act 3]]
 > [[1 - Chapter 1 Storyboard.canvas|See Storyboard]]
 > 
 _You arrive at a laboratory at the behest of the local gym leader, and attempt to uncover a scheme. Only to find out that things are not so simple. And there is something bigger than all this at play._
@@ -65,7 +65,7 @@ _You arrive at a laboratory at the behest of the local gym leader, and attempt t
 # Chapter ? — Black Velvet
 
 ## Act 3. The Decision
-> [!note] [[_Main Storyline#Act 3. Setting Ashore|Act 3]]
+> [!note] [[Main Storyline#Act 3. Setting Ashore|Act 3]]
 > [[1 - Chapter 1 Storyboard.canvas|See Storyboard]]
 > 
 _The legendary Pokemon awakens, and you and Pepper must each make a decision. Whether it be to side with the UPL or to side with Black Velvet, you make your decision known, and their representatives continue their battle in order to buy you time to destroy or activate the cloning machine._
@@ -75,7 +75,7 @@ _The legendary Pokemon awakens, and you and Pepper must each make a decision. Wh
 
 # Chapter ? — Summit
 ## Act 3. 
-> [!note] [[_Main Storyline#Act 3. Setting Ashore|Act 3]]
+> [!note] [[Main Storyline#Act 3. Setting Ashore|Act 3]]
 > [[1 - Chapter 1 Storyboard.canvas|See Storyboard]]
 > 
 _The legendary Pokemon awakens, and you and Pepper must each make a decision. Whether it be to side with the UPL or to side with Black Velvet, you make your decision known, and their representatives continue their battle in order to buy you time to destroy or activate the cloning machine._

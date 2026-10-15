@@ -13,7 +13,7 @@
 		{
 			"id":"2e7b20459e832c3d",
 			"type":"text",
-			"text":"[[_Main Storyline#Chapter 1 — Rebuilding the World|Chapter 1 — Rebuilding the World]]",
+			"text":"[[Main Storyline#Chapter 1 — Rebuilding the World|Chapter 1 — Rebuilding the World]]",
 			"styleAttributes":{"shape":"predefined-process","textAlign":"center"},
 			"x":-1160,
 			"y":-380,
@@ -23,7 +23,7 @@
 		{
 			"id":"d172edf871dd3c3b",
 			"type":"text",
-			"text":"[[_Main Storyline#Chapter ? —| Chapter ?]]",
+			"text":"[[Main Storyline#Chapter ? —| Chapter ?]]",
 			"styleAttributes":{"shape":"predefined-process","textAlign":"center"},
 			"x":-1160,
 			"y":-280,
@@ -53,7 +53,7 @@
 		{
 			"id":"062b3144e7b03e71",
 			"type":"text",
-			"text":"[[_Main Storyline#Chapter ? — Summit|Chapter ? — Summit]]",
+			"text":"[[Main Storyline#Chapter ? — Summit|Chapter ? — Summit]]",
 			"styleAttributes":{"shape":"predefined-process","textAlign":"center"},
 			"x":-1160,
 			"y":150,
@@ -73,7 +73,7 @@
 		{
 			"id":"f44ea835986d2077",
 			"type":"text",
-			"text":"[[_Main Storyline#Chapter ? — Black Velvet|Chapter ? — Black Velvet]]",
+			"text":"[[Main Storyline#Chapter ? — Black Velvet|Chapter ? — Black Velvet]]",
 			"styleAttributes":{"shape":"predefined-process","textAlign":"center"},
 			"x":-1160,
 			"y":-50,
@@ -83,7 +83,7 @@
 		{
 			"id":"17f687e0e847deda",
 			"type":"text",
-			"text":"[[_Main Storyline#^Prologue|Prologue — No Heroes]]",
+			"text":"[[Main Storyline#^Prologue|Prologue — No Heroes]]",
 			"styleAttributes":{"shape":"predefined-process","textAlign":"center"},
 			"x":-1115,
 			"y":-480,

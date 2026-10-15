@@ -3,7 +3,7 @@
 		{"id":"c5fb79977b7c4e54","type":"group","x":140,"y":-540,"width":360,"height":800,"label":"Professor Fern's Interview"},
 		{"id":"8d1dbb46daca938e","type":"group","x":-260,"y":-540,"width":340,"height":380,"label":"Lore Intro"},
 		{"id":"a8b40b6532b2c142","type":"group","x":-260,"y":-780,"width":340,"height":140,"label":"Character Creation"},
-		{"id":"c8f9b02a157da967","type":"file","file":"_Narrative Design Document/Plotlines/Essential Storylines/_Main Storyline/_Main Storyline.md","subpath":"#^Prologue","x":-880,"y":-560,"width":400,"height":580},
+		{"id":"c8f9b02a157da967","type":"file","file":"_Narrative Design Document/Plotlines/Essential Storylines/Main Storyline/Main Storyline.md","subpath":"#^Prologue","x":-880,"y":-560,"width":400,"height":580},
 		{
 			"id":"4b23e82768fbecec",
 			"type":"text",

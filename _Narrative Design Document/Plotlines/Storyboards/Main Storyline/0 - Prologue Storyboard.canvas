@@ -36,6 +36,49 @@
 			"height":128
 		},
 		{
+			"id":"083b49701ea09bdd",
+			"type":"text",
+			"text":"Introduce the catastrophe many years ago.",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-209,
+			"y":-420,
+			"width":240,
+			"height":59
+		},
+		{
+			"id":"7713bed804306bb6",
+			"type":"text",
+			"text":"Start\nScene: Black Screen",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-186,
+			"y":-521,
+			"width":193,
+			"height":60,
+			"color":"#0091ff"
+		},
+		{
+			"id":"de69fcfe80ececf0",
+			"type":"text",
+			"text":"End",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-33,
+			"y":-300,
+			"width":81,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"39c40f2b2bbc0af0",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{"shape":"predefined-process","textAlign":"center"},
+			"x":-240,
+			"y":-300,
+			"width":174,
+			"height":60
+		},
+		{"id":"c8f9b02a157da967","type":"file","file":"_Narrative Design Document/Plotlines/Essential Storylines/Main Storyline/Main Storyline.md","subpath":"#^Prologue","x":-719,"y":-651,"width":400,"height":580},
+		{
 			"id":"fd23d1853ed75150",
 			"type":"text",
 			"text":"(Input) Starter Pokemon",
@@ -121,48 +164,15 @@
 			"color":"1"
 		},
 		{
-			"id":"083b49701ea09bdd",
-			"type":"text",
-			"text":"Introduce the catastrophe many years ago.",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-209,
-			"y":-420,
-			"width":240,
-			"height":59
-		},
-		{
-			"id":"7713bed804306bb6",
-			"type":"text",
-			"text":"Start\nScene: Black Screen",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-186,
-			"y":-521,
-			"width":193,
-			"height":60,
-			"color":"#0091ff"
-		},
-		{
-			"id":"de69fcfe80ececf0",
-			"type":"text",
-			"text":"End",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-33,
-			"y":-300,
-			"width":81,
-			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"39c40f2b2bbc0af0",
+			"id":"c8be0a536c3c551f",
 			"type":"text",
 			"text":"",
-			"styleAttributes":{"shape":"predefined-process","textAlign":"center"},
-			"x":-240,
-			"y":-300,
-			"width":174,
+			"styleAttributes":{},
+			"x":-186,
+			"y":-71,
+			"width":260,
 			"height":60
-		},
-		{"id":"c8f9b02a157da967","type":"file","file":"_Narrative Design Document/Plotlines/Essential Storylines/Main Storyline/Main Storyline.md","subpath":"#^Prologue","x":-719,"y":-651,"width":400,"height":580}
+		}
 	],
 	"edges":[
 		{

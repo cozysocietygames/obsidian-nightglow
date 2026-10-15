@@ -44,7 +44,7 @@ _As you set out to explore the port town on your own, you learn new things about
 > - Complete [[Pelipper Population]]
 > - Meet Sand
 
-## Act 3. Many Shadows
+## Act 3. Numerous Shadows
 > [!note] [[Main Storyline#Act 3. Setting Ashore|Act 3]]
 > [[1 - Chapter 1 Storyboard.canvas|See Storyboard]]
 > 

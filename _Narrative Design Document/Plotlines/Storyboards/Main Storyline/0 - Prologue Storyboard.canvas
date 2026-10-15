@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"c5fb79977b7c4e54","type":"group","x":200,"y":-540,"width":360,"height":700,"label":"Professor Fern's Interview"},
-		{"id":"8d1dbb46daca938e","type":"group","x":-260,"y":-540,"width":340,"height":360,"label":"Lore Intro"},
+		{"id":"8d1dbb46daca938e","type":"group","x":-260,"y":-540,"width":340,"height":330,"label":"Lore Intro"},
 		{"id":"a8b40b6532b2c142","type":"group","x":-260,"y":-780,"width":340,"height":140,"label":"Character Creation"},
 		{
 			"id":"fd23d1853ed75150",
@@ -25,6 +25,7 @@
 			"height":60,
 			"color":"#0091ff"
 		},
+		{"id":"c8f9b02a157da967","type":"file","file":"_Narrative Design Document/Plotlines/Essential Storylines/Main Storyline/Main Storyline.md","subpath":"#^Prologue","x":-880,"y":-620,"width":400,"height":580},
 		{
 			"id":"c9889d9ef4b4724c",
 			"type":"text",
@@ -35,18 +36,6 @@
 			"width":275,
 			"height":60,
 			"color":"4"
-		},
-		{"id":"c8f9b02a157da967","type":"file","file":"_Narrative Design Document/Plotlines/Essential Storylines/Main Storyline/Main Storyline.md","subpath":"#^Prologue","x":-880,"y":-620,"width":400,"height":580},
-		{
-			"id":"de69fcfe80ececf0",
-			"type":"text",
-			"text":"End",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-130,
-			"y":-330,
-			"width":81,
-			"height":60,
-			"color":"1"
 		},
 		{
 			"id":"083b49701ea09bdd",
@@ -68,16 +57,6 @@
 			"width":193,
 			"height":60,
 			"color":"#0091ff"
-		},
-		{
-			"id":"39c40f2b2bbc0af0",
-			"type":"text",
-			"text":"",
-			"styleAttributes":{"shape":"predefined-process","textAlign":"center"},
-			"x":-240,
-			"y":-261,
-			"width":174,
-			"height":60
 		},
 		{
 			"id":"578e391050bfa5cc",
@@ -160,8 +139,29 @@
 			"styleAttributes":{"shape":"circle","textAlign":"center"},
 			"x":676,
 			"y":-589,
-			"width":144,
-			"height":149
+			"width":124,
+			"height":128
+		},
+		{
+			"id":"de69fcfe80ececf0",
+			"type":"text",
+			"text":"End",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-33,
+			"y":-300,
+			"width":81,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"39c40f2b2bbc0af0",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{"shape":"predefined-process","textAlign":"center"},
+			"x":-240,
+			"y":-300,
+			"width":174,
+			"height":60
 		}
 	],
 	"edges":[
@@ -194,12 +194,12 @@
 			"toSide":"left"
 		},
 		{
-			"id":"acc6b64f62b416b8",
+			"id":"666f98e20c55138b",
 			"styleAttributes":{},
 			"toFloating":false,
-			"fromNode":"c8f9b02a157da967",
+			"fromNode":"c5fb79977b7c4e54",
 			"fromSide":"right",
-			"toNode":"4b23e82768fbecec",
+			"toNode":"8affb4c718e4037e",
 			"toSide":"left"
 		},
 		{
@@ -219,15 +219,6 @@
 			"fromSide":"bottom",
 			"toNode":"de69fcfe80ececf0",
 			"toSide":"top"
-		},
-		{
-			"id":"666f98e20c55138b",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"c5fb79977b7c4e54",
-			"fromSide":"right",
-			"toNode":"8affb4c718e4037e",
-			"toSide":"left"
 		},
 		{
 			"id":"009b497bd0ba885f",

@@ -3,29 +3,6 @@
 		{"id":"c5fb79977b7c4e54","type":"group","x":140,"y":-540,"width":360,"height":800,"label":"Professor Fern's Interview"},
 		{"id":"8d1dbb46daca938e","type":"group","x":-260,"y":-540,"width":340,"height":380,"label":"Lore Intro"},
 		{"id":"a8b40b6532b2c142","type":"group","x":-260,"y":-780,"width":340,"height":140,"label":"Character Creation"},
-		{"id":"c8f9b02a157da967","type":"file","file":"_Narrative Design Document/Plotlines/Essential Storylines/Main Storyline/Main Storyline.md","subpath":"#^Prologue","x":-880,"y":-560,"width":400,"height":580},
-		{
-			"id":"4b23e82768fbecec",
-			"type":"text",
-			"text":"Start",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-400,
-			"y":-740,
-			"width":81,
-			"height":60,
-			"color":"5"
-		},
-		{
-			"id":"c9889d9ef4b4724c",
-			"type":"text",
-			"text":"Input: Pronouns & Body Sprite",
-			"styleAttributes":{"shape":"parallelogram","textAlign":"center"},
-			"x":-227,
-			"y":-740,
-			"width":275,
-			"height":60,
-			"color":"4"
-		},
 		{
 			"id":"de69fcfe80ececf0",
 			"type":"text",
@@ -67,6 +44,29 @@
 			"width":193,
 			"height":60,
 			"color":"5"
+		},
+		{"id":"c8f9b02a157da967","type":"file","file":"_Narrative Design Document/Plotlines/Essential Storylines/Main Storyline/Main Storyline.md","subpath":"#^Prologue","x":-880,"y":-560,"width":400,"height":580},
+		{
+			"id":"4b23e82768fbecec",
+			"type":"text",
+			"text":"Start",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":-400,
+			"y":-740,
+			"width":81,
+			"height":60,
+			"color":"5"
+		},
+		{
+			"id":"c9889d9ef4b4724c",
+			"type":"text",
+			"text":"Input: Pronouns & Body Sprite",
+			"styleAttributes":{"shape":"parallelogram","textAlign":"center"},
+			"x":-227,
+			"y":-740,
+			"width":275,
+			"height":60,
+			"color":"4"
 		},
 		{
 			"id":"8423f4c01e2c5d3f",
@@ -184,24 +184,6 @@
 			"toSide":"left"
 		},
 		{
-			"id":"8b54efa2adb7a2b1",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"7713bed804306bb6",
-			"fromSide":"bottom",
-			"toNode":"083b49701ea09bdd",
-			"toSide":"top"
-		},
-		{
-			"id":"617287169599e945",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"083b49701ea09bdd",
-			"fromSide":"bottom",
-			"toNode":"de69fcfe80ececf0",
-			"toSide":"top"
-		},
-		{
 			"id":"009b497bd0ba885f",
 			"styleAttributes":{},
 			"toFloating":false,
@@ -253,6 +235,24 @@
 			"fromNode":"2ed5c82c2e1b45e8",
 			"fromSide":"bottom",
 			"toNode":"e470229c9e85748a",
+			"toSide":"top"
+		},
+		{
+			"id":"8b54efa2adb7a2b1",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7713bed804306bb6",
+			"fromSide":"bottom",
+			"toNode":"083b49701ea09bdd",
+			"toSide":"top"
+		},
+		{
+			"id":"617287169599e945",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"083b49701ea09bdd",
+			"fromSide":"bottom",
+			"toNode":"de69fcfe80ececf0",
 			"toSide":"top"
 		}
 	],

@@ -40,8 +40,8 @@ _As you set out to explore the port town on your own, you learn new things about
 > [!check] Player Objectives
 > - Learn Basic Crafting
 > - Capture a Pokemon
-> - Complete [[You Guys are Getting Paid?]]
-> - Complete [[Pelipper Population]]
+> - Complete [[Quest - You Guys are Getting Paid?]]
+> - Complete [[Quest - Pelipper Population]]
 > - Meet Sand
 
 ## Act 3. Numerous Shadows

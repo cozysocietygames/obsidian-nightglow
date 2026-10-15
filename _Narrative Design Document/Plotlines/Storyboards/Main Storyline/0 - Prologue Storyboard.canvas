@@ -1,9 +1,93 @@
 {
 	"nodes":[
-		{"id":"c5fb79977b7c4e54","type":"group","x":200,"y":-540,"width":360,"height":800,"label":"Professor Fern's Interview"},
-		{"id":"8d1dbb46daca938e","type":"group","x":-260,"y":-540,"width":340,"height":380,"label":"Lore Intro"},
+		{"id":"c5fb79977b7c4e54","type":"group","collapsed":true,"x":200,"y":-540,"width":360,"height":700,"label":"Professor Fern's Interview"},
+		{
+			"id":"578e391050bfa5cc",
+			"type":"text",
+			"text":"Start\nScene: Ferry",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":270,
+			"y":-521,
+			"width":193,
+			"height":60,
+			"color":"#0091ff"
+		},
+		{
+			"id":"e21408f7b84f3b77",
+			"type":"text",
+			"text":"(Input) Starting Region",
+			"styleAttributes":{"shape":"parallelogram","textAlign":"center"},
+			"x":291,
+			"y":-440,
+			"width":153,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"8423f4c01e2c5d3f",
+			"type":"text",
+			"text":"Gain Bonus Familiarity for some Common Pokemon in Region",
+			"styleAttributes":{"textAlign":"center"},
+			"x":237,
+			"y":-361,
+			"width":260,
+			"height":100
+		},
+		{
+			"id":"fd23d1853ed75150",
+			"type":"text",
+			"text":"(Input) Starter Pokemon",
+			"styleAttributes":{"shape":"parallelogram","textAlign":"center"},
+			"x":295,
+			"y":-240,
+			"width":144,
+			"height":60,
+			"color":"4"
+		},
+		{
+			"id":"6855e4a049ebb9b1",
+			"type":"text",
+			"text":"(Input) Favored Pokemon",
+			"styleAttributes":{"shape":"parallelogram","textAlign":"center"},
+			"x":266,
+			"y":-160,
+			"width":203,
+			"height":59,
+			"color":"4"
+		},
+		{
+			"id":"2ed5c82c2e1b45e8",
+			"type":"text",
+			"text":"Gain Bonus Familiarity for Favored Pokemon",
+			"styleAttributes":{},
+			"x":237,
+			"y":-80,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"e470229c9e85748a",
+			"type":"text",
+			"text":"End",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":326,
+			"y":0,
+			"width":81,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"ad11098dc1627895",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{"shape":"predefined-process","textAlign":"center"},
+			"x":220,
+			"y":80,
+			"width":174,
+			"height":60
+		},
+		{"id":"8d1dbb46daca938e","type":"group","x":-260,"y":-540,"width":340,"height":360,"label":"Lore Intro"},
 		{"id":"a8b40b6532b2c142","type":"group","x":-260,"y":-780,"width":340,"height":140,"label":"Character Creation"},
-		{"id":"578e391050bfa5cc","x":680,"y":-340,"width":193,"height":60,"type":"text","text":""},
 		{"id":"c8f9b02a157da967","type":"file","file":"_Narrative Design Document/Plotlines/Essential Storylines/Main Storyline/Main Storyline.md","subpath":"#^Prologue","x":-880,"y":-560,"width":400,"height":580},
 		{
 			"id":"4b23e82768fbecec",
@@ -28,91 +112,6 @@
 			"color":"4"
 		},
 		{
-			"id":"8423f4c01e2c5d3f",
-			"type":"text",
-			"text":"Gain Bonus Familiarity for some Common Pokemon in Region",
-			"styleAttributes":{"textAlign":"center"},
-			"x":237,
-			"y":-330,
-			"width":260,
-			"height":100
-		},
-		{
-			"id":"fd23d1853ed75150",
-			"type":"text",
-			"text":"(Input) Starter Pokemon",
-			"styleAttributes":{"shape":"parallelogram","textAlign":"center"},
-			"x":295,
-			"y":-190,
-			"width":144,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"6855e4a049ebb9b1",
-			"type":"text",
-			"text":"(Input) Favored Pokemon",
-			"styleAttributes":{"shape":"parallelogram","textAlign":"center"},
-			"x":265,
-			"y":-100,
-			"width":203,
-			"height":59,
-			"color":"4"
-		},
-		{
-			"id":"e21408f7b84f3b77",
-			"type":"text",
-			"text":"(Input) Starting Region",
-			"styleAttributes":{"shape":"parallelogram","textAlign":"center"},
-			"x":290,
-			"y":-420,
-			"width":153,
-			"height":60,
-			"color":"4"
-		},
-		{
-			"id":"7a0ff304cd06b067",
-			"type":"text",
-			"text":"Start\nScene: Ferry",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":251,
-			"y":-520,
-			"width":232,
-			"height":59,
-			"color":"5"
-		},
-		{
-			"id":"e470229c9e85748a",
-			"type":"text",
-			"text":"End",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":326,
-			"y":100,
-			"width":81,
-			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"ad11098dc1627895",
-			"type":"text",
-			"text":"",
-			"styleAttributes":{"shape":"predefined-process","textAlign":"center"},
-			"x":240,
-			"y":180,
-			"width":174,
-			"height":60
-		},
-		{
-			"id":"2ed5c82c2e1b45e8",
-			"type":"text",
-			"text":"Gain Bonus Familiarity for Favored Pokemon",
-			"styleAttributes":{},
-			"x":237,
-			"y":0,
-			"width":260,
-			"height":60
-		},
-		{
 			"id":"de69fcfe80ececf0",
 			"type":"text",
 			"text":"End",
@@ -134,16 +133,6 @@
 			"height":59
 		},
 		{
-			"id":"39c40f2b2bbc0af0",
-			"type":"text",
-			"text":"",
-			"styleAttributes":{"shape":"predefined-process","textAlign":"center"},
-			"x":-227,
-			"y":-250,
-			"width":174,
-			"height":60
-		},
-		{
 			"id":"7713bed804306bb6",
 			"type":"text",
 			"text":"Start\nScene: Black Screen",
@@ -153,6 +142,16 @@
 			"width":193,
 			"height":60,
 			"color":"#0091ff"
+		},
+		{
+			"id":"39c40f2b2bbc0af0",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{"shape":"predefined-process","textAlign":"center"},
+			"x":-240,
+			"y":-261,
+			"width":174,
+			"height":60
 		}
 	],
 	"edges":[
@@ -183,6 +182,24 @@
 			"fromSide":"right",
 			"toNode":"c5fb79977b7c4e54",
 			"toSide":"left"
+		},
+		{
+			"id":"8b54efa2adb7a2b1",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"7713bed804306bb6",
+			"fromSide":"bottom",
+			"toNode":"083b49701ea09bdd",
+			"toSide":"top"
+		},
+		{
+			"id":"617287169599e945",
+			"styleAttributes":{},
+			"toFloating":false,
+			"fromNode":"083b49701ea09bdd",
+			"fromSide":"bottom",
+			"toNode":"de69fcfe80ececf0",
+			"toSide":"top"
 		},
 		{
 			"id":"009b497bd0ba885f",
@@ -221,39 +238,22 @@
 			"toSide":"top"
 		},
 		{
-			"id":"29b258d85eb5016a",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"7a0ff304cd06b067",
-			"fromSide":"bottom",
-			"toNode":"e21408f7b84f3b77",
-			"toSide":"top"
-		},
-		{
 			"id":"5a93c974d4c8b118",
 			"styleAttributes":{},
 			"toFloating":false,
+			"fromFloating":false,
 			"fromNode":"2ed5c82c2e1b45e8",
 			"fromSide":"bottom",
 			"toNode":"e470229c9e85748a",
 			"toSide":"top"
 		},
 		{
-			"id":"8b54efa2adb7a2b1",
+			"id":"c2bc501088cbe830",
 			"styleAttributes":{},
 			"toFloating":false,
-			"fromNode":"7713bed804306bb6",
+			"fromNode":"578e391050bfa5cc",
 			"fromSide":"bottom",
-			"toNode":"083b49701ea09bdd",
-			"toSide":"top"
-		},
-		{
-			"id":"617287169599e945",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"083b49701ea09bdd",
-			"fromSide":"bottom",
-			"toNode":"de69fcfe80ececf0",
+			"toNode":"e21408f7b84f3b77",
 			"toSide":"top"
 		}
 	],

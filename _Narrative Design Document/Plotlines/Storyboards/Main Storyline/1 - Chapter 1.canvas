@@ -4,5 +4,10 @@
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}
+	},
+	"drawInCanvas":{
+		"version":2,
+		"strokes":[],
+		"colorHistory":[]
 	}
 }

@@ -4,6 +4,7 @@ story_year: -12
 story_month: 3
 story_day: 1
 storylines:
+  - "[[Mewtwo's Origin]]"
 ---
 ```dataviewjs
 const {DateUtils} = await cJS();

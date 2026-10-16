@@ -10,9 +10,12 @@
 		- [[SP]]
 - **Sys - Economy**
 	- [[Economy Design]]
-- **[[Sys - Exploration]]**
 - **Sys - Government**
 	- **[[Sys - Buildings]]**
+- **Sys - Maps**
+	- **[[Subsys - Exploration]]**
+	- **Subsys - Map Modification**
+	- [[Subsys - Map]]
 - **[[Sys - Occupations]]**
 	- **Subsys - Working**
 		- **[[Subsys - Services]]**

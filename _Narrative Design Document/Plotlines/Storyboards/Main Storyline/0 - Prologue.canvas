@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"c5fb79977b7c4e54","type":"group","x":200,"y":-540,"width":360,"height":660,"label":"Professor Fern's Interview"},
-		{"id":"8d1dbb46daca938e","type":"group","x":-260,"y":-540,"width":340,"height":330,"label":"Lore Intro"},
+		{"id":"c5fb79977b7c4e54","type":"group","x":-260,"y":-500,"width":360,"height":660,"label":"Professor Fern's Interview"},
+		{"id":"8d1dbb46daca938e","type":"group","x":220,"y":-500,"width":340,"height":330,"label":"Lore Intro"},
 		{"id":"a8b40b6532b2c142","type":"group","x":-260,"y":-780,"width":340,"height":140,"label":"Character Creation"},
 		{
 			"id":"4b23e82768fbecec",
@@ -25,66 +25,14 @@
 			"height":60,
 			"color":"4"
 		},
-		{
-			"id":"8affb4c718e4037e",
-			"type":"text",
-			"text":"[[1 - Chapter 1 Storyboard.canvas|Chapter 1]]",
-			"styleAttributes":{"shape":"circle","textAlign":"center"},
-			"x":676,
-			"y":-589,
-			"width":124,
-			"height":128
-		},
-		{
-			"id":"083b49701ea09bdd",
-			"type":"text",
-			"text":"Introduce the catastrophe many years ago.",
-			"styleAttributes":{"textAlign":"center"},
-			"x":-209,
-			"y":-420,
-			"width":240,
-			"height":59
-		},
-		{
-			"id":"7713bed804306bb6",
-			"type":"text",
-			"text":"Start\nScene: Black Screen",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-186,
-			"y":-521,
-			"width":193,
-			"height":60,
-			"color":"#0091ff"
-		},
-		{
-			"id":"de69fcfe80ececf0",
-			"type":"text",
-			"text":"End",
-			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":-33,
-			"y":-300,
-			"width":81,
-			"height":60,
-			"color":"1"
-		},
-		{
-			"id":"39c40f2b2bbc0af0",
-			"type":"text",
-			"text":"",
-			"styleAttributes":{"shape":"predefined-process","textAlign":"center"},
-			"x":-240,
-			"y":-300,
-			"width":174,
-			"height":60
-		},
 		{"id":"c8f9b02a157da967","type":"file","file":"_Narrative Design Document/Plotlines/Essential Storylines/Main Storyline/Main Storyline.md","subpath":"#^Prologue","x":-719,"y":-651,"width":400,"height":580},
 		{
 			"id":"fd23d1853ed75150",
 			"type":"text",
 			"text":"(Input) Starter Pokemon",
 			"styleAttributes":{"shape":"parallelogram","textAlign":"center"},
-			"x":295,
-			"y":-240,
+			"x":-139,
+			"y":-200,
 			"width":144,
 			"height":60,
 			"color":"4"
@@ -94,8 +42,8 @@
 			"type":"text",
 			"text":"Start\nScene: Ferry",
 			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":270,
-			"y":-521,
+			"x":-163,
+			"y":-481,
 			"width":193,
 			"height":60,
 			"color":"#0091ff"
@@ -105,8 +53,8 @@
 			"type":"text",
 			"text":"(Input) Starting Region",
 			"styleAttributes":{"shape":"parallelogram","textAlign":"center"},
-			"x":291,
-			"y":-440,
+			"x":-144,
+			"y":-400,
 			"width":153,
 			"height":60,
 			"color":"4"
@@ -116,8 +64,8 @@
 			"type":"text",
 			"text":"Gain Bonus Familiarity for some Common Pokemon in Region",
 			"styleAttributes":{"textAlign":"center"},
-			"x":237,
-			"y":-361,
+			"x":-197,
+			"y":-321,
 			"width":260,
 			"height":100
 		},
@@ -126,8 +74,8 @@
 			"type":"text",
 			"text":"(Input) Favored Pokemon",
 			"styleAttributes":{"shape":"parallelogram","textAlign":"center"},
-			"x":266,
-			"y":-160,
+			"x":-169,
+			"y":-120,
 			"width":203,
 			"height":59,
 			"color":"4"
@@ -137,8 +85,8 @@
 			"type":"text",
 			"text":"Gain Bonus Familiarity for Favored Pokemon",
 			"styleAttributes":{},
-			"x":237,
-			"y":-80,
+			"x":-197,
+			"y":-40,
 			"width":260,
 			"height":60
 		},
@@ -147,8 +95,8 @@
 			"type":"text",
 			"text":"",
 			"styleAttributes":{"shape":"predefined-process","textAlign":"center"},
-			"x":220,
-			"y":40,
+			"x":-94,
+			"y":80,
 			"width":174,
 			"height":60
 		},
@@ -157,20 +105,52 @@
 			"type":"text",
 			"text":"End",
 			"styleAttributes":{"shape":"pill","textAlign":"center"},
-			"x":444,
-			"y":40,
+			"x":-225,
+			"y":80,
 			"width":81,
 			"height":60,
 			"color":"1"
 		},
 		{
-			"id":"c8be0a536c3c551f",
+			"id":"083b49701ea09bdd",
+			"type":"text",
+			"text":"Introduce the catastrophe many years ago.",
+			"styleAttributes":{"textAlign":"center"},
+			"x":269,
+			"y":-380,
+			"width":240,
+			"height":59
+		},
+		{
+			"id":"7713bed804306bb6",
+			"type":"text",
+			"text":"Start\nScene: Black Screen",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":293,
+			"y":-481,
+			"width":193,
+			"height":60,
+			"color":"#0091ff"
+		},
+		{
+			"id":"de69fcfe80ececf0",
+			"type":"text",
+			"text":"End",
+			"styleAttributes":{"shape":"pill","textAlign":"center"},
+			"x":252,
+			"y":-260,
+			"width":81,
+			"height":60,
+			"color":"1"
+		},
+		{
+			"id":"39c40f2b2bbc0af0",
 			"type":"text",
 			"text":"",
-			"styleAttributes":{},
-			"x":-186,
-			"y":-71,
-			"width":260,
+			"styleAttributes":{"shape":"predefined-process","textAlign":"center"},
+			"x":366,
+			"y":-260,
+			"width":174,
 			"height":60
 		}
 	],
@@ -199,18 +179,9 @@
 			"styleAttributes":{},
 			"toFloating":false,
 			"fromNode":"8d1dbb46daca938e",
-			"fromSide":"right",
+			"fromSide":"left",
 			"toNode":"c5fb79977b7c4e54",
-			"toSide":"left"
-		},
-		{
-			"id":"666f98e20c55138b",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"c5fb79977b7c4e54",
-			"fromSide":"right",
-			"toNode":"8affb4c718e4037e",
-			"toSide":"left"
+			"toSide":"right"
 		},
 		{
 			"id":"009b497bd0ba885f",
@@ -289,5 +260,10 @@
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{}
+	},
+	"drawInCanvas":{
+		"version":2,
+		"strokes":[],
+		"colorHistory":[]
 	}
 }

@@ -1,0 +1,30 @@
+{
+	"nodes":[
+		{"id":"4050953567629301","type":"group","x":-1200,"y":-880,"width":820,"height":1360,"label":"Mobile View"},
+		{
+			"id":"566250e16a8dc2c7",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-1200,
+			"y":-880,
+			"width":820,
+			"height":120
+		},
+		{
+			"id":"cf09fd9db2cb6e1d",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{"shape":"circle","textAlign":"center"},
+			"x":-1040,
+			"y":-850,
+			"width":60,
+			"height":60
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

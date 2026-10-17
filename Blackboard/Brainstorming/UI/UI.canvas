@@ -90,15 +90,47 @@
 				"line":{
 					"points":[
 						[16.3,16.5],
-						[30.6,18.2]
+						[31.2,16.2]
 					]
 				},
 				"strokeWidth":2
 			},
 			"x":-320,
-			"y":-420,
-			"width":47,
-			"height":35
+			"y":-460,
+			"width":48,
+			"height":33
+		},
+		{
+			"id":"61fb71da7af3485c",
+			"type":"text",
+			"text":"",
+			"x-opc":{
+				"kind":"guide",
+				"guide":{"axis":"h","width":2}
+			},
+			"x":-380,
+			"y":-540,
+			"width":160,
+			"height":24
+		},
+		{
+			"id":"8c571abf2fec0b00",
+			"type":"text",
+			"text":"",
+			"x-opc":{
+				"kind":"line",
+				"line":{
+					"points":[
+						[16.9,17.4],
+						[38.9,16.4]
+					]
+				},
+				"strokeWidth":2
+			},
+			"x":-341,
+			"y":-697,
+			"width":55,
+			"height":34
 		}
 	],
 	"edges":[],

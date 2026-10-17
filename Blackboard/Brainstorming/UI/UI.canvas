@@ -12,14 +12,74 @@
 			"height":120
 		},
 		{
+			"id":"dea86a49fa30a295",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{"shape":"circle","textAlign":"center"},
+			"x":-980,
+			"y":-850,
+			"width":60,
+			"height":60
+		},
+		{
 			"id":"cf09fd9db2cb6e1d",
 			"type":"text",
 			"text":"",
 			"styleAttributes":{"shape":"circle","textAlign":"center"},
-			"x":-1040,
+			"x":-900,
 			"y":-850,
 			"width":60,
 			"height":60
+		},
+		{
+			"id":"100636e928df297d",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{"shape":"circle","textAlign":"center"},
+			"x":-820,
+			"y":-850,
+			"width":60,
+			"height":60
+		},
+		{
+			"id":"977e5c318961bb8c",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{"shape":"circle","textAlign":"center"},
+			"x":-740,
+			"y":-850,
+			"width":60,
+			"height":60
+		},
+		{
+			"id":"79c925c5c24c3f09",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{"shape":"circle","textAlign":"center"},
+			"x":-660,
+			"y":-850,
+			"width":60,
+			"height":60
+		},
+		{
+			"id":"2d65246566c815d4",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{"shape":"circle","textAlign":"center"},
+			"x":-820,
+			"y":-740,
+			"width":60,
+			"height":60
+		},
+		{
+			"id":"94532f330ddb8d84",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{"textAlign":"center"},
+			"x":-60,
+			"y":-300,
+			"width":100,
+			"height":80
 		}
 	],
 	"edges":[],

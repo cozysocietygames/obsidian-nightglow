@@ -82,25 +82,6 @@
 			"height":60
 		},
 		{
-			"id":"05b35cc7c6e59f45",
-			"type":"text",
-			"text":"",
-			"x-opc":{
-				"kind":"line",
-				"line":{
-					"points":[
-						[16.3,16.5],
-						[31.2,16.2]
-					]
-				},
-				"strokeWidth":2
-			},
-			"x":-320,
-			"y":-460,
-			"width":48,
-			"height":33
-		},
-		{
 			"id":"61fb71da7af3485c",
 			"type":"text",
 			"text":"",
@@ -121,16 +102,35 @@
 				"kind":"line",
 				"line":{
 					"points":[
-						[16.9,17.4],
-						[38.9,16.4]
+						[16.9,16.4],
+						[35.9,16.4]
 					]
 				},
 				"strokeWidth":2
 			},
-			"x":-341,
-			"y":-697,
-			"width":55,
-			"height":34
+			"x":-200,
+			"y":-500,
+			"width":52,
+			"height":33
+		},
+		{
+			"id":"05b35cc7c6e59f45",
+			"type":"text",
+			"text":"",
+			"x-opc":{
+				"kind":"line",
+				"line":{
+					"points":[
+						[16.3,16.5],
+						[31.2,16.2]
+					]
+				},
+				"strokeWidth":2
+			},
+			"x":-148,
+			"y":-467,
+			"width":48,
+			"height":33
 		}
 	],
 	"edges":[],

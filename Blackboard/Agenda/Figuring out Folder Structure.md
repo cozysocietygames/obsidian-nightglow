@@ -38,4 +38,9 @@ Team is composed of two lead programmers, and one with an assistive role. The th
 
 # 6. Tooling and deployment
 - Idk the difference between npm and pnpm.
-- 
+- We will use Vite.
+- Idk what Turborepo or Nx are.
+- We don't know where the server and client will be hosted yet. Some suggestions would be nice.
+- We don't know the best way to build the APK yet. You suggested Capacitor in the past, but if you have new suggestions because of new context or memory, then feel free.
+
+# 7. 

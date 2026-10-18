@@ -21,7 +21,6 @@ Clarification: the game itself isn't playable online. But the dev tools will be 
 	- For the Exploration system:
 		- One example is the basic mapchunk-canvas functionalities: loading game assets to be rendered on canvas, drawing filters to simulate ingame daytime or nighttime, collision logic & bounding boxes, panning a game camera to see different parts of the map chunk, mouse key touch listeners to register if a Prop was clicked. These are all shared between the devtool Mapmaker, the ingame Mapplanner available only to ingame Govt Officials, and the Exploration interface itself available to all players.
 		- Another example is the more authoritative interface: adding, upgrading, moving, or deleting a Prop — this is shared between the Mapmaker and the Map, but not the Exploration interface.
-	- 
 
 The ECS core is shared between client and server.
 
@@ -43,4 +42,4 @@ Team is composed of two lead programmers, and one with an assistive role. The th
 - We don't know where the server and client will be hosted yet. Some suggestions would be nice.
 - We don't know the best way to build the APK yet. You suggested Capacitor in the past, but if you have new suggestions because of new context or memory, then feel free.
 
-# 7. 
+# 7. What feels wrong right now

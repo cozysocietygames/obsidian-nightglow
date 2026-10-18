@@ -8,12 +8,29 @@ Here's a list of apps to be shipped to players:
 
 Here's a list of dev tools to be made. It is nonexhaustive as we might need more later on.
 1. Mapmaker - for editing overworld map chunks and connections between them
-2. Propmaker - for defining map props that can be placed on map chunks through Mapmaker or the Game Client's Map-Planning Interface
+2. Propmaker - for defining map props that can be placed on map chunks through Mapmaker or the Game Client's Mapplanner available to Govt Officials
 3. Worldmap Editor - for editing the no-grid World Map that players can view in the client to see an overview of all towns, cities, forests, and the connections between them.
 4. Body Plan Explorer
 5. Name Brainstorm
 
 # 2. What code is shared between the apps?
 
-A few clarifications: our game won't have offline play.
+Clarification: the game itself isn't playable online. But the dev tools will be available offline when possible.
 
+- There will be some code similiarities between some dev tools and the game.
+	- For the Exploration system:
+		- One example is the basic mapchunk-canvas functionalities: loading game assets to be rendered on canvas, drawing filters to simulate ingame daytime or nighttime, collision logic & bounding boxes, panning a game camera to see different parts of the map chunk, mouse key touch listeners to register if a Prop was clicked. These are all shared between the devtool Mapmaker, the ingame Mapplanner available only to ingame Govt Officials, and the Exploration interface itself available to all players.
+		- Another example is the more authoritative interface: adding, upgrading, moving, or deleting a Prop — this is shared between the Mapmaker and the Map, but not the Exploration interface.
+	- 
+
+The ECS core is shared between client and server.
+
+# 3. How game data flows
+
+We still need help visualizing this.
+
+# 4. Assets
+
+We will have sprites, tilesets. Possibly character facial expression art to be displayed in dialogue, story-of-seasons style. No map images are pre-saved; they are all generated dynamically based on the map chunk data indicating what props are where. No audio. We will have some GIFs and images that will be rendered on interfaces outside the Game Canvases, mostly Pokemon GIFs, and images of ingame Items.
+
+# 5. 

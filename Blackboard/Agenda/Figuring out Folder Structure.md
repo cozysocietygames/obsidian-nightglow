@@ -33,4 +33,5 @@ We still need help visualizing this.
 
 We will have sprites, tilesets. Possibly character facial expression art to be displayed in dialogue, story-of-seasons style. No map images are pre-saved; they are all generated dynamically based on the map chunk data indicating what props are where. No audio. We will have some GIFs and images that will be rendered on interfaces outside the Game Canvases, mostly Pokemon GIFs, and images of ingame Items.
 
-# 5. 
+# 5. Team and workflow
+Team is composed of two lead programmers, and one with an assistive role. 

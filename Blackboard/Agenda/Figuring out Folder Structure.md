@@ -35,6 +35,8 @@ We will have sprites, tilesets. Possibly character facial expression art to be d
 # 5. Team and workflow
 Team is composed of two lead programmers, and one with an assistive role. The three of us are the owners and expect full access to the whole repo, though we will be assigned different parts of the project and so we plan to study git branches and how they might help with that. We might welcome an artist to the team in the future, but ideally they won't have access to the programming-related files.
 
+The Obsidian vault should stay separate.
+
 # 6. Tooling and deployment
 - Idk the difference between npm and pnpm.
 - We will use Vite.

@@ -17,4 +17,3 @@ Here's a list of dev tools to be made. It is nonexhaustive as we might need more
 
 A few clarifications: our game won't have offline play.
 
-The battle engine will only run on the giv

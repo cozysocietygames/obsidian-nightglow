@@ -34,4 +34,8 @@ We still need help visualizing this.
 We will have sprites, tilesets. Possibly character facial expression art to be displayed in dialogue, story-of-seasons style. No map images are pre-saved; they are all generated dynamically based on the map chunk data indicating what props are where. No audio. We will have some GIFs and images that will be rendered on interfaces outside the Game Canvases, mostly Pokemon GIFs, and images of ingame Items.
 
 # 5. Team and workflow
-Team is composed of two lead programmers, and one with an assistive role. 
+Team is composed of two lead programmers, and one with an assistive role. The three of us are the owners and expect full access to the whole repo, though we will be assigned different parts of the project and so we plan to study git branches and how they might help with that. We might welcome an artist to the team in the future, but ideally they won't have access to the programming-related files.
+
+# 6. Tooling and deployment
+- Idk the difference between npm and pnpm.
+- 

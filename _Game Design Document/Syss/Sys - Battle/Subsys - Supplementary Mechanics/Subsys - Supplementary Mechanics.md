@@ -6,7 +6,6 @@
 	- [[Supercharging & Planning]]
 - [[Fifth Move]]
 - [[SP]]
-
 %% End Landmark %%
 
 # Objectives

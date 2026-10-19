@@ -27,6 +27,8 @@ Clarification: the game itself isn't playable online. But the dev tools will be 
 	- For the Exploration system:
 		- One example is the basic mapchunk-canvas functionalities: loading game assets to be rendered on canvas, drawing filters to simulate ingame daytime or nighttime, collision logic & bounding boxes, panning a game camera to see different parts of the map chunk, mouse key touch listeners to register if a Prop was clicked. These are all shared between the devtool Mapmaker, the ingame Mapplanner available only to ingame Govt Officials, and the Exploration interface itself available to all players.
 		- Another example is the more authoritative interface: adding, upgrading, moving, or deleting a Prop — this is shared between the Mapmaker and the Map, but not the Exploration interface.
+- There will be some code similarites between some sandboxes and some functionality in the game.
+	- One of us wants to make a Sandbox for testing the battle and it would share a lot of code with the battle once implemented. Naturally.
 
 The ECS core is shared between client and server.
 

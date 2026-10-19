@@ -23,6 +23,8 @@ Here's a list of dev tools to be made. It is nonexhaustive as we might need more
 
 Clarification: the game itself isn't playable online. But the dev tools will be available offline when possible.
 
+Clarification: the in-game government officials who edit maps are players. So yes, the editing logic does need server-side validation—but it's important to note that they can only submit *plans*. They never edit the map directly. It's kind of like making a pull request with the things they changed.
+
 - There will be some code similiarities between some dev tools and the game.
 	- For the Exploration system:
 		- One example is the basic mapchunk-canvas functionalities: loading game assets to be rendered on canvas, drawing filters to simulate ingame daytime or nighttime, collision logic & bounding boxes, panning a game camera to see different parts of the map chunk, mouse key touch listeners to register if a Prop was clicked. These are all shared between the devtool Mapmaker, the ingame Mapplanner available only to ingame Govt Officials, and the Exploration interface itself available to all players.
@@ -55,7 +57,7 @@ The Obsidian vault should stay separate.
 - We don't know where the server and client will be hosted yet. Some suggestions would be nice.
 - We don't know the best way to build the APK yet. You suggested Capacitor in the past, but if you have new suggestions because of new context or memory, then feel free.
 
-# 7. What feels wrong right now
+
 
 ---
 

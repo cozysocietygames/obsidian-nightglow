@@ -50,3 +50,8 @@ The Obsidian vault should stay separate.
 - We don't know the best way to build the APK yet. You suggested Capacitor in the past, but if you have new suggestions because of new context or memory, then feel free.
 
 # 7. What feels wrong right now
+
+
+
+---
+

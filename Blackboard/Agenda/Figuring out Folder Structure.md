@@ -13,8 +13,10 @@ Here's a list of dev tools to be made. It is nonexhaustive as we might need more
 1. Mapmaker - for editing overworld map chunks and connections between them
 2. Propmaker - for defining map props that can be placed on map chunks through Mapmaker or the Game Client's Mapplanner available to Govt Officials
 3. Worldmap Editor - for editing the no-grid World Map that players can view in the client to see an overview of all towns, cities, forests, and the connections between them.
-4. Body Plan Explorer
-5. Name Brainstorm
+4. Move Editor - an interface for viewing move details, and editing them
+5. Player Overview - an interface that allows us to look at all the details related to a certain player
+6. Body Plan Explorer - for viewing bodyplan and integument details, and editing them
+7. Name Brainstorm
 
 # 2. What code is shared between the apps?
 
@@ -33,12 +35,13 @@ We still need help visualizing this.
 
 # 4. Assets
 
-We will have sprites, tilesets. Possibly character facial expression art to be displayed in dialogue, story-of-seasons style. No map images are pre-saved; they are all generated dynamically based on the map chunk data indicating what props are where. No audio. We will have some GIFs and images that will be rendered on interfaces outside the Game Canvases, mostly Pokemon GIFs, and images of ingame Items.
+We will have sprites, tilesets. Possibly character facial expression art to be displayed in dialogue, story-of-seasons style. No map images are pre-saved; they are all generated dynamically based on the map chunk data indicating what props are where. No audio. We will have some GIFs and images that will be rendered on interfaces outside the Game Canvases, mostly Pokemon GIFs, and images of ingame Items. 
 
 # 5. Team and workflow
 Team is composed of two lead programmers, and one with an assistive role. The three of us are the owners and expect full access to the whole repo so we can check one another's work if one needs help, though we will generally be assigned different parts of the project and so we plan to study git branches and how they might help with that. We might welcome an artist to the team in the future, but ideally they won't have access to the programming-related files.
 
 One main issue I can foresee is that—since we will be learning to code in React and Node and any other thing we might need—it is part of our workflow to make "sandboxes" which would have some interrelated files (but interrelated only within that sandbox) so we can test random stuff. In the past, we tended to create several sandboxes unrelated to each other and had a hard time organizing them over the course of the project. 
+- For example, one of us would like to make a Battle Simulator sandbox where they can test the logic of the battle, see how moves interact etc.
 
 The Obsidian vault should stay separate.
 

@@ -16,7 +16,8 @@ Here's a list of dev tools to be made. It is nonexhaustive as we might need more
 4. Move Editor - an interface for viewing move details, and editing them
 5. Player Overview - an interface that allows us to look at all the details related to a certain player
 6. Body Plan Explorer - for viewing bodyplan and integument details, and editing them
-7. Name Brainstorm
+7. NPC Sprite Designing Tool - 
+8. Name Brainstorm
 
 # 2. What code is shared between the apps?
 

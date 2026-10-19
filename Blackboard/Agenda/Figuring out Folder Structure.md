@@ -38,7 +38,7 @@ We will have sprites, tilesets. Possibly character facial expression art to be d
 # 5. Team and workflow
 Team is composed of two lead programmers, and one with an assistive role. The three of us are the owners and expect full access to the whole repo so we can check one another's work if one needs help, though we will generally be assigned different parts of the project and so we plan to study git branches and how they might help with that. We might welcome an artist to the team in the future, but ideally they won't have access to the programming-related files.
 
-One main issue I can foresee is that—since we will be learning to code in React and Node and any other thing we might need—it is part of our workflow to make "sandboxes" which would have some interrelated files but only within that sandbox so we can test random stuff. In the past, we tended to create several sandboxes unrelated to each other and had a hard time organizing them over the course of the project. 
+One main issue I can foresee is that—since we will be learning to code in React and Node and any other thing we might need—it is part of our workflow to make "sandboxes" which would have some interrelated files (but interrelated only within that sandbox) so we can test random stuff. In the past, we tended to create several sandboxes unrelated to each other and had a hard time organizing them over the course of the project. 
 
 The Obsidian vault should stay separate.
 

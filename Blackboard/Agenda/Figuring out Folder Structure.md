@@ -51,7 +51,5 @@ The Obsidian vault should stay separate.
 
 # 7. What feels wrong right now
 
-
-
 ---
 

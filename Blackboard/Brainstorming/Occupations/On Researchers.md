@@ -18,4 +18,4 @@
 
 # Augmentations
 
-Augmentations are temporary buffs
+Augmentations are temporary buffs granted to a Pokemon. 

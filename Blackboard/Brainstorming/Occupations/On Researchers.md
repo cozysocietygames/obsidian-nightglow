@@ -18,4 +18,4 @@
 
 # Augmentations
 
-Augmentations are temporary buffs engineered into a Pokemon by Researchers. Augmentations are unnatural processes, and its 
+Augmentations are temporary buffs engineered into a Pokemon by Researchers. Augmentations are unnatural processes, an 

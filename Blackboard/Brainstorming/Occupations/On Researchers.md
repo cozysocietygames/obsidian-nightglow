@@ -20,4 +20,4 @@
 
 Augmentations are temporary buffs granted to a Pokemon by artificial means. 
 
-In-fiction 
+In-fiction explanation could be something that is administered 

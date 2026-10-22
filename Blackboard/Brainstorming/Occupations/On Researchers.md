@@ -20,4 +20,4 @@
 
 Augmentations are temporary buffs granted to a Pokemon by artificial means. 
 
-We could represent it in-fiction as long-acting injectables (LAI) which is why it wears off after some time. We can categorize them into Fast-clearing LAIs, Moderate-clearing LAIS, and Ultra-Long-clearing LAIs depending on how long before they become undetectable. 
+We could represent them in-fiction as long-acting injectables (LAI) which is why it wears off after some time. We can categorize them into Fast-clearing LAIs, Moderate-clearing LAIS, and Ultra-Long-clearing LAIs depending on how long before they become undetectable and have no effect.

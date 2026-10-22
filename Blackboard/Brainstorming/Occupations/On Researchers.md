@@ -18,3 +18,4 @@
 
 # Augmentations
 
+Augmentations are temporary buffs

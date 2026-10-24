@@ -11,7 +11,7 @@ Not to be confused with the World Map, a Map is a representation of a physical l
 %%  How the system works, in technical language, as specific as possible. %%
 A Map is a representation of a meaningful location on the `overworld`. 
 
-A Map can hold several `Map Entities`. `Map Entities` come in various types: 
+A Map can hold several `Map Props`. `Map Props` come in various types: 
 Blocks which have certain 
 
 

@@ -16,4 +16,4 @@ B: `ABCDEFGHIJKLMNOP`
 then their offspring might be:
 C: `aBcdEFgHiJKLmnOP`
 
-Each character in the string is used as a seed by a randomizer to make a gene
+Each character in the string is used as a seed by a randomizer to make a gene. 

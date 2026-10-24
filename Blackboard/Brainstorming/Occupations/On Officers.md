@@ -7,7 +7,6 @@
 >
 >Each Lookout guarding a Player can thwart 1 Malicious Attempt by a Criminal at the immediate cost of 1 of their Lookout Charges, forcing the Player into a Protected status for some duration. While the player is Protected, Malicious Attempts cannot be made on them by any Criminal. Once the Lookout runs out of Lookout Charges, the Lookout becomes unassigned and is immediately sent back to the Officer to be freely dispatched again.
 >
->
 >>[!warning] The Privacy of Lookouts
 >>If Criminals *freely* know how many Lookouts or Lookout Charges are assigned to a player, then there is no element of risk, as they know exactly how many Lookout Charges they (or even their fellow Criminals if they organize with them) must trigger in order for the player to be vulnerable.
 >>

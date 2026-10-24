@@ -7,13 +7,17 @@ Say we conceptualize a `Great Lookout`  trait. It does nothing on its own except
 
 
 # Gene Groups
-A Pokemon has one or more fields called `Gene Groups` that identify unique inheritable things about it. Say for example a Gene Group is represented by a 16-letter string.
+A Pokemon has one or more fields called `Gene Groups` that identify unique inheritable things about it. Say for example a particular Gene Group labeled A is represented by a 16-letter string, with each character ranging from 0-9A-z. Each Pokemon has two copies of it. 
 
-If two Pokemon have the strings:
-A: `abcdefghijklmnop`
-B: `ABCDEFGHIJKLMNOP`
+If a Skitty has Gene Group A represented by the following:
+Gene Group A1: `abcdefghijklmnop`
+Gene Group A2: `ABCDEFGHIJKLMNOP`
+
+and a Wailord has Gene Group A represented by the following:
+Gene Group A1: `qrstuvwxyz012345`
+Gene Group A2: `QRSTUVWXYZ678999`
 
 then their offspring might be:
-C: `aBcdEFgHiJKLmnOP`
+C: `aRcdEFgHiJKLmnOP`
 
 Each character in the string is used as a seed by a randomizer to make a gene. 

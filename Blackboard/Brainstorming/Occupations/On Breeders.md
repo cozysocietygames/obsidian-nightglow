@@ -13,3 +13,4 @@ Two ways to model it:
 > 
 > We conceptualize a Trait called `Great Lookout`. We decide to attach a Trait Effect that gives them an extra Lookout Charge. The trait will always be called `Great Lookout` but its manifestation is advertised to change based on its effects.
 
+

@@ -11,6 +11,6 @@ Two ways to model it:
 2. Trait Name defines  the Trait and Trait Effects are ways that the Trait manifest
 > [!example] Trait Name defines the Trait
 > 
-> We conceptualize a Trait called `Great Lookout`. We decide to attach a Trait Effect that gives them an extra Lookout Charge. The trait will always be called `Great Lookout` but its manifestation is advertised to change based on its effects.
+> We conceptualize a Trait called `Great Lookout`. We decide to attach a Trait Effect that gives them an extra Lookout Charge. The trait will always be called `Great Lookout` but its manifestation is advertised to change based on what Trait Effects are attached to it.
 
 

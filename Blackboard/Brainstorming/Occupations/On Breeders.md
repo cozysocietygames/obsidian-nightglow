@@ -23,10 +23,8 @@ For instance, I can break up a `VariantProfile` into 16 1-digit variator, 8 2-di
 
 ### A Variator as a Boolean for Trait Presence
 If a Variator is set as a Boolean for Trait Presence, then that means for some range of its values, a Trait is marked absent, and for the remaining range of values, a Trait is marked present. For example, if you have a 4 digit variator: 
-- `0 - 7`: No `Great Lookout` Trait
-- `8 - F`: Has `Great Lookout` Trait
-- `0 - 7`: No `Great Lookout` Trait
-- `8 - F`: Has `Great Lookout` Trait
+- `0000 - FFEF`: Not Shiny
+- `FFF0 - FFFF`: Shiny
 ### A Variator as a Trait Differentiator
 
 If a `VariantProfile` is broken up into 16 1-digit variators, then a variator can take on 16 different values. A piecewise function may then be defined to assign different kinds of traits to different ranges of values. For example: 
@@ -34,6 +32,12 @@ If a `VariantProfile` is broken up into 16 1-digit variators, then a variator ca
 - `4 - 7`: Stealthy
 - `8 - B`: Great Lookout
 - `C - F`: Soothing Presence
+
+### A Variator as a Measure of Trait Strength
+A Variator may indicate the strength of a certain trait.
+- `0 - 3`: Unusually Short
+- `4 - B`: Regular Size
+- `C - F`: Unusually Tall
 
 
 

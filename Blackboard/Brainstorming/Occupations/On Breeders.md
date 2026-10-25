@@ -26,7 +26,7 @@ Complex heritability is when a trait of the mother and a trait of the father is 
 Skitty
 `VariantProfileA`: `009922BB44DD66FF`
 
-
+Breaking up a `VariantProfile` into 16 1-digit traits,
 
 
 

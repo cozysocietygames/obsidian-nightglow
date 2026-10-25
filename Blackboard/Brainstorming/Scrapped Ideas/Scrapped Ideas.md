@@ -1,4 +1,4 @@
-
+# Lookouts
 > [!example] Suggestion: Lookouts (Core Mechanic) (Model 2)
 >A player may hire an Officer to guard them preemptively. The Officer dispatches a number of Pokemon to each serve as Lookouts for the player. Each Lookout can have two states: *Guarding*, or *Distracted*. By default, each Lookout can only be in the *Guarding* state for **30m** maximum, after which they are sent back to the Officer, and the next Lookout takes over.
 >
@@ -16,7 +16,7 @@ Something now
 >>
 
 
-
+# Traits
 Two ways to model it:
 1. Trait Effects define the Trait and a Trait Name is just a label for it
 > [!example] Trait Effects are the core of the Trait
@@ -26,3 +26,16 @@ Two ways to model it:
 > [!example] Trait Name defines the Trait
 > 
 > We conceptualize a Trait called `Great Lookout`. We decide to attach a Trait Effect that gives them an extra Lookout Charge. The trait will always be called `Great Lookout` but its manifestation is advertised to change based on what Trait Effects are attached to it.
+
+
+# Gene Group
+If a Skitty has Gene Group A represented by the following:
+Gene Group A1: `abcdefghijklmnop`
+Gene Group A2: `ABCDEFGHIJKLMNOP`
+
+and a Wailord has Gene Group A represented by the following:
+Gene Group A1: `qrstuvwxyz012345`
+Gene Group A2: `QRSTUVWXYZ678999`
+
+then their offspring might have one of their Gene Groups as:
+Gene Group A: `aRcDuVgwIYzkl2No9`

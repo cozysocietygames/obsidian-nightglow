@@ -7,10 +7,18 @@ Say we conceptualize a `Great Lookout`  trait. It does nothing on its own except
 
 
 # Variant Profile
-A Pokemon has one or more data fields called `VariantProfile` that can be used to generate unique inheritable things about it. Say for example a particular Variant Profile A is represented by a 16-letter string, with each character ranging from A-z. (52 Total) Each Pokemon has two copies of it.
+A Pokemon has one or more data fields called `VariantProfile` that can be used to generate unique inheritable things about it. Say for example a particular Variant Profile is represented by a 16-letter string, with each character ranging from A-z. (52 Total).
+
+Skitty's `VariantProfileA`: `abcdefghijklmnop`
+Wailord's `VariantProfileA`: `ABCDEFGHIJKLMNOP`
 
 
 
-Each character in the string is used as a seed by a randomizer to make a gene. 
+
+
+
+Each character in the string can be used as a seed by a randomizer to make a gene. 
+
+
 
 

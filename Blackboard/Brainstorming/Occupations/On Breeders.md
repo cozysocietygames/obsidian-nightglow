@@ -20,13 +20,7 @@ Skitty
 `VariantProfileA`: `092B4D6F`
 
 
-
-
-
-
-
-
-
+If we ever need it, a genome fragment
 
 Each character in the string can be used as a seed by a randomizer to make a gene. 
 

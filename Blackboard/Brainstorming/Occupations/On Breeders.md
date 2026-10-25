@@ -17,7 +17,25 @@ Wailord
 
 A `VariantProfile` has a lot of flexibility in what it can represent, and thus the design of each `VariantProfile` must be documented well.
 
-For instance, I can break up a `VariantProfile` into 16 1-digit variator, 8 2-digit variators, 4 4-digit variators, 2 8-digit traits, or 1 16-digit trait.
+For instance, I can break up a `VariantProfile` into 16 1-digit variator, 8 2-digit variators, 4 4-digit variators, 2 8-digit variators, or 1 16-digit variator.
+
+## Variators and what they represent
+
+### A Variator as a Boolean for Trait Presence
+If a Variator is set as a Boolean for Trait Presence, then that means for some range of its values, a Trait is marked absent, and for the remaining range of values, a Trait is marked present. For example, if you have a 4 digit variator: 
+- `0 - 7`: No `Great Lookout` Trait
+- `8 - F`: Has `Great Lookout` Trait
+- `0 - 7`: No `Great Lookout` Trait
+- `8 - F`: Has `Great Lookout` Trait
+### A Variator as a Trait Differentiator
+
+If a `VariantProfile` is broken up into 16 1-digit variators, then a variator can take on 16 different values. A piecewise function may then be defined to assign different kinds of traits to different ranges of values. For example: 
+- `0 - 3`: No Trait
+- `4 - 7`: Stealthy
+- `8 - B`: Great Lookout
+- `C - F`: Soothing Presence
+
+
 
 Simple heritability is when an offspring directly inherits their mother's trait or their father's trait, and no recombination occurs.
 

@@ -7,9 +7,7 @@ Say we conceptualize a `Great Lookout`  trait. It does nothing on its own except
 
 
 # Variant Profile
-A Pokemon has one or more data fields called `VariantProfile` that can be used to generate unique inheritable things about it. Say for example a particular Variant Profile is represented by a 8-digit hexadecimal.
-
-
+A Pokemon has one or more data fields called `VariantProfile` that can be used to generate unique inheritable things about it using a seed associated to it. Say for example a particular Variant Profile is represented by a 8-digit hexadecimal, and is seeded with the seed: `TraitSet000`.
 
 Skitty
 `VariantProfileA`: `01234567`

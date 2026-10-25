@@ -26,9 +26,6 @@ Complex heritability is when a trait of the mother and a trait of the father is 
 Skitty
 `VariantProfileA`: `009922BB44DD66FF`
 
-On the other hand, for variant profiles with complex heritabilty, the Variant Profile is split into 8
-
-
 
 
 

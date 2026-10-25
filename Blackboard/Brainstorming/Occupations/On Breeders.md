@@ -7,22 +7,29 @@ Say we conceptualize a `Great Lookout`  trait. It does nothing on its own except
 
 
 # Variant Profile
-A Pokemon has one or more data fields called `VariantProfile` that can be used to generate unique inheritable things about it using a seed associated to it. Say for example a particular Variant Profile is represented by a 8-digit hexadecimal, and is seeded with the seed: `TraitSet000`.
+A Pokemon has one or more data fields called `VariantProfile` that can be used to generate unique inheritable things about it. A Variant Profile is represented by a 16-digit hexadecimal.
 
 Skitty
-`VariantProfileA`: `01234567`
+`VariantProfileA`: `0011223344556677`
 
 Wailord
-`VariantProfileA`: `89ABCDEF`
+`VariantProfileA`: `8899AABBCCDDEEFF`
 
-Their offspring might be:
+For variant profiles that represent simple heritability, the Variant Profile is split into 8 byte pairs. To generate an offspring, one goes through each byte pair, and lets the offspring inherit one from their parent. So such an offspring might be:
+
 Skitty
-`VariantProfileA`: `092B4D6F`
+`VariantProfileA`: `009922BB44DD66FF`
+
+On the other hand, for variant profiles with complex heritabilty, the Variant Profile is split into 8
 
 
-If we ever need it, a genome fragment
 
-Each character in the string can be used as a seed by a randomizer to make a gene. 
+
+
+
+
+
+If we ever need it, a genome fragment. Each character in the string can be used as a seed by a randomizer to make a gene. 
 
 
 

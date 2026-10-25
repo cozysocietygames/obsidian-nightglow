@@ -26,7 +26,7 @@ Complex heritability is when a trait of the mother and a trait of the father is 
 Skitty
 `VariantProfileA`: `009922BB44DD66FF`
 
-Breaking up a `VariantProfile` into 16 1-digit traits,
+Breaking up a `VariantProfile` into 1-digit traits means a trait in this case can take on one of 16 values. Breaking it up into 2-digit traits instead means a trait can take on 256 values. Breaking it up into 4-digit traits means a trait can take on 65536 values. This calls into question whether 8-digit traits or 16-digit traits are meaningful. 
 
 
 

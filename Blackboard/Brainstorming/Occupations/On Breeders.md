@@ -33,7 +33,13 @@ A piecewise function may be defined to assign different kinds of traits to diffe
 - `C - F`: Soothing Presence
 
 ### A Variator as a Measure of Trait Strength
-A Variator may indicate the strength of a certain trait. For instance, for a Variator that indicates a Pokemon's height or weight, it may be used as a translated x-coordinate of the normal distribution.
+A Variator may indicate the strength of a certain trait. For instance, a Variator that indicates a Pokemon's height or weight may be used to generate values of varying magnitude around a mean.
+
+For a 4-digit variator:
+- `0000` : minimum possible value of height/weight.
+- `FFFF` : maximum possible value of height/weight.
+
+
 
 Say we limit the height of a Pokemon to always have a minimum of 80% of its average height and a maximum of 120% of its average height. 
 
@@ -41,8 +47,7 @@ Say we limit the height of a Pokemon to always have a minimum of 80% of its aver
 $$
 h(x) = \frac{1}{\sigma\sqrt{2\pi}}\cdot e^{-\frac{1}{2}(\frac{x-\mu}{\sigma})^2}
 $$
-- `0000` : 
-- `FFFF` : x = $\mu + 2\sigma$
+
 
 
 

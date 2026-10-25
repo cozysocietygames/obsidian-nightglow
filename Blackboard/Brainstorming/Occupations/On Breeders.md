@@ -18,6 +18,11 @@ Gene Group A1: `qrstuvwxyz012345`
 Gene Group A2: `QRSTUVWXYZ678999`
 
 then their offspring might be:
-C: `aRcdEFgHiJKLmnOP`
+
 
 Each character in the string is used as a seed by a randomizer to make a gene. 
+
+
+
+
+C: `aRcDuVgwIYzkl2No9`

@@ -15,7 +15,13 @@ Skitty
 Wailord
 `VariantProfileA`: `8899AABBCCDDEEFF`
 
-For variant profiles that represent simple heritability, the Variant Profile is split into 8 byte pairs. To generate an offspring, one goes through each byte pair, and lets the offspring inherit one from their parent. So such an offspring might be:
+A `VariantProfile` has a lot of flexibility in what it can represent, and thus the design of each `VariantProfile` must be documented well.
+
+For instance, I can break up a `VariantProfile` into 16 1-digit traits, 8 2-digit traits, 4 4-digit traits, 2 8-digit traits, or 1 16-digit trait.
+
+Simple heritability is when an offspring directly inherits their mother's trait or their father's trait, and no recombination occurs.
+
+Complex heritability is when a trait of the mother and a trait of the father is recombined in some way by some manipulation of its digits.
 
 Skitty
 `VariantProfileA`: `009922BB44DD66FF`

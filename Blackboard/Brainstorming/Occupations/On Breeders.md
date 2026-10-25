@@ -17,7 +17,7 @@ Wailord
 
 A `VariantProfile` has a lot of flexibility in what it can represent, and thus the design of each `VariantProfile` must be documented well.
 
-For instance, I can break up a `VariantProfile` into 16 1-digit traits, 8 2-digit traits, 4 4-digit traits, 2 8-digit traits, or 1 16-digit trait.
+For instance, I can break up a `VariantProfile` into 16 1-digit variator, 8 2-digit variators, 4 4-digit variators, 2 8-digit traits, or 1 16-digit trait.
 
 Simple heritability is when an offspring directly inherits their mother's trait or their father's trait, and no recombination occurs.
 

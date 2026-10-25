@@ -26,18 +26,23 @@ If a Variator is set as a Boolean for Trait Presence, then that means for some r
 - `0000 - FFEF`: Not Shiny
 - `FFF0 - FFFF`: Shiny
 ### A Variator as a Trait Differentiator
-
-If a `VariantProfile` is broken up into 16 1-digit variators, then a variator can take on 16 different values. A piecewise function may then be defined to assign different kinds of traits to different ranges of values. For example: 
+A piecewise function may be defined to assign different kinds of traits to different ranges of values. For example: 
 - `0 - 3`: No Trait
 - `4 - 7`: Stealthy
 - `8 - B`: Great Lookout
 - `C - F`: Soothing Presence
 
 ### A Variator as a Measure of Trait Strength
-A Variator may indicate the strength of a certain trait.
-- `0 - 3`: Unusually Short
-- `4 - B`: Regular Size
-- `C - F`: Unusually Tall
+A Variator may indicate the strength of a certain trait. For instance, for a Variator that indicates a Pokemon's height or weight, it may be used as a translated x-coordinate of the normal distribution.
+
+Say we limit the height of a Pokemon to always have a minimum of 80% of its average height and a maximum of 120% of its average height. 
+
+
+$$
+h(x) = \frac{1}{\sigma\sqrt{2\pi}}\cdot e^{-\frac{1}{2}(\frac{x-\mu}{\sigma})^2}
+$$
+- `0000` : 
+- `FFFF` : x = $\mu + 2\sigma$
 
 
 

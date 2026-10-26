@@ -7,13 +7,13 @@ Say we conceptualize a `Great Lookout`  trait. It does nothing on its own except
 
 
 # Variant Profile
-A Pokemon has one or more data fields called `VariantProfile` that can be used to generate unique things about it. A Variant Profile is represented by a positive Integer. 16-digit hexadecimal.
+A Pokemon has one or more data fields called `VariantProfile` that can be used to generate unique things about it. A Variant Profile is represented by a positive integer that represents a binary number of up to 16 digits. (0 to 65535).
 
 Skitty
-`VariantProfileA`: `0011223344556677`
+`VariantProfileA`: `0000 0000 0000 0000`
 
 Wailord
-`VariantProfileA`: `8899AABBCCDDEEFF`
+`VariantProfileA`: `1111 1111 1111 1111`
 
 A `VariantProfile` has a lot of flexibility in what it can represent, and thus the design of each `VariantProfile` must be documented well.
 

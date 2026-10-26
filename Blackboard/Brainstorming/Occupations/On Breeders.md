@@ -7,7 +7,7 @@ Say we conceptualize a `Great Lookout`  trait. It does nothing on its own except
 
 
 # Variant Profile
-A Pokemon has one or more data fields called `VariantProfile` that can be used to generate unique inheritable things about it. A Variant Profile is represented by a 16-digit hexadecimal.
+A Pokemon has one or more data fields called `VariantProfile` that can be used to generate unique things about it. A Variant Profile is represented by a 16-digit hexadecimal.
 
 Skitty
 `VariantProfileA`: `0011223344556677`
@@ -22,9 +22,14 @@ For instance, I can break up a `VariantProfile` into 16 1-digit variator, 8 2-di
 ## Variators and what they represent
 
 ### A Variator as a Boolean for Trait Presence
-If a Variator is set as a Boolean for Trait Presence, then that means for some range of its values, a Trait is marked absent, and for the remaining range of values, a Trait is marked present. For example, if you have a 4 digit variator: 
+If a Variator is set as a Boolean for Trait Presence, then that means for some range of its values, a Trait is marked absent, and for the remaining range of values, a Trait is marked present. For example, if you have a 4 digit variator you can replicate the `1/4096` chance of getting a shiny with the following piecewise: 
 - `0000 - FFEF`: Not Shiny
 - `FFF0 - FFFF`: Shiny
+
+If you split the variator into 
+
+If Shininess cannot be inherited, then 
+
 ### A Variator as a Trait Differentiator
 A piecewise function may be defined to assign different kinds of traits to different ranges of values. For a crude example: 
 - `0 - 3`: No Trait
@@ -70,8 +75,8 @@ E: 1.2
 F: Reroll
 ```
 
-#### IV-like values:
-In a way, IVs are single-digit variators indicating the strength of that trait through $f(x)=x.$ They can be stored in a variator, but perhaps it is better to store them in individual fields due to how 
+### Storing IVs as Variators:
+IVs can be represented as digits indicating the strength of that trait through $f(x)=x.$ They can be stored in a variator, but perhaps it is better to store them in individual fields due to how 
 
 
 

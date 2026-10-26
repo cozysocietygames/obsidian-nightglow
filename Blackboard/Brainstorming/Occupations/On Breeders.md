@@ -44,12 +44,6 @@ For a 4-digit variator:
 Say we limit the height of a Pokemon to always have a minimum of 80% of its average height and a maximum of 120% of its average height. 
 
 
-$$
-h(x) = \frac{1}{\sigma\sqrt{2\pi}}\cdot e^{-\frac{1}{2}(\frac{x-\mu}{\sigma})^2}
-$$
-
-
-
 
 Simple heritability is when an offspring directly inherits their mother's trait or their father's trait, and no recombination occurs.
 

@@ -39,3 +39,11 @@ Gene Group A2: `QRSTUVWXYZ678999`
 
 then their offspring might have one of their Gene Groups as:
 Gene Group A: `aRcDuVgwIYzkl2No9`
+
+
+
+$$
+h(x) = \frac{1}{\sigma\sqrt{2\pi}}\cdot e^{-\frac{1}{2}(\frac{x-\mu}{\sigma})^2}
+$$
+
+

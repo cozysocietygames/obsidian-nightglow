@@ -40,9 +40,40 @@ For a 2-digit variator:
 - `00` : minimum possible value of height/weight.
 - `FF` : maximum possible value of height/weight.
 This can lead to 256 different variations resulting in a very granular height/weight. If that is overkill, then a 1-digit variator may be used instead. 
-You can use the normInv function 
 
-Say we limit the height of a Pokemon to always have a minimum of 80% of its average height and a maximum of 120% of its average height. 
+You can use the normInv function to compute multipliers.
+Say we limit the height of a Pokemon to always have a minimum of 80% of its average height and a maximum of 120% of its average height. Now, if we use all 16 values of the 1-digit variator, then there is no median value that lands at exactly 100% of the average height/weight. So if we use 15 of the 16 instead, always rerolling if the variator hits `F`, then the multipliers for height/weight becomes:
+
+```
+const MULTIPLIERS = [
+0.8000, 0.8602, 0.8945, 0.9206, 0.9428,
+0.9628, 0.9817, 1.0000, 1.0183, 1.0372,
+1.0572, 1.0794, 1.1055, 1.1398, 1.2000 ];
+```
+
+Or, rounding off:
+```
+0: 0.8
+1: 0.86
+2: 0.89
+3: 0.92
+4: 0.94
+5: 0.96
+6: 0.98
+7: 1.00
+8: 1.02
+9: 1.04
+A: 1.06
+B: 1.08
+C: 1.11
+D: 1.14
+E: 1.2
+F: Reroll
+```
+
+#### IV-like values:
+In a way, IVs are single-digit variators indicating the strength of that trait through $f(x)=x.$ They can be stored in a variator, but perhaps it is better 
+
 
 
 

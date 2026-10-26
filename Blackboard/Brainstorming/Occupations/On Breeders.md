@@ -27,6 +27,9 @@ If a Variator is set as a Boolean for Trait Presence, then that means for some r
 - `FFF0 - FFFF`: Shiny
 
 If you use an 8-digit variator, you can replicate the `1/4096` chance of getting a shiny with the following piecewise:
+- `00000000 - FFEFFFFF`: Not Shiny
+- `FFF00000 - FFFFFFFF`: Shiny
+
 
 
 If Shininess cannot be inherited, then 

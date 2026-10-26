@@ -36,11 +36,11 @@ Variators as Trait Differentiators are best for Traits that are mutually exclusi
 ### A Variator as a Measure of Trait Strength
 A Variator may indicate the strength of a certain trait. For instance, a Variator that indicates a Pokemon's height or weight may be used to generate values of varying magnitude around a mean.
 
-For a 4-digit variator:
-- `0000` : minimum possible value of height/weight.
-- `FFFF` : maximum possible value of height/weight.
-
-
+For a 2-digit variator:
+- `00` : minimum possible value of height/weight.
+- `FF` : maximum possible value of height/weight.
+This can lead to 256 different variations resulting in a very granular height/weight. If that is overkill, then a 1-digit variator may be used instead. 
+You can use the normInv function 
 
 Say we limit the height of a Pokemon to always have a minimum of 80% of its average height and a maximum of 120% of its average height. 
 

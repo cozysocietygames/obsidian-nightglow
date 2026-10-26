@@ -89,7 +89,7 @@ Breaking up a `VariantProfile` into 1-digit traits means a trait in this case ca
 
 
 
-If we ever need it, a genome fragment. Each character in the string can be used as a seed by a randomizer to make a gene. 
+If we ever need it, each character in the string can be used as a seed by a randomizer to make a a genome fragment.
 
 
 

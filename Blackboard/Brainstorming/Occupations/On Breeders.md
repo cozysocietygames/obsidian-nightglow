@@ -23,8 +23,8 @@ For instance, I can break up a `VariantProfile` into 16 1-digit variator, 8 2-di
 
 ### A Variator as a Boolean for Trait Presence
 If a Variator is set as a Boolean for Trait Presence, then that means for some range of its values, a Trait is marked absent, and for the remaining range of values, a Trait is marked present. For example, if you have a 4 digit variator you can replicate the `1/4096` chance of getting a shiny with the following piecewise: 
-- `0000 - FFEF`: Not Shiny
-- `FFF0 - FFFF`: Shiny
+- `0000 0000 0000 0000 - 0000 0000 0000 0000`: Not Shiny
+- `1111 1111 1111 0000 - 1111 1111 1111 1111`: Shiny
 
 If you use an 8-digit variator, you can replicate the `1/4096` chance of getting a shiny with the following piecewise:
 - `00000000 - FFEFFFFF`: Not Shiny

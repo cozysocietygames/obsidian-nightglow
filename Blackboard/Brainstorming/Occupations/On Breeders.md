@@ -41,7 +41,7 @@ For a 2-digit variator:
 This can lead to 256 different variations resulting in a very granular height/weight. If that is overkill, then a 1-digit variator may be used instead. 
 
 You can use the normInv function to compute multipliers.
-Say we limit the height of a Pokemon to always have a minimum of 80% of its average height and a maximum of 120% of its average height. Now, if we use all 16 values of the 1-digit variator, then there is no median value that lands at exactly 100% of the average height/weight. So if we use 15 of the 16 instead, always rerolling if the variator hits `F`, then the multipliers for height/weight becomes:
+Say we limit the height of a Pokemon to always have a minimum of 80% of its average height and a maximum of 120% of its average height. Now, if we use all 16 values of the 1-digit variator to make a symmetric distribution, then there is no median value that lands at exactly 100% of the average height/weight. So if we use 15 of the 16 instead, always rerolling if the variator hits `F`, then the multipliers for height/weight becomes:
 
 ```
 const MULTIPLIERS = [

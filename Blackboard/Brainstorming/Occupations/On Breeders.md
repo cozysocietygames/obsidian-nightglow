@@ -31,7 +31,6 @@ A piecewise function may be defined to assign different kinds of traits to diffe
 - `4 - 7`: Stealthy
 - `8 - B`: Great Lookout
 - `C - F`: Soothing Presence
-Variators as Trait Differentiators are best for Traits that are mutually exclusive.
 
 ### A Variator as a Measure of Trait Strength
 A Variator may indicate the strength of a certain trait. For instance, a Variator that indicates a Pokemon's height or weight may be used to generate values of varying magnitude around a mean.
@@ -72,7 +71,7 @@ F: Reroll
 ```
 
 #### IV-like values:
-In a way, IVs are single-digit variators indicating the strength of that trait through $f(x)=x.$ They can be stored in a variator, but perhaps it is better 
+In a way, IVs are single-digit variators indicating the strength of that trait through $f(x)=x.$ They can be stored in a variator, but perhaps it is better to store them in individual fields due to how 
 
 
 

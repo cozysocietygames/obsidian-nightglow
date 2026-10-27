@@ -58,7 +58,7 @@ Say we want traits useful to a single Occupation to be exclusive, traits useful 
 - `n0 = ?100 AND n1 = ?1??` : Martyr
 The condition on `n0` sets the base probability of a trait to be `1/8` because of three constraints, while `n1` sets adds an additional multiplier of `1/2` to it.
 
-It is more useful to define exclusive traits under a single `VariantProfile`, because to have parallel traits A and B usually means you don't want inheritance of A to affect the inheritance of B. If that is the case, it is simply better to make a new `VariantProfile`.
+It is more useful to define traits under a single `VariantProfile` to be exclusive, because if you want to design parallel traits A and B it would usually mean you don't want inheritance of A to affect the inheritance of B. If that is the case, it is simply better to separate the traits into their own `VariantProfile`.
 
 ### A Variator as a Measure of Trait Strength
 A Variator may indicate the strength of a certain trait. For instance, a Variator that indicates a Pokemon's height or weight may be used to generate values of varying magnitude around a mean.

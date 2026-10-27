@@ -32,6 +32,9 @@ A `VariantProfile` acts as a 16-digit variator and has a lot of flexibility in w
 > 
 `n0[0] != n2[0] AND n1[3] != n3[3]`
 > > the first digits of the first and second nibbles are not equal and the fourth digits of the second and fourth nibbles are not equal.
+> 
+> `#1(n0 XOR n2) = 1`
+> > one bit in the digits of the first and third nibble
 
 ## Variators and what they represent
 

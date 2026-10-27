@@ -17,7 +17,7 @@ Wailord
 
 A `VariantProfile` has a lot of flexibility in what it can represent, and thus the design of each `VariantProfile` must be documented well.
 
-For instance, I can break up a `VariantProfile` into 16 1-digit variator, 8 2-digit variators, 4 4-digit variators, 2 8-digit variators, or 1 16-digit variator.
+For instance, I can break up a `VariantProfile` into 16 1-digit variators, 8 2-digit variators, 4 4-digit variators, 2 8-digit variators, or 1 16-digit variator.
 
 ## Variators and what they represent
 
@@ -29,13 +29,7 @@ Examples:
 - `0000 0000 0000 0000`: Shiny
 - `1001 1001 1001 1001`: Shiny
 
-If you use an 8-digit variator, you can replicate the `1/4096` chance of getting a shiny with the following piecewise:
-- `00000000 - FFEFFFFF`: Not Shiny
-- `FFF00000 - FFFFFFFF`: Shiny
-
-
-
-If Shininess cannot be inherited, then 
+If inheritance takes one bit at random from each parent then even if both parents are shiny, there is no guarantee that the child will be shiny. To ensure that parents with the same nibble pattern aren't guaranteed a shiny child, we must also include mutation: the possibility of a bit mutating as opposed to just copying one from the parents. The exact rules can be tailored according to our needs. 
 
 ### A Variator as a Trait Differentiator
 A piecewise function may be defined to assign different kinds of traits to different ranges of values. For a crude example: 

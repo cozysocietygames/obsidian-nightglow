@@ -50,10 +50,10 @@ If inheritance takes one bit at random from each parent then even if both parent
 
 ### A Variator as a Trait Differentiator
 A piecewise function may be defined to assign different kinds of traits to different ranges of values. For a crude example: 
-- `n0 = ???1` : Stealthy
-- `n0 = ??1?` : Trickster
-- `n0 = ?1??` : Elusive
-- `n0 = 1???` : Martyr
+- `n0 n1 = ???1 1000` : Stealthy
+- `n0 n1 = ??1? 1000` : Trickster
+- `n0 m1 = ?1?? 1000` : Elusive
+- `n0 n1 = 1??? 1000` : Martyr
 
 ### A Variator as a Measure of Trait Strength
 A Variator may indicate the strength of a certain trait. For instance, a Variator that indicates a Pokemon's height or weight may be used to generate values of varying magnitude around a mean.
@@ -101,11 +101,6 @@ IVs can be represented as digits indicating the strength of that trait through $
 
 
 Simple heritability is when an offspring directly inherits their mother's trait or their father's trait, and no recombination occurs.
-
-Complex heritability is when a trait of the mother and a trait of the father is recombined in some way by some manipulation of its digits.
-
-Skitty
-`VariantProfileA`: `009922BB44DD66FF`
 
 Breaking up a `VariantProfile` into 1-digit traits means a trait in this case can take on one of 16 values. Breaking it up into 2-digit traits instead means a trait can take on 256 values. Breaking it up into 4-digit traits means a trait can take on 65536 values. This calls into question whether 8-digit traits or 16-digit traits are meaningful. 
 

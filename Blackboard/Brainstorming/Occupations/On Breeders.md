@@ -29,7 +29,7 @@ Examples:
 - `0000 0000 0000 0000`: Shiny
 - `1001 1001 1001 1001`: Shiny
 
-If inheritance takes one bit at random from each parent then even if both parents are shiny, there is no guarantee that the child will be shiny. To ensure that parents with the same nibble pattern aren't guaranteed a shiny child, we must also include mutation: the possibility of a bit mutating as opposed to just copying one from the parents. The exact rules can be tailored according to our needs. 
+If inheritance takes one bit at random from each parent then even if both parents are shiny, there is no guarantee that the child will be shiny. The chance of  To ensure that parents with the same nibble pattern aren't guaranteed a shiny child, we must also include mutation: the possibility of a bit mutating as opposed to just copying one from the parents. The exact rules can be tailored according to our needs. 
 
 ### A Variator as a Trait Differentiator
 A piecewise function may be defined to assign different kinds of traits to different ranges of values. For a crude example: 

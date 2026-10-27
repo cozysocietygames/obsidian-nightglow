@@ -41,9 +41,10 @@ A piecewise function may be defined to assign different kinds of traits to diffe
 ### A Variator as a Measure of Trait Strength
 A Variator may indicate the strength of a certain trait. For instance, a Variator that indicates a Pokemon's height or weight may be used to generate values of varying magnitude around a mean.
 
-For a 2-digit variator:
-- `00` : minimum possible value of height/weight.
-- `FF` : maximum possible value of height/weight.
+A 4-digit variator may be used:
+- `0000` : reroll into a valid value
+- `0001` : minimum possible value of height/weight.
+- `1111` : maximum possible value of height/weight.
 This can lead to 256 different variations resulting in a very granular height/weight. If that is overkill, then a 1-digit variator may be used instead. 
 
 You can use the normInv function to compute multipliers.
@@ -58,22 +59,22 @@ const MULTIPLIERS = [
 
 Or, rounding off:
 ```
-0: 0.8
-1: 0.86
-2: 0.89
-3: 0.92
-4: 0.94
-5: 0.96
-6: 0.98
-7: 1.00
-8: 1.02
-9: 1.04
-A: 1.06
-B: 1.08
-C: 1.11
-D: 1.14
-E: 1.2
-F: Reroll
+0: Reroll
+1: 0.8
+2: 0.86
+3: 0.89
+4: 0.92
+5: 0.94
+6: 0.96
+7: 0.98
+8: 1.00
+9: 1.02
+10: 1.04
+11: 1.06
+12: 1.08
+13: 1.11
+14: 1.14
+15: 1.2
 ```
 
 ### Storing IVs as Variators:

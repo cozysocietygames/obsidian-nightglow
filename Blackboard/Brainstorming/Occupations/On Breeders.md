@@ -15,16 +15,19 @@ Skitty
 Wailord
 `VariantProfileA`: `1111 1111 1111 1111`
 
-A `VariantProfile` has a lot of flexibility in what it can represent, and thus the design of each `VariantProfile` must be documented well.
+A `VariantProfile` acts as a 16-digit variator and has a lot of flexibility in what it can represent, and thus the design of each `VariantProfile` must be documented well. Some notation and their meanings:
 
-For instance, I can break up a `VariantProfile` into 16 1-digit variators, 8 2-digit variators, 4 4-digit variators, 2 8-digit variators, or 1 16-digit variator.
+`1?11` - a value of a nibble that matches any nibble where its first, third, and fourth digit is 1, with any digit for the second. 
+`n0` - the first nibble
+`#1(n1) >= 3` - the second nibble has at least three 1s.
+`#0(n2 n3) = 4` - the third and fourth nibble combined/concatenated (as an 8-bit group) has exactly 4 0s. 
 
 ## Variators and what they represent
 
 ### A Variator as a Boolean for Trait Presence
 If a Variator is set as a Boolean for Trait Presence, then that means for some range of its values, a Trait is marked absent, and for the remaining range of values, a Trait is marked present. For example, if you have a 4 digit variator you can replicate the `1/4096` chance of getting a shiny with the following piecewise: 
-- All four nibbles the same: Shiny
-- Otherwise: Not Shiny
+- `n0 = n1 = n2 = n3` : Shiny
+- `Else` : Not Shiny
 Examples:
 - `0000 0000 0000 0000`: Shiny
 - `1001 1001 1001 1001`: Shiny
@@ -33,9 +36,10 @@ If inheritance takes one bit at random from each parent then even if both parent
 
 ### A Variator as a Trait Differentiator
 A piecewise function may be defined to assign different kinds of traits to different ranges of values. For a crude example: 
-- First nibble has three 1s: Stealthy
-- Second nibble has three 1s: Great Lookout
-- Third nibble has three 1s: Soothing Presence
+- `0001 ???? ???? ????`: Stealthy
+- `0010 ???? ???? ????`: Stealthy
+- `#1(n0) = 3` : Great Lookout
+- `#1(n0) = 3`: Soothing Presence
 
 ### A Variator as a Measure of Trait Strength
 A Variator may indicate the strength of a certain trait. For instance, a Variator that indicates a Pokemon's height or weight may be used to generate values of varying magnitude around a mean.

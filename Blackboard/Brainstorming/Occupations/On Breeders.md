@@ -51,12 +51,14 @@ If inheritance takes one bit at random from each parent then even if both parent
 ### A Variator as a Trait Differentiator
 A piecewise function may be defined to assign different kinds of traits to different ranges of values. For a crude example:
 
-Say we want traits useful to a single Occupation to be exclusive, we can design the piecewise for a `VariantProfileCriminalTraits`:
+Say we want traits useful to a single Occupation to be exclusive, traits useful to the Criminals, say. We can group them under a `VariantProfile` and differentiate them with rules:
 - `n0 = 100? AND n1 = 1???` : Stealthy
 - `n0 = 00?1 AND n1 = ???1` : Trickster
 - `n0 = 0?10 AND n1 = ??1?` : Elusive
 - `n0 = ?100 AND n1 = ?1??` : Martyr
 The condition on `n0` sets the base probability of a trait to be `1/8` because of three constraints, while `n1` sets adds an additional multiplier of `1/2` to it.
+
+It is more useful to define exclusive traits under a single `VariantProfile`, because to have parallel traits A and B usually means you don't want inheritance of A to affect the inheritance of B. If that is the case, it is simply better to make a new `VariantProfile`.
 
 ### A Variator as a Measure of Trait Strength
 A Variator may indicate the strength of a certain trait. For instance, a Variator that indicates a Pokemon's height or weight may be used to generate values of varying magnitude around a mean.

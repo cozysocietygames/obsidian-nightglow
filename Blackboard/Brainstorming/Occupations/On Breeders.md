@@ -17,7 +17,7 @@ Wailord
 
 A `VariantProfile` acts as a 16-digit variator and has a lot of flexibility in what it can represent, and thus the design of each `VariantProfile` must be documented well. Some notation and their meanings:
 
-`1?11` - a value of a nibble that matches any nibble where its first, third, and fourth digit is 1, with any digit for the second. 
+`n3 = 1?11` - the fourth nibble's first, third, and fourth digit is 1, with either 1 or 0 for the second digit. 
 `n0` - the first nibble
 `#1(n1) >= 3` - the second nibble has at least three 1s.
 `#0(n2 n3) = 4` - the third and fourth nibble combined/concatenated (as an 8-bit group) has exactly 4 0s. 
@@ -36,9 +36,9 @@ If inheritance takes one bit at random from each parent then even if both parent
 
 ### A Variator as a Trait Differentiator
 A piecewise function may be defined to assign different kinds of traits to different ranges of values. For a crude example: 
-- `0001 ???? ???? ????`: Stealthy
-- `0010 ???? ???? ????`: Stealthy
-- `#1(n0) = 3` : Great Lookout
+- `n1 = ???1`: Stealthy
+- `n1 = ??1?`: Stealthy
+- `n1 = ?1??` : Great Lookout
 - `#1(n0) = 3`: Soothing Presence
 
 ### A Variator as a Measure of Trait Strength

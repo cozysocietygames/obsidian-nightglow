@@ -3,7 +3,7 @@ I was considering a system in which Pokemon have Traits that are permanent in na
 
 We get more flexibility if we treat a Trait as a composition of its Trait Effects.
 
-Say we conceptualize a `Great Lookout`  trait. It does nothing on its own except serve as a label that describes what kind of effects a Player might expect. For a certain version, we could define the trait to have the `Extra Lookout Charge` effect, which grants them an extra [[On Officers#Lookouts|Lookout Charge]]. In a future update, we might redefine the `Great Lookout` trait to have a different effect instead, for example `Prolonged Protection` which grants the player a Protected status for a longer duration when a Lookout Charge is consumed. In this way, we can refine the effects of traits for the sake of rebalancing without having to force-remove the traits from the Pokemon who already have it. Trait effects are the different ways a Trait might manifest.
+Say we conceptualize a `Alert`  trait. It does nothing on its own except serve as a label that describes what kind of effects a Player might expect. For a certain version, we could define the trait to have the `Extra Lookout Charge` effect, which grants them an extra [[On Officers#Lookouts|Lookout Charge]]. In a future update, we might redefine the `Alert` trait to have a different effect instead, for example `Prolonged Protection` which grants the player a Protected status for a longer duration when a Lookout Charge is consumed. In this way, we can refine the effects of traits for the sake of rebalancing without having to force-remove the traits from the Pokemon who already have it. Trait effects are the different ways a Trait might manifest.
 
 
 # Variant Profile
@@ -52,7 +52,7 @@ If inheritance takes one bit at random from each parent then even if both parent
 A piecewise function may be defined to assign different kinds of traits to different ranges of values. For a crude example: 
 - `n0 = ???1`: Stealthy
 - `n0 = ??1?`: Stealthy
-- `n0 = ?1??` : Great Lookout
+- `n0 = ?1??` : Alert
 - `#1(n0) = 3`: Soothing Presence
 
 ### A Variator as a Measure of Trait Strength

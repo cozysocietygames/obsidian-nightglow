@@ -53,7 +53,7 @@ A piecewise function may be defined to assign different kinds of traits to diffe
 - `n0 = ???1` : Stealthy
 - `n0 = ??1?` : Trickster
 - `n0 = ?1??` : Elusive
-- `n0 = 1???` : Martyt
+- `n0 = 1???` : Martyr
 
 ### A Variator as a Measure of Trait Strength
 A Variator may indicate the strength of a certain trait. For instance, a Variator that indicates a Pokemon's height or weight may be used to generate values of varying magnitude around a mean.

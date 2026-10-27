@@ -17,10 +17,21 @@ Wailord
 
 A `VariantProfile` acts as a 16-digit variator and has a lot of flexibility in what it can represent, and thus the design of each `VariantProfile` must be documented well. Some notation and their meanings:
 
-`n3 = 1?11` - the fourth nibble's first, third, and fourth digit is 1, with either 1 or 0 for the second digit. 
-`n0` - the first nibble
-`#1(n1) >= 3` - the second nibble has at least three 1s.
-`#0(n2 n3) = 4` - the third and fourth nibble combined/concatenated (as an 8-bit group) has exactly 4 0s. 
+> [!info] Notation Examples
+`n3 = 1?11`
+> > the fourth nibble's first, third, and fourth digit is 1, with either 1 or 0 for the second digit. 
+> 
+ `n0` 
+> > the first nibble.
+> 
+> `#1(n1) >= 3`
+> >the second nibble has at least three 1s.
+> 
+`#0(n2 n3) = 4`
+> > the third and fourth nibble combined/concatenated (as an 8-bit group) has exactly 4 0s. 
+> 
+`n0[0] != n2[0] AND n1[3] != n3[3]`
+> > the first digits of the first and second nibbles are not equal and the fourth digits of the second and fourth nibbles are not equal.
 
 ## Variators and what they represent
 
@@ -36,9 +47,9 @@ If inheritance takes one bit at random from each parent then even if both parent
 
 ### A Variator as a Trait Differentiator
 A piecewise function may be defined to assign different kinds of traits to different ranges of values. For a crude example: 
-- `n1 = ???1`: Stealthy
-- `n1 = ??1?`: Stealthy
-- `n1 = ?1??` : Great Lookout
+- `n0 = ???1`: Stealthy
+- `n0 = ??1?`: Stealthy
+- `n0 = ?1??` : Great Lookout
 - `#1(n0) = 3`: Soothing Presence
 
 ### A Variator as a Measure of Trait Strength

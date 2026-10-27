@@ -51,9 +51,8 @@ If inheritance takes one bit at random from each parent then even if both parent
 ### A Variator as a Trait Differentiator
 A piecewise function may be defined to assign different kinds of traits to different ranges of values. For a crude example: 
 - `n0 = ???1`: Stealthy
-- `n0 = ??1?`: Stealthy
-- `n0 = ?1??` : Alert
-- `#1(n0) = 3`: Soothing Presence
+- `n0 = ??1?`: Trickster
+- `n0 = ?1??` : Elusive
 
 ### A Variator as a Measure of Trait Strength
 A Variator may indicate the strength of a certain trait. For instance, a Variator that indicates a Pokemon's height or weight may be used to generate values of varying magnitude around a mean.

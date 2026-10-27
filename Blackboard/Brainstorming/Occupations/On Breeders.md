@@ -49,11 +49,14 @@ Examples:
 If inheritance takes one bit at random from each parent then even if both parents are shiny, there is no guarantee that the child will be shiny. The chance of  To ensure that parents with the same nibble pattern aren't guaranteed a shiny child, we must also include mutation: the possibility of a bit mutating as opposed to just copying one from the parents. The exact rules can be tailored according to our needs. 
 
 ### A Variator as a Trait Differentiator
-A piecewise function may be defined to assign different kinds of traits to different ranges of values. For a crude example: 
-- `n0 n1 = ???1 1000` : Stealthy
-- `n0 n1 = ??1? 1000` : Trickster
-- `n0 m1 = ?1?? 1000` : Elusive
-- `n0 n1 = 1??? 1000` : Martyr
+A piecewise function may be defined to assign different kinds of traits to different ranges of values. For a crude example:
+
+Say we want traits useful to a single Occupation to be exclusive, we can design the piecewise for a `VariantProfileCriminalTraits`:
+- `n0 = 100? AND n1 = 1???` : Stealthy
+- `n0 = 00?1 AND n1 = ???1` : Trickster
+- `n0 = 0?10 AND n1 = ??1?` : Elusive
+- `n0 = ?100 AND n1 = ?1??` : Martyr
+The condition on `n0` sets the base probability of a trait to be `1/8` because of three constraints, while `n1` sets adds an additional multiplier of `1/2` to it.
 
 ### A Variator as a Measure of Trait Strength
 A Variator may indicate the strength of a certain trait. For instance, a Variator that indicates a Pokemon's height or weight may be used to generate values of varying magnitude around a mean.

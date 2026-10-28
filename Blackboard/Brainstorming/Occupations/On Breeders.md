@@ -58,7 +58,7 @@ Say we want traits useful to a single Occupation to be exclusive, traits useful 
 - `n0 = ?100 AND n1 = ?1??` : Martyr
 The condition on `n0` sets the base probability of a trait to be `1/8` because of three constraints, while `n1` sets adds an additional multiplier of `1/2` to it.
 
-It is more useful to define traits under a single `VariantProfile` to be exclusive, because if you want to design parallel traits A and B it would usually mean you don't want inheritance of A to affect the inheritance of B. If that is the case, it is simply better to separate the traits into their own `VariantProfile`.
+It is more useful to define traits under a single `VariantProfile` to be exclusive, because if you want to design parallel traits A and B it would usually mean you don't want inheritance of A to affect the inheritance of B. If that is the case, it is simply better to separate each trait into their own `VariantProfile`.
 
 ### A Variator as a Measure of Trait Strength
 A Variator may indicate the strength of a certain trait. For instance, a Variator that indicates a Pokemon's height or weight may be used to generate values of varying magnitude around a mean.
@@ -107,7 +107,6 @@ IVs can be represented as digits indicating the strength of that trait through $
 
 Simple heritability is when an offspring directly inherits their mother's trait or their father's trait, and no recombination occurs.
 
-Breaking up a `VariantProfile` into 1-digit traits means a trait in this case can take on one of 16 values. Breaking it up into 2-digit traits instead means a trait can take on 256 values. Breaking it up into 4-digit traits means a trait can take on 65536 values. This calls into question whether 8-digit traits or 16-digit traits are meaningful. 
 
 
 

@@ -32,6 +32,10 @@
 > 
 >Once a Criminal chooses to steal from a Player, the Player is removed from their Marked Targets. Any goods stolen from that player is bundled into a Hot Goods bundle. Then there must be a period of time in which the Hot Goods bundle can be recovered.
 
+### Swapping
+Swapping is a mechanic that offers an option to target Players with just one Pokemon on their team (i.e. main roster).
+
+To swap a Pokemon, you need to assign one Pokemon on your Heist Team to be a scapegoat and let them go. 
 ### Hot Goods
 
 Hot Goods are recently stolen items that are hard to sell or use because they pose a huge risk.

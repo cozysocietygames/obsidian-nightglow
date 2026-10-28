@@ -102,16 +102,7 @@ Or, rounding off:
 ### Storing IVs as Variators:
 IVs are essentially a `VariantProfile` indicating the strength of the IV through $f(x)=x.$ They are represented by a 5-digit variator, i.e. a `VariantProfile`  ranging from 0-31.
 
-
-
-
-
 Simple heritability is when an offspring directly inherits their mother's trait or their father's trait, and no recombination occurs.
-
-
-
-
-
 
 If we ever need it, each character in the string can be used as a seed by a randomizer to make a a genome fragment.
 

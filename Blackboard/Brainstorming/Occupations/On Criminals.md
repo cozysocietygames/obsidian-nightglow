@@ -43,7 +43,7 @@ One thing to be cautious about: Criminal Alts might intentionally swap region-sp
 - Add requirements like:
 	- the scapegoat must be in the the same kind of Pokeball as the target.
 	- the scapegoat must be at the same level as or higher than the target. (no fiction explanation yet)
-- Raise the max markedness to 4 and require 4 markedness to perform a swap.
+- Raise the max markedness to 4 and require `markedness = 4` to perform a swap.
 - 
 - 
 

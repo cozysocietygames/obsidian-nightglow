@@ -35,7 +35,10 @@
 ### Swapping
 Swapping is a mechanic that offers an option to target Players with just one Pokemon on their team (i.e. main roster).
 
-To swap a Pokemon, you need to assign one Pokemon on your Heist Team to be a scapegoat and let them go. 
+To swap a Pokemon, you need to assign one Pokemon on your Heist Team to be a scapegoat and let them go.
+
+One thing to be cautious about: Criminal Alts might intentionally swap region-specific Pokemon or even starters with a lousy Pokemon on their main's team. Possible mechanics to disincentivize that:
+
 ### Hot Goods
 
 Hot Goods are recently stolen items that are hard to sell or use because they pose a huge risk.

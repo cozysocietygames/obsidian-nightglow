@@ -100,7 +100,7 @@ Or, rounding off:
 ```
 
 ### Storing IVs as Variators:
-IVs can be represented as digits indicating the strength of that trait through $f(x)=x.$ They can each be stored in a 5-digit variator, i.e. `VariantProfile` ranging from 0-31.
+IVs are essentially a `VariantProfile` indicating the strength of the IV through $f(x)=x.$ They are represented by a 5-digit variator, i.e. a `VariantProfile`  ranging from 0-31.
 
 
 

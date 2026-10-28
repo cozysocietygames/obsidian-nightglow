@@ -40,12 +40,11 @@ To swap a Pokemon, you need to assign one Pokemon on your Heist Team to be a `sc
 One thing to be cautious about: Criminal Alts might intentionally swap region-specific Pokemon or even starters in exchange for a lousy Pokemon on their main's team. Possible mechanics to disincentivize that:
 
 - Figure out how a Criminal contributes to the Government that is parallel to the Duties of other occupations. Solving this might eliminate the need to police this behavior.
-- Add requirements like:
+- Add requirements like some combination of the following:
 	- the scapegoat must be in the the same kind of Pokeball as the target.
 	- the scapegoat must be at the same level as or higher than the target. (no fiction explanation yet)
-- Raise the max markedness to 4 and require `markedness = 4` to perform a swap.
-- 
-- 
+	- require some additional consumable resource with high production cost to perform the swap (fiction explanation is dependent on the resources)
+	- Require a special stakeout lasting 4 or more hours in addition to raising markedness. The special stakeout converts normal `marked (for stealing)` to `marked (for swapping)`.
 
 ### Hot Goods
 

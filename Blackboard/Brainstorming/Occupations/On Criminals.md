@@ -44,7 +44,7 @@ One thing to be cautious about: Criminal Alts might intentionally swap region-sp
 	- the scapegoat must be in the the same kind of Pokeball as the target.
 	- the scapegoat must be at the same level as or higher than the target. (no fiction explanation yet)
 	- require some additional consumable resource with high production cost to perform the swap (fiction explanation is dependent on the resources)
-	- Require a special stakeout lasting 4 or more hours in addition to raising markedness. The special stakeout converts normal `marked (for stealing)` to `marked (for swapping)`.
+	- Require a special stakeout lasting an acceptable number of hours in addition to raising markedness. The special stakeout converts the target's state from `marked (for stealing)` into `marked (for swapping)`.
 
 ### Hot Goods
 

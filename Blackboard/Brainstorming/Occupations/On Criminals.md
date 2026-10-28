@@ -35,9 +35,17 @@
 ### Swapping
 Swapping is a mechanic that offers an option to target Players with just one Pokemon on their team (i.e. main roster).
 
-To swap a Pokemon, you need to assign one Pokemon on your Heist Team to be a scapegoat and let them go.
+To swap a Pokemon, you need to assign one Pokemon on your Heist Team to be a `scapegoat` and be ready to let them go forever in exchange for what you're stealing.
 
-One thing to be cautious about: Criminal Alts might intentionally swap region-specific Pokemon or even starters with a lousy Pokemon on their main's team. Possible mechanics to disincentivize that:
+One thing to be cautious about: Criminal Alts might intentionally swap region-specific Pokemon or even starters in exchange for a lousy Pokemon on their main's team. Possible mechanics to disincentivize that:
+
+- Figure out how a Criminal contributes to the Government that is parallel to the Duties of other occupations. Solving this might eliminate the need to police this behavior.
+- Add requirements like:
+	- the scapegoat must be in the the same kind of Pokeball as the target.
+	- the scapegoat must be at the same level as or higher than the target. (no fiction explanation yet)
+- Raise the max markedness to 4 and require 4 markedness to perform a swap.
+- 
+- 
 
 ### Hot Goods
 

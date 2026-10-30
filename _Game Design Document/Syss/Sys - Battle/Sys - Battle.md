@@ -1,6 +1,6 @@
 # Index
 %% Begin Landmark %%
-- **[[Subsys - Supplementary Mechanics]]**
+- **[[Sys - Supplementary Mechanics]]**
 	- **[[Battle Maneuvers]]**
 		- [[Defensive Maneuver]]
 		- [[Last Stand]]

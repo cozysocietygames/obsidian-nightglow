@@ -1,6 +1,6 @@
 %% Begin Waypoint %%
 - **[[Sys - Battle]]**
-	- **[[Subsys - Supplementary Mechanics]]**
+	- **[[Sys - Supplementary Mechanics]]**
 		- **[[Battle Maneuvers]]**
 			- [[Defensive Maneuver]]
 			- [[Last Stand]]
@@ -14,7 +14,7 @@
 	- **[[Sys - Buildings]]**
 - **Sys - Maps**
 	- **[[Subsys - Exploration]]**
-	- **Subsys - Map Modification**
+	- **Sys - Map Modification**
 	- [[Subsys - Map]]
 - **[[Sys - Occupations]]**
 	- **Subsys - Working**
@@ -32,8 +32,8 @@
 	- [[Researcher]]
 	- [[Subsys - Doctor]]
 - **[[Sys - Trainer]]**
-	- **[[Subsys - Collecting and Training Pokemon]]**
-	- [[Subsys - Teams]]
+	- **[[Sys - Collecting and Training Pokemon]]**
+	- [[Sys - Teams]]
 
 %% End Waypoint %%
 

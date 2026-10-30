@@ -1,7 +1,7 @@
 # Index
 %% Begin Landmark %%
-- **[[Subsys - Collecting and Training Pokemon]]**
-- [[Subsys - Teams]]
+- **[[Sys - Collecting and Training Pokemon]]**
+- [[Sys - Teams]]
 
 %% End Landmark %%
 # Objectives

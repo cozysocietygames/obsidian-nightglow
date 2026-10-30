@@ -14,6 +14,10 @@
 
 # Behavior, Interface, Mechanics
 %%  How the system works, in technical language, as specific as possible. %%
+## Familiarity
+The Trainer has a `Familiarity` value for each species of Pokemon. Maximum familiarity gives several bonuses:
+1. +catch rate
+2. 
 # Balance
 %% Progression calculations, level scaling, probabilities. For smaller systems, a table is enough. %%
 # Analytics

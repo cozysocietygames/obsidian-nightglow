@@ -32,8 +32,8 @@
 	- [[Researcher]]
 	- [[Subsys - Doctor]]
 - **[[Sys - Trainer]]**
-	- **[[Sys - Collecting and Training Pokemon]]**
-	- [[Sys - Teams]]
+	- **[[Sys - Collecting Pokemon]]**
+		- [[Sys - Teams]]
 
 %% End Waypoint %%
 

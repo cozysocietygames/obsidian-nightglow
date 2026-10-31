@@ -23,14 +23,14 @@ A miniteam may be assembled for Occupation-related activities. The different var
 #### Breeder: Nurturing Miniteam
 
 #### Criminal: Heist Miniteam
-
+To steal a Pokemon, a Criminal must dispatch a Heist Miniteam.
 #### Doctor: Nursing Miniteam
 
 #### Officer: Lookout Miniteam
+An Officer may assemble a Lookout Miniteam, from which players may employ a subset.
+#### Researcher: Experiment Miniteam
 
-#### Researcher: Research Miniteam
-
-#### Educator: Teaching Miniteam
+#### Educator: Demo Miniteam
 
 # Balance
 %% Progression calculations, level scaling, probabilities. For smaller systems, a table is enough. %%

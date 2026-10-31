@@ -34,6 +34,7 @@
 - **[[Sys - Trainer]]**
 	- **[[Sys - Collecting Pokemon]]**
 		- [[Sys - Teams]]
+	- **Sys - Training Pokemon**
 
 %% End Waypoint %%
 

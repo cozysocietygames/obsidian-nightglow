@@ -15,11 +15,12 @@ The Main Team can hold a maximum of 6 Pokemon and a minimum of 1 Pokemon. It is 
 ## Miniteams #discuss 
 Miniteams can hold a maximum of 3 Pokemon, and unlike the main team, do not need to be with their trainer at all times. In fact, the main purpose of miniteams is to be dispatched.
 ### Tent Miniteam
+A miniteam may be assembled for their Tent. 
 
 ### Gatherer Miniteams
 
 ### Occupation Miniteams
-A miniteam may be created for their Occupation. The different varieties are listed below:
+A miniteam may be  assembled for their Occupation. The different varieties are listed below:
 #### Breeder: Training Miniteam
 
 #### Criminal: Heist Miniteam

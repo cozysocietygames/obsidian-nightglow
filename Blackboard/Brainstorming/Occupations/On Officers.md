@@ -26,7 +26,10 @@ If a Case is Sizzling, then when an Officer opens it, the Investigation will sta
 If a Case is Hot or Warm, then when an Officer opens it, the Investigation will start, but the Officer will need to play a minigame to succeed.
 ## Investigation
 
-A Hot or Warm Case's Investigation primarily differs by difficulty, with a Hot Case being easier and a Warm Case being more difficult. Additionally, to prevent an Officer intentionally aiding a Criminal by taking the case and doing nothing to solve it, Warm Cases may be worked on by several Officers at a time.
+A Hot or Warm Case's Investigation primarily differs by difficulty, with a Hot Case being easier and a Warm Case being more difficult. Additionally, to prevent an Officer intentionally aiding a Criminal by taking the case and doing nothing to solve it, the following safeguards are proposed:
+- Anonymize the Cases.
+- Warm Cases may be worked on by several Officers at a time. This distributes the reward but also lets more Officers participate compared to the proportion of crimes occurring.
+- Officers who take a case but take no actions must get some penalty.
 
 > [!tip] Investigation Gameplay
 > 
@@ -37,9 +40,9 @@ A Hot or Warm Case's Investigation primarily differs by difficulty, with a Hot C
 An Investigation has two Phases. 
 
 #### Phase One: Find Accomplice Pokemon, if any
-To complete Phase One of the Investigation, the Officer must identify any Pokemon in the Heist Team with an accomplice role if there were any, from a procedurally generated list of suspects. If there were none, they must clear all suspects. 
+To complete Phase One of the Investigation, the Officer must identify any Pokemon in the Heist Team with an accomplice role if there were any, among a procedurally generated list of suspects. If there were none, they must clear all suspects. 
 #### Phase Two: Find the Principal Pokemon
-The Officer must identify the Pokemon in the Heist Team with the principal role.
+The Officer must identify the Pokemon in the Heist Team with the principal role, among a procedurally generated list of suspects.
 
 >[!question] Real Players as Eyewitnesses?
 >

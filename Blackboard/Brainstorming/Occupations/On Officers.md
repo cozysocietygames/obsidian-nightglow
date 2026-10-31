@@ -36,7 +36,7 @@ A Hot or Warm Case's Investigation primarily differs by difficulty, with a Hot C
 
 An Investigation has two Phases. 
 
-#### Phase One: How many Culprits?
+#### Phase One: Find Assisting Culprits and 
 To complete Phase One of the Investigation, the Officer must identify how many culprits there were. 
 #### Phase Two: Who were the Culprits?
 The Officer must identify all the species of the Pokemon in the Heist Team.

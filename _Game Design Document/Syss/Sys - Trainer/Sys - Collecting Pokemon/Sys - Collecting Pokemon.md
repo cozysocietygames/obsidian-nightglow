@@ -17,7 +17,7 @@
 ## Familiarity
 The Trainer has a `Familiarity` value for each species of Pokemon. Higher values of familiarity gives several benefits:
 1. Higher modified catch rate
-2. Slower Amity Decay (?)
+2. Slower Amity Decay #discuss 
 3. 
 # Balance
 %% Progression calculations, level scaling, probabilities. For smaller systems, a table is enough. %%

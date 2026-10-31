@@ -48,7 +48,7 @@ One thing to be cautious about: Criminal Alts might intentionally swap region-sp
 
 ### Hot Goods
 
-Hot Goods are recently stolen items that are hard to sell or use because they pose a huge risk.
+Hot Goods are recently stolen goods that are hard to sell or use because they pose a huge risk.
 
 - A Hot Goods Timer that is started once the Criminal steals. 
 - To incentivize Criminals to mark their targets, a higher Markedness of the Target must beneficially influence their Hot Goods Timer. 

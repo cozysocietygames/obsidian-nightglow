@@ -10,6 +10,8 @@ Define the teams that a player owns and manages.
 %%  How the system works, in technical language, as specific as possible. %%
 ## Team
 The Main Team can hold a maximum of 6 Pokemon and a minimum of 1 Pokemon. It is implied to be physically present with the player at all times.
+
+![[Pasted image 20261031104352.png|287]]
 ## Miniteams
 Miniteams can hold a maximum of 3 Pokemon, and unlike the main team, remains in tact while being physically away from their Trainer. 
 # Balance

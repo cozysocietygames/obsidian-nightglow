@@ -29,10 +29,11 @@ To steal a Pokemon, a Criminal must dispatch a Heist Miniteam. In the Heist Team
 #### Lookout Miniteam
 An Officer may assemble a Patrol Miniteam, which players may employ as Lookouts.
 #### Inspection Miniteam
-An Officer may assemble a Detective Miniteam, which can aid them when they are dealing with a Case. 
+An Officer may assemble an Inspection Miniteam, which can aid them when they are dealing with a Case. 
 #### Experimentation Miniteam
-
+A Researcher may assemble an Experimentation Miniteam, which can aid them when they are experimenting.
 #### Demonstration Miniteam
+An Educator may assemble a Demonstration Miniteam, which can help them in teaching Familiarity classes. 
 
 # Balance
 %% Progression calculations, level scaling, probabilities. For smaller systems, a table is enough. %%

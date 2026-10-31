@@ -37,9 +37,9 @@ A Hot or Warm Case's Investigation primarily differs by difficulty, with a Hot C
 An Investigation has two Phases. 
 
 #### Phase One: Find Accomplice Pokemon, if any
-To complete Phase One of the Investigation, the Officer must identify any accomplice Pokemon if there were any. 
+To complete Phase One of the Investigation, the Officer must identify any Pokemon in the Heist Team with an accomplice role if there were any. If there were none, it becomes purely a game of clearing Pokemon as innocent.
 #### Phase Two: Find the Principal Pokemon
-The Officer must identify all the species of the Pokemon in the Heist Team.
+The Officer must identify the Pokemon in the Heist Team with the principal role.
 
 >[!question] Real Players as Eyewitnesses?
 >

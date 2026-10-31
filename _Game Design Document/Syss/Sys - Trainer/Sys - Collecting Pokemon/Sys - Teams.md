@@ -23,7 +23,7 @@ A miniteam may be assembled for Occupation-related activities. The different var
 #### Breeder: Nurturing Miniteam
 
 #### Criminal: Heist Miniteam
-To steal a Pokemon, a Criminal must dispatch a Heist Miniteam.
+To steal a Pokemon, a Criminal must dispatch a Heist Miniteam. In the Heist Team, one Pokemon must be assigned the principal role. A second may be appointed as a scapegoat when performing a Swapping The rest, if any, will be assigned the accomplice role.
 #### Doctor: Nursing Miniteam
 
 #### Officer: Lookout Miniteam

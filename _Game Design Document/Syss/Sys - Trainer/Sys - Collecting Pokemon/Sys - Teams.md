@@ -33,7 +33,7 @@ An Officer may assemble an Inspection Miniteam, which can aid them when they are
 #### Experimentation Miniteam
 A Researcher may assemble an Experimentation Miniteam, which can aid them when they are experimenting.
 #### Demonstration Miniteam
-An Educator may assemble a Demonstration Miniteam, which can help them in teaching Familiarity classes. 
+An Educator may assemble an Miniteam, which can help them in teaching Familiarity classes. 
 
 # Balance
 %% Progression calculations, level scaling, probabilities. For smaller systems, a table is enough. %%

@@ -44,3 +44,4 @@ The Officer must identify all the species of the Pokemon in the Heist Team.
 >[!question] Real Players as Eyewitnesses?
 >
 >I considered making actual players eyewitnesses by notifying them when a crime takes place, but it raises a lot of questions: should we give them the option to lie? Should we give them the option to actively go to the Police Station to report what they saw?
+

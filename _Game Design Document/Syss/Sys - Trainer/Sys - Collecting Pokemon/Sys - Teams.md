@@ -20,17 +20,19 @@ A miniteam may be assembled for their Tent. This miniteam guards the Tent and ca
 A miniteam may be assembled for the purpose of gathering Resources.
 ### Occupation Assistance
 A miniteam may be assembled for Occupation-related activities. The different varieties are listed below:
-#### Breeder: Nurturing Miniteam
+#### Nurturing Miniteam
 
-#### Criminal: Heist Miniteam
+#### Heist Miniteam
 To steal a Pokemon, a Criminal must dispatch a Heist Miniteam. In the Heist Team, one Pokemon must be assigned the principal role. A second may be assigned the scapegoat role when Swapping. The rest, if any, will be assigned the accomplice role.
-#### Doctor: Nursing Miniteam
+#### Nursing Miniteam
 
-#### Officer: Lookout Miniteam
-An Officer may assemble a Lookout Miniteam, from which players may employ a subset.
-#### Researcher: Experiment Miniteam
+#### Lookout Miniteam
+An Officer may assemble a Patrol Miniteam, which players may employ as Lookouts.
+#### Inspection Miniteam
+An Officer may assemble a Detective Miniteam, which can aid them when they are dealing with a Case. 
+#### Experimentation Miniteam
 
-#### Educator: Demo Miniteam
+#### Demonstration Miniteam
 
 # Balance
 %% Progression calculations, level scaling, probabilities. For smaller systems, a table is enough. %%

@@ -13,7 +13,7 @@ The Main Team can hold a maximum of 6 Pokemon and a minimum of 1 Pokemon. It is 
 
 ![[Pasted image 20261031104352.png|287]]
 ## Miniteams
-Miniteams can hold a maximum of 3 Pokemon, and unlike the main team, remains in tact while being physically away from their Trainer. 
+Miniteams can hold a maximum of 3 Pokemon, and unlike the main team, do not need to be with their trainer at all times. 
 # Balance
 %% Progression calculations, level scaling, probabilities. For smaller systems, a table is enough. %%
 # Analytics

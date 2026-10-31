@@ -2,7 +2,7 @@
 %% Begin Landmark %%
 - **[[Sys - Collecting Pokemon]]**
 	- [[Sys - Teams]]
-- **Sys - Training Pokemon**
+- **Sys - Raising Pokemon**
 
 %% End Landmark %%
 # Objectives

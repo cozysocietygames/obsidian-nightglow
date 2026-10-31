@@ -15,9 +15,10 @@
 # Behavior, Interface, Mechanics
 %%  How the system works, in technical language, as specific as possible. %%
 ## Familiarity
-The Trainer has a `Familiarity` value for each species of Pokemon. Maximum familiarity gives several bonuses:
-1. +catch rate
-2. 
+The Trainer has a `Familiarity` value for each species of Pokemon. Higher values of familiarity gives several benefits:
+1. Higher modified catch rate
+2. Slower Amity Decay (?)
+3. 
 # Balance
 %% Progression calculations, level scaling, probabilities. For smaller systems, a table is enough. %%
 # Analytics

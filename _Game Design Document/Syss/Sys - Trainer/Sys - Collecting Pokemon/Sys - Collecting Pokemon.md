@@ -3,6 +3,10 @@
 %%
 # Objectives
 %% What the team is trying to achieve by building this system. %%
+Design a system that:
+- offers a challenge in collecting Pokemon
+- appeals to completionist players
+- 
 # Overview
 %% A summary of how the system should behave once built. %%
 

@@ -4,9 +4,9 @@
 # Objectives
 %% What the team is trying to achieve by building this system. %%
 Design a system that:
-- treats Pokemon collection 
-- presents a challenge in collecting Pokemon that appeals to completionists
-- presents some sub-challenges that can be completed by casuals
+- subverts the usual notion of collecting as owning one of every item, and prioritizes having several valuable sets instead
+- presents doable primary challenges that can appeal to the players somewhere in between casual and hardcore. 
+- presents difficult secondary or tertiary challenges in collecting Pokemon that appeals to completionists.
 # Overview
 %% A summary of how the system should behave once built. %%
 

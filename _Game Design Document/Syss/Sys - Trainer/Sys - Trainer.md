@@ -3,6 +3,7 @@
 - **[[Sys - Collecting Pokemon]]**
 	- [[Sys - Teams]]
 - **Sys - Raising Pokemon**
+	- [[Sys - Complimenting Pokemon]]
 
 %% End Landmark %%
 # Objectives

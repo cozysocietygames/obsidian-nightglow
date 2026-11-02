@@ -4,6 +4,7 @@
 # Objectives
 %% What the team is trying to achieve by building this system. %%
 Design a system that:
+- treats Pokemon collection 
 - presents a challenge in collecting Pokemon that appeals to completionists
 - presents some sub-challenges that can be completed by casuals
 # Overview

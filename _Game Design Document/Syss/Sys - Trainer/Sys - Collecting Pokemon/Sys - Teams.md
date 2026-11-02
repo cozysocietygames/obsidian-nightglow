@@ -25,7 +25,7 @@ A miniteam may be assembled for Occupation-related activities. The different var
 #### Heist Miniteam
 To steal a Pokemon, a Criminal must dispatch a Heist Miniteam. In the Heist Team, one Pokemon must be assigned the principal role. A second may be assigned the scapegoat role when Swapping. The rest, if any, will be assigned the accomplice role.
 #### Nursing Miniteam
-
+To heal a Pokemon, a Doctor must have a Nursing Miniteam. 
 #### Lookout Miniteam
 An Officer may assemble a Patrol Miniteam, which players may employ as Lookouts.
 #### Inspection Miniteam

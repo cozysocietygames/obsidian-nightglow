@@ -3,6 +3,10 @@
 %%
 # Objectives
 %% What the team is trying to achieve by building this system. %%
+Design a system that:
+- encourages players to engage in each other's profiles socially
+- enhances the capabilities of Pokemon beyond canon
+- reflects the fiction of how raising a Pokemon lovingly affects 
 # Overview
 %% A summary of how the system should behave once built. %%
 # Behavior, Interface, Mechanics

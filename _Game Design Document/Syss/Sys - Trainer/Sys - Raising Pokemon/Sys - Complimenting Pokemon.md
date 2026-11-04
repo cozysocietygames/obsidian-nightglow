@@ -11,7 +11,9 @@ Design a system that:
 %% A summary of how the system should behave once built. %%
 # Behavior, Interface, Mechanics
 %%  How the system works, in technical language, as specific as possible. %%
-We could steer away from voting targeted on
+We could steer away from targeted voting, and move to untargeted voting, calling it a generic `compliment` instead. This way, you don't need to differentiate two Pokemon of the same species; a compliment is a compliment no matter what.
+
+
 # Balance
 %% Progression calculations, level scaling, probabilities. For smaller systems, a table is enough. %%
 # Analytics
@@ -25,6 +27,8 @@ We could steer away from voting targeted on
 > 
 > >[!error] The Problem
 > > Their choice of how to vote was ungrounded. Their choice of how to vote on their own Pokemon was only informed by how they wanted to build them. When voting for another player's Pokemon, that layer vanishes and the vote has no meaningful grounds at all. Voting for one player's Wurmple virtually looks the exact same as voting for another's Wurmple.
+> > 
+> > Our top 2 players had their `Voting` disabled so other players couldn't vote for their Pokemon. Possibly due to the randomness of how it would affect the Pokemon's stats.
 
 
 %% Optional Sections

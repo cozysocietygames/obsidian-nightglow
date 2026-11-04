@@ -6,7 +6,7 @@
 Design a system that:
 - encourages players to engage in each other's profiles socially
 - enhances the capabilities of Pokemon beyond canon
-- reflects the fiction of how loving a Pokemon affects its battle potential
+- conveys the concept of how loving a Pokemon affects its battle potential
 # Overview
 %% A summary of how the system should behave once built. %%
 # Behavior, Interface, Mechanics

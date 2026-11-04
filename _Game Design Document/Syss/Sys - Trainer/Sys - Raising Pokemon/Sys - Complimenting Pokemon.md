@@ -24,7 +24,7 @@ Design a system that:
 > A player could `vote` for their own Pokemon to be of a certain category: `Intimacy`, `Cool`, `Tough`, `Beauty`, `Smart`, `Cute`, which adds `1` point to the Pokemon's  appeal stat that they chose. There was a daily upper limit how many times they could do this. Independently of that, a player `A` could similarly `vote` for another player `B`'s Pokemon when they view `B`'s profile; voting for others' Pokemon had its own daily upper limit.
 > 
 > >[!error] The Problem
-> > Their choice of how to vote was meaningless in the 
+> > Their choice of how to vote was ungrounded because it had no antecedent. Their choice on how to vote on their own Pokemon was only based on how to 
 
 %% Optional Sections
 # Art

@@ -12,7 +12,7 @@
 	- [[Economy Design]]
 - **Sys - Government**
 	- **[[Sys - Buildings]]**
-	- **Sys - Gyms**
+	- **[[Sys - Gyms]]**
 - **Sys - Maps**
 	- **[[Subsys - Exploration]]**
 	- **Sys - Map Modification**

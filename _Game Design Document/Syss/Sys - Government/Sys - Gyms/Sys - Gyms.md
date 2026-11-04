@@ -9,6 +9,7 @@ A center for every governable town/city, the gym allows players to issue challen
 # Behavior, Interface, Mechanics
 %%  How the system works, in technical language, as specific as possible. %%
 ## Gym Leader
+The Gym Leader can only be challenged by a player when a Gym Minion of tier `I` has been defeated in the recent past.
 ## Gym Minions
 Below the Gym Leader, there are minions of lower tiers, with the lowest being `IV` and the highest—right below the gym leader in the hierarchy—being `I`.
 

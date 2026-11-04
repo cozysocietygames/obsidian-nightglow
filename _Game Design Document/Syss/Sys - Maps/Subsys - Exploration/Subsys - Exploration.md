@@ -28,7 +28,7 @@ Clicking on an empty spot on explored ground allows you to spawn there and switc
 ## Explorer Mode
 In [[Subsys - Exploration#Explorer Mode|Explorer Mode]], you control your player character and you can see them walking on the map.
 
-Your character must be on this mode to unlock new areas. When accessing a map for the first time, it is split into several sub-areas, most of which are unexplored. Unexplored sub-areas do not have any explored ground. Unexplored sub-areas have objective flag that the player must reach to mark that sub-area explored. The ground on explored sub-areas is considered explored ground.
+Your character must be on this mode to unlock new areas. When accessing a map for the first time, it is split into several sub-areas, most of which are unexplored. Unexplored sub-areas do not have any explored ground. Unexplored sub-areas have at least one objective flag that the player must reach to mark that sub-area explored. The ground on explored sub-areas is considered explored ground.
 
 Just like in [[Subsys - Exploration#Surveyor Mode|Surveyor Mode]], you can see Wild Pokemon roaming about. If you click on one, you can interact with it in the same ways. 
 

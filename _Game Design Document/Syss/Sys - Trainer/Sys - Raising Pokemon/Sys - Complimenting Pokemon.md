@@ -11,7 +11,13 @@ Design a system that:
 %% A summary of how the system should behave once built. %%
 # Behavior, Interface, Mechanics
 %%  How the system works, in technical language, as specific as possible. %%
-We could steer away from targeted voting, and move to untargeted voting, calling it a generic `compliment` instead. This way, you don't need to differentiate two Pokemon of the same species; a compliment is a compliment no matter what.
+
+We could steer away from targeted voting, and move to untargeted voting, calling it a generic `compliment` instead. This way, you don't need to differentiate two Pokemon of the same species; a compliment is a compliment no matter what. Then the player themselves can convert compliments into a particular Appeal Stat. More ideas on this somewhere below.
+
+We could keep targeted voting, but we'd need some way of 
+
+
+### Converting Compliments
 
 
 # Balance

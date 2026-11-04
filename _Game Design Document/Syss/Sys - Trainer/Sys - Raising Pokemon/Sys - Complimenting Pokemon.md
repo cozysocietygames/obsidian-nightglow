@@ -19,11 +19,11 @@ Alternatively, or even alongside it, we could implement untargeted voting, calli
 
 ## Priming Behaviors
 - Priming Behaviors could be something they can access in the context menu that contains other similar raising-related actions like feeding Pokemon.
-	- Alternatively it could be done in battle instead, posing in the fiction as "reinforcing" words whenever they score critical hits for a move with the certain Appeal stat. But in this case, priming behaviors will only be done one at a time.
+	- Alternatively it could be done in battle instead, posing in the fiction as "reinforcing" words whenever they score critical hits for a move with the certain Appeal stat. But in this case, priming behaviors will only be done for one Appeal stat at a time.
 
 ## Converting Compliments
 - Converting Compliments could be as simple as click of a button, or we could make the player work for it.
-	- Perhaps they can only do so in battle, when their Pokemon scores a critical hit.
+	- Perhaps they can only do so in battle? When they finish a battle?
 - The compliment-to-appeal conversion rate also need not be 1:1, we could vary it to 2:1 or 5:1 or whatever.
 
 

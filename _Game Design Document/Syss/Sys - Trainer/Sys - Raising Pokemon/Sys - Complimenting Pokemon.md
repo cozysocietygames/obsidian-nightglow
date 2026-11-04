@@ -11,6 +11,7 @@ Design a system that:
 %% A summary of how the system should behave once built. %%
 # Behavior, Interface, Mechanics
 %%  How the system works, in technical language, as specific as possible. %%
+#discuss 
 
 We could still implement `targeted voting`—henceforth called `specific compliments` instead—but we'd need some way of providing grounds for it. For instance: say you "prime" your Pokemon to behave a certain way, you train them to do actions that are cute and cool. (Maybe behaviors always involve two appeal stats.) When a friend visits your profile, they see a prompt that your Pokemon is acting cutely and coolly. They are then forced to choose one of those attributes for their `specific compliment`.
 - If a `specific compliment` has only one option, then the choice isn't really a choice at all, the real choice could be introduced in a higher layer, such as when they are choosing *which* Pokemon to vote on. But in such a case, they are not really engaging with the specific Pokemon they are voting on, unlike if they're deciding whether the specific Pokemon looks cute to you or cool.
@@ -19,12 +20,12 @@ Alternatively, or even alongside it, we could implement untargeted voting, calli
 
 ## Priming Behaviors
 - Priming Behaviors could be something they can access in the context menu that contains other similar raising-related actions like feeding Pokemon.
-	- Alternatively it could be done in battle instead, posing in the fiction as "reinforcing" words whenever they score critical hits for a move with the certain Appeal stat. But in this case, priming behaviors will only be done for one Appeal stat at a time.
-
+	- Alternatively it could be done in battle instead, posing in the fiction as "reinforcing" words whenever they finish a battle maybe?
 ## Converting Compliments
 - Converting Compliments could be as simple as click of a button, or we could make the player work for it.
 	- Perhaps they can only do so in battle? When they finish a battle?
 - The compliment-to-appeal conversion rate also need not be 1:1, we could vary it to 2:1 or 5:1 or whatever.
+
 
 
 # Balance

@@ -22,9 +22,8 @@ The Gym Leader can only be challenged by a player when a Gym Minion of tier `IV`
 Below the Gym Leader, there are Gym Minions of lower tiers, with the lowest being `I` and the highest—right below the gym leader in the hierarchy—being `IV`.
 
 A player may only challenge a Gym Minion of tier `N` if they have won a challenge against a Gym Minion of a tier directly below it (if any) in the recent past (timespan unspecified).
-
 ## Gym Proxies
-Gym Proxies are the original NPCs challenged by the players. 
+Gym Proxies are the original default NPCs challenged by the players. They make decisions when a player governing official cannot make it in time.
 
 # Balance
 %% Progression calculations, level scaling, probabilities. For smaller systems, a table is enough. %%

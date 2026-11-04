@@ -22,6 +22,9 @@ Design a system that:
 >[!warning] The Old System
 > 
 > A player could `vote` for their own Pokemon to be of a certain category: `Intimacy`, `Cool`, `Tough`, `Beauty`, `Smart`, `Cute`, which adds `1` point to the Pokemon's  appeal stat that they chose. There was a daily upper limit how many times they could do this. Independently of that, a player `A` could similarly `vote` for another player `B`'s Pokemon when they view `B`'s profile; voting for others' Pokemon had its own daily upper limit.
+> 
+> >[!error] The Problem
+> > There were no mechanics that influenced 
 
 %% Optional Sections
 # Art

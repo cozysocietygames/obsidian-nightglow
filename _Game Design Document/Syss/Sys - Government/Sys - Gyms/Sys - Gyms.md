@@ -17,7 +17,7 @@ An Authority Challenge is a kind of challenge a Player can issue to either a Gym
 
 - Alternatively, maybe we can loosen the tryping restriction to just `n` Pokemon that match the typing, but only those `n` Pokemon will be used as their team when another player challenges them.
 ## Gym Leader
-The Gym Leader can only be challenged by a player when a Gym Minion of tier `I` has been defeated in the recent past.
+The Gym Leader can only be challenged by a player when a Gym Minion of tier `IV` has been defeated in the recent past.
 ## Gym Minions
 Below the Gym Leader, there are minions of lower tiers, with the lowest being `I` and the highest—right below the gym leader in the hierarchy—being `IV`.
 

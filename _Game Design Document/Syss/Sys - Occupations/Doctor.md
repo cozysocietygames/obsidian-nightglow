@@ -2,7 +2,6 @@
 aliases:
   - doctor
 ---
-
 # Index
 %% Landmark
 %%

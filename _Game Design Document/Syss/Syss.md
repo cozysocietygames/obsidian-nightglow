@@ -12,6 +12,7 @@
 	- [[Economy Design]]
 - **Sys - Government**
 	- **[[Sys - Buildings]]**
+	- **Sys - Gyms**
 - **Sys - Maps**
 	- **[[Subsys - Exploration]]**
 	- **Sys - Map Modification**
@@ -20,17 +21,17 @@
 	- **Subsys - Working**
 		- **[[Subsys - Services]]**
 			- [[Subsys - Healing]]
-		- [[Occupation Building]]
 		- [[Sys - Duty]]
 		- [[Sys - Freelancing]]
+		- [[Sys - Occupation Buildings]]
 		- [[Sys - Selfservice]]
 		- [[Sys - Voluntary Work]]
 	- [[Breeder]]
 	- [[Criminal]]
+	- [[Doctor]]
 	- [[Educator]]
 	- [[Officer]]
 	- [[Researcher]]
-	- [[Subsys - Doctor]]
 - **[[Sys - Trainer]]**
 	- **[[Sys - Collecting Pokemon]]**
 		- [[Sys - Teams]]

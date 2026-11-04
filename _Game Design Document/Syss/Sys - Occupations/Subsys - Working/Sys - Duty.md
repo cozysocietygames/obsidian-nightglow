@@ -9,7 +9,7 @@
 # Behavior, Interface, Mechanics
 %%  How the system works, in technical language, as specific as possible. %%
 Duty is one way of Working.
-To work in this way, the [[Merchant]] selects from actions they can do at their designated [[Occupation Building]] called duties.
+To work in this way, the [[Merchant]] selects from actions they can do at their designated [[Sys - Occupation Buildings]] called duties.
 
 The following duties are available at the Occupation Building:
 1. Provide a directed specialized service to a target of their choice from a list of anonymized [[Consumer|consumers]].

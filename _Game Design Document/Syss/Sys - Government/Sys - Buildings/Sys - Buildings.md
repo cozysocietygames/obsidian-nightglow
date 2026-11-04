@@ -8,6 +8,9 @@
 # Behavior, Interface, Mechanics
 %%  How the system works, in technical language, as specific as possible. %%
 ## Building Types
+
+### Gym
+The Gym is the center of the town/city. It is where government officials access the UI for proposing edits to the government. For the regular citizen, it is where they go to challenge the gym leader or a gym minion.
 ### Occupation Building
 An Occupation Building is a building specialized towards a certain occupation. 
 

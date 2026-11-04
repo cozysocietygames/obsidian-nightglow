@@ -14,7 +14,7 @@ Design a system that:
 
 We could still implement targeted voting, but we'd need some way of providing grounds for it. For instance: say you "prime" your Pokemon to behave a certain way, you train them to do actions that are cute and cool. (Maybe behaviors always involve two appeal stats.) When a friend visits your profile, they see a prompt that your Pokemon is acting cutely and coolly. They are then forced to choose one of those attributes for their vote.
 
-Alternatively, or even alongside it, we could implement untargeted voting, calling it a generic `compliment` instead. This way, you don't need to differentiate two Pokemon of the same species; a compliment is a compliment no matter what. Then the player themselves can convert compliments into a particular Appeal Stat. More ideas on this somewhere below.
+Alternatively, or even alongside it, we could implement untargeted voting, calling it a generic `compliment` instead. This way, you don't need to differentiate two Pokemon of the same species; a compliment is a compliment no matter what. Then the player themselves can convert compliments into a particular Appeal Stat. More ideas on this somewhere below. If we want to use 
 
 
 

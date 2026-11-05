@@ -22,9 +22,11 @@ The Champion is the individual at the top of the Regional Goverment hierarchy, a
 The Elite Four are four (4) individuals just below the Champion in the Regional Goverment hierarchy and each of them have `Regional Authority II`. Their responsibilities include:
 - assessing Proposals jointly with the Champion, to accept, modify, or reject them
 - drafting region-wide Proposals
+- authoring mandates that override decisions made with:
+	- `Regional Authority II`
 ### Gym Leader
 The Gym Leader can only be challenged by a player when a Gym Minion of tier `IV` has been defeated in the recent past.
-- drafting Proposals for the locality they are in charge of
+- drafting Proposals for the locality they are in charge of.
 - 
 ### Gym Minions
 Below the Gym Leader, there are Gym Minions of lower tiers, with the lowest being `I` and the highest—right below the gym leader in the hierarchy—being `IV`.

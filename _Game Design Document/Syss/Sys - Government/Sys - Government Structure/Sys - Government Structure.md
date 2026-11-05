@@ -10,13 +10,14 @@
 # Behavior, Interface, Mechanics
 %%  How the system works, in technical language, as specific as possible. %%
 
-The Government is the Pokemon League.
+The Government is the Pokemon League. Each Government Officials has a variety of Actions available to them.
 ## Government Officials
 ### Champion
-The Champion is the individual at the top of the Regional Goverment hierarchy, and has `Regional Authority I`
+The Champion is the individual at the top of the Regional Goverment hierarchy, and has `Regional Authority I`. They have the following joint actions available:
 - assessing Proposals jointly with the Elite Four, to accept, modify, or reject them
 - drafting region-wide Proposals
-- authoring mandates that override decisions made with Authority 
+- authoring mandates that override decisions made with:
+	- `Regional Authority II`
 ### Elite
 The Elite Four are four (4) individuals just below the Champion in the Regional Goverment hierarchy and each of them have `Regional Authority II`. Their responsibilities include:
 - assessing Proposals jointly with the Champion, to accept, modify, or reject them

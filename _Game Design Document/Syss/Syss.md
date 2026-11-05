@@ -8,16 +8,16 @@
 			- [[Supercharging & Planning]]
 		- [[Fifth Move]]
 		- [[SP]]
-- **Sys - Economy**
-	- [[Economy Design]]
 - **Sys - Government**
-	- **[[Sys - Buildings]]**
+	- **Sys - Economy**
+		- [[Economy Design]]
 	- **[[Sys - Government Structure]]**
 	- **[[Sys - Gyms]]**
 - **Sys - Maps**
 	- **Subsys - Exploration**
 		- [[Sys - Exploration]]
 	- **[[Sys - Map Modification]]**
+		- **[[Sys - Buildings]]**
 	- [[Subsys - Map]]
 - **[[Sys - Occupations]]**
 	- **Subsys - Working**

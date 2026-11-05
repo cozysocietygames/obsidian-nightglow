@@ -24,12 +24,12 @@ A Shared responsibility is a set of decisions that must be made by several indiv
 
 ### Region-Domain Responsibilities
 
-| Responsibilities                                                                                           | Sole or Shared? |      Delegatable?      |
-| ---------------------------------------------------------------------------------------------------------- | :-------------: | :--------------------: |
-| Delegating and Apportioning a delegatable Sole Responsibility to a Government Official with `Authority II` |      Sole       |           No           |
-| Arranging Trade with Government Officials of other Regions, usually those with `Authority I`               |      Sole       | Yes, and apportionable |
-| Starting certain region-wide Initiatives (picking a date, modifying a policy, authoring an order/mandate)  |      Sole       |           No           |
-| Organizing region-wide Initiatives (planning, logistics)                                                   |     Shared      |           No           |
+| Responsibilities                                                                                              | Sole or Shared? |      Delegatable?      |
+| ------------------------------------------------------------------------------------------------------------- | :-------------: | :--------------------: |
+| Delegating and Apportioning a delegatable Sole Responsibility to a Government Official with `Authority II`    |      Sole       |           No           |
+| Arranging Trade with Government Officials of other Regions, usually those with `Authority I`                  |      Sole       | Yes, and apportionable |
+| Starting certain region-wide Initiatives (starting a project, modifying a policy, authoring an order/mandate) |      Sole       |           No           |
+| Organizing region-wide Initiatives (planning, logistics)                                                      |     Shared      |           No           |
 For `Authority I` (primarily Champions), it includes:
 
 ## Government Officials

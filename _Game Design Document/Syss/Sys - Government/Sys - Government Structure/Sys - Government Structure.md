@@ -15,12 +15,11 @@ The Government is the Pokemon League. Each Government Officials has a variety of
 ## Sole Responsibility
 A Sole responsibility is a set of decisions that must be made by a single individual—the person who owns the Sole responsibility.
 ## Shared Responsibility
-A Shared responsibility is a set of decisions that must be made by several individuals—those who share the responsibility.
-
+A Shared responsibility is a set of decisions that must be made by several individuals (who share the responsibility), usually by voting.
 
 ## Government Officials
 ### Champion
-The Champion is the individual at the top of the Regional Goverment hierarchy, and has `Authority I` with the `Region` as their Domain. They have the following actions available:
+The Champion is the individual at the top of the Regional Goverment hierarchy, and has `Authority I` with the `Region` as their Domain.
 - casting a vote for any Proposals that enter their Domain
 - configuring their Domain
 - managing their Domain

@@ -13,11 +13,12 @@
 The Government is the Pokemon League.
 ## Government Officials
 ### Champion
-The Champion is the individual with highest authority in the region.
+The Champion is the individual at the top of the Regional Goverment hierarchy, and has `Regional Authority I`
 - assessing Proposals jointly with the Elite Four, to accept, modify, or reject them
 - drafting region-wide Proposals
+- authoring mandates that override decisions made with Authority 
 ### Elite
-The Elite Four are four (4) individuals just below the Champion in terms of authority. Their responsibilities include:
+The Elite Four are four (4) individuals just below the Champion in the Regional Goverment hierarchy and each of them have `Regional Authority II`. Their responsibilities include:
 - assessing Proposals jointly with the Champion, to accept, modify, or reject them
 - drafting region-wide Proposals
 ### Gym Leader

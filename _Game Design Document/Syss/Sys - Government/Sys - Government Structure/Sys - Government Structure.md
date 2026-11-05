@@ -28,7 +28,7 @@ A Shared responsibility is a set of decisions that must be made by several indiv
 | ---------------------------------------------------------------------------------------------------------- | :-------------: | :--------------------: |
 | Delegating and Apportioning a delegatable Sole Responsibility to a Government Official with `Authority II` |      Sole       |           No           |
 | Arranging Trade with Government Officials of other Regions, usually those with `Authority I`               |      Sole       | Yes, and apportionable |
-| Starting certain region-wide Initiatives (picking a date, modifying a policy, authoring a mandate)         |      Sole       |           No           |
+| Starting certain region-wide Initiatives (picking a date, modifying a policy, authoring an order/mandate)  |      Sole       |           No           |
 | Organizing region-wide Initiatives (planning, logistics)                                                   |     Shared      |           No           |
 For `Authority I` (primarily Champions), it includes:
 

@@ -20,18 +20,26 @@ A Shared responsibility is a set of decisions that must be made by several indiv
 ### Champion
 The Champion is the individual at the top of the Regional Goverment hierarchy, and has `Authority I` with the `Region` as their Domain.
 - casting a vote for any Proposals that enter their Domain
-- configuring their Domain
 - managing their Domain
 - communicating with Champions of the other regions.
 - authoring mandates that override decisions made with:
 	- `Authority II`
 #### Managing Domain: Region
-##### Decision-making
-Managing the Region entails several responsibilities. It includes:
+##### Sole Responsibilities
+Managing the Region entails several sole responsibilities.
+
+For `Authority I` (primarily Champions), it includes:
+
+| Syn    | Tax |
+| ------ | --- |
+| `asdf` |     |
+
 - Arranging Trade with Government Officials of other Regions, usually those with `Authority I`.
 - Organizing certain region-wide Festivals
-##### Assemblies
-
+- `(Cannot delegate)` Casting a vote in Assemblies, with their votes worth two points.
+- 
+For `Authority II` (primarily the Elites), it includes:
+- 
 
 ### Elite
 The Elite Four are four (4) individuals just below the Champion in the Regional Goverment hierarchy and each of them have `Authority II` with the `Region` as their Domain. Their responsibilities include:

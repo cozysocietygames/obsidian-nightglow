@@ -10,6 +10,7 @@
 # Behavior, Interface, Mechanics
 %%  How the system works, in technical language, as specific as possible. %%
 
+The Government is the Pokemon League.
 ## Government Officials
 
 ## 1. Champion

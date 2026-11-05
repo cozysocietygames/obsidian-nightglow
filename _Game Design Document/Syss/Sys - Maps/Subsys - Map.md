@@ -12,9 +12,9 @@ Not to be confused with the World Map, a Map is a representation of a physical l
 A Map is a representation of a meaningful location on the `overworld`. 
 
 A Map can hold several `Map Props`. `Map Props` come in various types: 
-Blocks which have certain footprints.
-TallBlocks which have a footprint along with a height.
-Buildings which are tall blocks but have a map tied to it to represent its internal space.
+- Blocks which have certain footprints.
+- TallBlocks which have a footprint along with a height.
+- Buildings which are tall blocks but have a map tied to it to represent its internal space.
 
 For the purposes of exploration, it is divided into `subsections` by a label grid: a 2D array the same size as the map's grid, where each cell holds the ID of the subarea that cell belongs to. For example, a 6x4 grid might be divided into three `subsections` like so:
 

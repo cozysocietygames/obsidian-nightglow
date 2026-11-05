@@ -13,10 +13,12 @@
 The Government is the Pokemon League.
 ## Government Officials
 ### Champion
-The 
+The Champion is the individual with highest authority in the region.
+- assessing Proposals jointly with the Elite Four, to accept, modify, or reject them
 ### Elite
 The Elite Four are four (4) individuals just below the Champion in terms of authority. Their responsibilities include:
-- accepting or rejecting Proposals.
+- accepting or rejecting Proposals
+- allocating budget
 ### Gym Leader
 The Gym Leader can only be challenged by a player when a Gym Minion of tier `IV` has been defeated in the recent past.
 ### Gym Minions

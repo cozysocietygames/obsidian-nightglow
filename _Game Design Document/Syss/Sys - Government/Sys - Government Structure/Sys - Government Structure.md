@@ -11,10 +11,26 @@
 %%  How the system works, in technical language, as specific as possible. %%
 
 The Government is the Pokemon League. Each Government Officials has a variety of Actions available to them.
-## Sole Responsibility
+
+## Responsibilities
+## Managing the Domain
+Managing the Region entails several sole responsibilities.
+
+### Responsibilities
+#### Sole Responsibility
 A Sole responsibility is a set of decisions that must be made by a single individual—the person who owns the Sole responsibility.
-## Shared Responsibility
+#### Shared Responsibility
 A Shared responsibility is a set of decisions that must be made by several individuals (who share the responsibility), usually by voting.
+
+### Region-Domain Responsibilities
+
+| Responsibilities                                                                                           | Sole or Shared? |      Delegatable?      |
+| ---------------------------------------------------------------------------------------------------------- | :-------------: | :--------------------: |
+| Delegating and Apportioning a delegatable Sole Responsibility to a Government Official with `Authority II` |      Sole       |           No           |
+| Arranging Trade with Government Officials of other Regions, usually those with `Authority I`               |      Sole       | Yes, and apportionable |
+| Starting certain region-wide Initiatives (picking a date, modifying a policy)                              |      Sole       |           No           |
+| Organizing region-wide Initiatives (planning, logistics)                                                   |     Shared      |           No           |
+For `Authority I` (primarily Champions), it includes:
 
 ## Government Officials
 ### Champion
@@ -24,26 +40,6 @@ The Champion is the individual at the top of the Regional Goverment hierarchy, a
 - communicating with Champions of the other regions.
 - authoring mandates that override decisions made with:
 	- `Authority II`
-#### Managing Domain: Region
-##### Sole Responsibilities
-Managing the Region entails several sole responsibilities.
-
-For `Authority I` (primarily Champions), it includes:
-
-| Responsibilities                                                                                           | Sole or Shared? |      Delegatable?      |
-| ---------------------------------------------------------------------------------------------------------- | :-------------: | :--------------------: |
-| Delegating and Apportioning a delegatable Sole Responsibility to a Government Official with `Authority II` |      Sole       |           No           |
-| Arranging Trade with Government Officials of other Regions, usually those with `Authority I`               |      Sole       | Yes, and apportionable |
-| Starting certain region-wide Initiatives (picking a date)                                                  |      Sole       |           No           |
-| Organizing region-wide Initiatives (planning, logistics)                                                   |     Shared      |           No           |
-
-- Arranging Trade with Government Officials of other Regions, usually those with `Authority I`.
-- Organizing certain region-wide Festivals
-- `(Cannot delegate)` Casting a vote in Assemblies, with their votes worth two points.
-- 
-For `Authority II` (primarily the Elites), it includes:
-- 
-
 ### Elite
 The Elite Four are four (4) individuals just below the Champion in the Regional Goverment hierarchy and each of them have `Authority II` with the `Region` as their Domain. Their responsibilities include:
 - casting a vote for any Proposals that enter their Domain
@@ -51,6 +47,8 @@ The Elite Four are four (4) individuals just below the Champion in the Regional 
 - drafting region-wide Proposals
 - authoring mandates that override decisions made with:
 	- `Authority III`
+
+For `Authority II` (primarily the Elites), it includes:
 ### Gym Leader
 The Gym Leader is the individual at the top of the Local Government hierarchy, and has `Authority III` with the `Locality` as their domain. 
 - drafting Proposals for their Locality and submitting them to be voted on by those with higher authority.

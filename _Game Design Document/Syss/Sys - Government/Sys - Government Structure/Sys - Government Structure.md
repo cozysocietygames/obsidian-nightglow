@@ -15,6 +15,8 @@ The Government is the Pokemon League. Each Government Officials has a variety of
 ### Champion
 The Champion is the individual at the top of the Regional Goverment hierarchy, and has `Authority I` with the `Region` as their Domain. They have the following actions available:
 - casting a vote for any Proposals that enter their Domain
+- configuring their Domain
+- delegating tasks to those with an authority directly lower than them
 - communicating with Champions of the other regions.
 - authoring mandates that override decisions made with:
 	- `Authority II`
@@ -26,13 +28,17 @@ The Elite Four are four (4) individuals just below the Champion in the Regional 
 - authoring mandates that override decisions made with:
 	- `Authority III`
 ### Gym Leader
-The Gym Leader has is in charge of a locality (a town or a city)can only be challenged by a player when a Gym Minion of tier `IV` has been defeated in the recent past.
-- drafting Proposals for the locality they are in charge of.
+The Gym Leader is the individual at the top of the Local Government hierarchy, and has `Authority III` with the `Locality` as their domain. 
+- drafting Proposals for their Locality and submitting them to be voted on by those with higher authority.
+- configuring their Domain
 - `Authority IV`
 ### Gym Minions
 Below the Gym Leader, there are Gym Minions of lower tiers, with the lowest being `I` and the highest—right below the gym leader in the hierarchy—being `IV`.
 
+
 ## Being Elected into the Government
+
+can only be challenged by a player when a Gym Minion of tier `IV` has been defeated in the recent past.
 
 # Balance
 %% Progression calculations, level scaling, probabilities. For smaller systems, a table is enough. %%

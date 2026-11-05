@@ -14,12 +14,13 @@ The Government is the Pokemon League. Each Government Officials has a variety of
 ## Government Officials
 ### Champion
 The Champion is the individual at the top of the Regional Goverment hierarchy, and has `Authority I` with the `Region` as their Domain. They have the following actions available:
-- casting a vote for any Proposals that enter their Domain, to be tallied alongside the votes of the Elites.
+- casting a vote for any Proposals that enter their Domain
 - communicating with Champions of the other regions.
 - authoring mandates that override decisions made with:
 	- `Authority II`
 ### Elite
-The Elite Four are four (4) individuals just below the Champion in the Regional Goverment hierarchy and each of them have `Authority II` with the `Region`  as their Domain. Their responsibilities include:
+The Elite Four are four (4) individuals just below the Champion in the Regional Goverment hierarchy and each of them have `Authority II` with the `Region` as their Domain. Their responsibilities include:
+- casting a vote for any Proposals that enter their Domain
 - assessing Proposals jointly with the Champion, to accept, modify, or reject them
 - drafting region-wide Proposals
 - authoring mandates that override decisions made with:

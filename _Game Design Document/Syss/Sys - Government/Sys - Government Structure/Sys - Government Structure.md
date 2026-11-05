@@ -31,6 +31,9 @@ The Elite Four are four (4) individuals just below the Champion in the Regional 
 The Gym Leader is the individual at the top of the Local Government hierarchy, and has `Authority III` with the `Locality` as their domain. 
 - drafting Proposals for their Locality and submitting them to be voted on by those with higher authority.
 - configuring their Domain
+- managing their Domain
+	- setting prices of the local PokeMart
+	- setting
 - `Authority IV`
 ### Gym Minions
 Below the Gym Leader, there are Gym Minions of lower tiers, with the lowest being `I` and the highest—right below the gym leader in the hierarchy—being `IV`.

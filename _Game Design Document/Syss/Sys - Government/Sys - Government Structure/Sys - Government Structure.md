@@ -9,6 +9,17 @@
 %% A summary of how the system should behave once built. %%
 # Behavior, Interface, Mechanics
 %%  How the system works, in technical language, as specific as possible. %%
+
+## Government Officials
+
+## 1. Champion
+
+## 2. Elite
+
+## 3. Gym Leader
+The Gym Leader can only be challenged by a player when a Gym Minion of tier `IV` has been defeated in the recent past.
+## 4. Gym Minions
+Below the Gym Leader, there are Gym Minions of lower tiers, with the lowest being `I` and the highest—right below the gym leader in the hierarchy—being `IV`.
 # Balance
 %% Progression calculations, level scaling, probabilities. For smaller systems, a table is enough. %%
 # Analytics

@@ -16,10 +16,6 @@ Like in the games, the eight badges in the region are needed to challenge the El
 An Authority Challenge is a kind of challenge a Player can issue to either a Gym Leader or a Gym Minion, with the reward being an upgrade to your `Local Authority` so that it matches that of the Leader/Minion you just beat. In this kind of challenge, you are restricted to using Pokemon that match the typing of the gym, and the maximum Pokemon-level matching the `Local Authority` you are vying for.
 
 - Alternatively, maybe we can loosen the typing restriction to just `n` Pokemon that match the typing, but only those `n` Pokemon will be used as their team when another player challenges them.
-## Gym Leader
-The Gym Leader can only be challenged by a player when a Gym Minion of tier `IV` has been defeated in the recent past.
-## Gym Minions
-Below the Gym Leader, there are Gym Minions of lower tiers, with the lowest being `I` and the highest—right below the gym leader in the hierarchy—being `IV`.
 
 A player may only challenge a Gym Minion of tier `N` if they have won a challenge against a Gym Minion of a tier directly below it (if any) in the recent past (timespan unspecified).
 ## Gym Proxies

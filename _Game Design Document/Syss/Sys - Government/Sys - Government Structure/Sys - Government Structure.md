@@ -30,9 +30,11 @@ Managing the Region entails several sole responsibilities.
 
 For `Authority I` (primarily Champions), it includes:
 
-| Syn    | Tax |
-| ------ | --- |
-| `asdf` |     |
+| Responsibilities                                                                               | Sole or Shared? | Delegatable?           |
+| ---------------------------------------------------------------------------------------------- | --------------- | ---------------------- |
+| Delegating and Apportioning a Sole Responsibility to a Government Official with `Authority II` | Sole            | No                     |
+| Arranging Trade with Government Officials of other Regions, usually those with `Authority I`.  | Sole            | Yes, and apportionable |
+| Organizing certain region-wide Festivals (picking a date, a venue, etc.)                       | Sole            | Yes, and apportionable |
 
 - Arranging Trade with Government Officials of other Regions, usually those with `Authority I`.
 - Organizing certain region-wide Festivals

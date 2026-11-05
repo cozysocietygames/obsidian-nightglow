@@ -30,11 +30,12 @@ Managing the Region entails several sole responsibilities.
 
 For `Authority I` (primarily Champions), it includes:
 
-| Responsibilities                                                                               | Sole or Shared? | Delegatable?           |
-| ---------------------------------------------------------------------------------------------- | --------------- | ---------------------- |
-| Delegating and Apportioning a Sole Responsibility to a Government Official with `Authority II` | Sole            | No                     |
-| Arranging Trade with Government Officials of other Regions, usually those with `Authority I`.  | Sole            | Yes, and apportionable |
-| Organizing certain region-wide Festivals (picking a date, a venue, etc.)                       | Sole            | Yes, and apportionable |
+| Responsibilities                                                                                           | Sole or Shared? |      Delegatable?      |
+| ---------------------------------------------------------------------------------------------------------- | :-------------: | :--------------------: |
+| Delegating and Apportioning a delegatable Sole Responsibility to a Government Official with `Authority II` |      Sole       |           No           |
+| Arranging Trade with Government Officials of other Regions, usually those with `Authority I`               |      Sole       | Yes, and apportionable |
+| Starting certain region-wide Initiatives (picking a date)                                                  |      Sole       |           No           |
+| Organizing region-wide Initiatives (planning, logistics)                                                   |     Shared      |           No           |
 
 - Arranging Trade with Government Officials of other Regions, usually those with `Authority I`.
 - Organizing certain region-wide Festivals

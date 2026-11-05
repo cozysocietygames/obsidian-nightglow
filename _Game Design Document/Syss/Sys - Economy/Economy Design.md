@@ -1,6 +1,5 @@
 # Design Philosophy
 
-![[Design Guidelines#Design Philosophy]]
 
 > [!important] Design Philosophy
 > 

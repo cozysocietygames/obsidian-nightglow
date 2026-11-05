@@ -6,7 +6,7 @@
 - Define the structure of a map.
 # Overview
 %% A summary of how the system should behave once built. %%
-Not to be confused with the World Map, a Map is a representation of a physical location, and can be engaged in through several ways. It may be [[Subsys - Exploration|explored]] or it may be [[modified]].
+Not to be confused with the World Map, a Map is a representation of a physical location, and can be engaged in through several ways. It may be [[Sys - Exploration|explored]] or it may be [[modified]].
 # Behavior, Interface, Mechanics
 %%  How the system works, in technical language, as specific as possible. %%
 A Map is a representation of a meaningful location on the `overworld`. 

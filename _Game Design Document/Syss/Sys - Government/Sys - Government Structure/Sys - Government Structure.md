@@ -12,14 +12,14 @@
 
 The Government is the Pokemon League.
 ## Government Officials
-
-## 1. Champion
-
-## 2. Elite
-
-## 3. Gym Leader
+### Champion
+The 
+### Elite
+The Elite Four are four (4) individuals just below the Champion in terms of authority. Their responsibilities include:
+- accepting or rejecting Proposals.
+### Gym Leader
 The Gym Leader can only be challenged by a player when a Gym Minion of tier `IV` has been defeated in the recent past.
-## 4. Gym Minions
+### Gym Minions
 Below the Gym Leader, there are Gym Minions of lower tiers, with the lowest being `I` and the highest—right below the gym leader in the hierarchy—being `IV`.
 # Balance
 %% Progression calculations, level scaling, probabilities. For smaller systems, a table is enough. %%

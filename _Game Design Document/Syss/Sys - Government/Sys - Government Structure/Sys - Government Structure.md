@@ -28,20 +28,15 @@ A Shared responsibility is a set of decisions that must be made by several indiv
 | ---------------------------------------------------------------------------------------------------------- | :-------------: | :--------------------: |
 | Delegating and Apportioning a delegatable Sole Responsibility to a Government Official with `Authority II` |      Sole       |           No           |
 | Arranging Trade with Government Officials of other Regions, usually those with `Authority I`               |      Sole       | Yes, and apportionable |
-| Starting certain region-wide Initiatives (picking a date, modifying a policy)                              |      Sole       |           No           |
+| Starting certain region-wide Initiatives (picking a date, modifying a policy, authoring a mandate)         |      Sole       |           No           |
 | Organizing region-wide Initiatives (planning, logistics)                                                   |     Shared      |           No           |
 For `Authority I` (primarily Champions), it includes:
 
 ## Government Officials
 ### Champion
-The Champion is the individual at the top of the Regional Goverment hierarchy, and has `Authority I` with the `Region` as their Domain.
-- casting a vote for any Proposals that enter their Domain
-- managing their Domain
-- communicating with Champions of the other regions.
-- authoring mandates that override decisions made with:
-	- `Authority II`
+The Champion is the individual at the top of the Regional Government hierarchy, and has `Authority I` with the `Region` as their Domain.
 ### Elite
-The Elite Four are four (4) individuals just below the Champion in the Regional Goverment hierarchy and each of them have `Authority II` with the `Region` as their Domain. Their responsibilities include:
+The Elite Four are four (4) individuals just below the Champion in the Regional Government hierarchy and each of them have `Authority II` with the `Region` as their Domain. Their responsibilities include:
 - casting a vote for any Proposals that enter their Domain
 - assessing Proposals jointly with the Champion, to accept, modify, or reject them
 - drafting region-wide Proposals

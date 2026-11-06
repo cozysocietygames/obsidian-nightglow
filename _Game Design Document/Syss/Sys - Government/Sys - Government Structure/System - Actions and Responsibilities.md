@@ -23,13 +23,13 @@
 </tr>
 <tr>
 <td>Starting certain region-wide Initiatives (choosing a project, choosing a policy to modify, authoring an order/mandate)</td>
-<td class="tt-c">Sole</td>
+<td class="tt-c">Shared</td>
 <td class="tt-c">No</td>
 <td class="tt-c"></td>
 <td class="tt-c"></td>
 </tr>
 <tr>
-<td>Starting certain region-wide Initiatives (choosing a project, choosing a policy to modify, authoring an order/mandate)</td>
+<td>Organizing region-wide Initiatives (planning, logistics)</td>
 <td class="tt-c">Shared</td>
 <td class="tt-c">No</td>
 <td class="tt-c"></td>

@@ -73,17 +73,23 @@ A Shared responsibility is a set of decisions that must be made by several indiv
 <td class="tt-c"></td>
 </tr>
 <tr>
-<td>Organizing region-wide Initiatives (planning specifics)</td>
-<td class="tt-c">Shared</td>
-<td class="tt-c">No</td>
-<td class="tt-c"></td>
+<td>Creating Trade Requests with Government Officials of other Regions, usually those with <span class="pillbadge">Authority RT1</span></td>
+<td class="tt-c">Sole</td>
+<td class="tt-c">Yes</td>
+<td class="tt-c">RT1</td>
 <td class="tt-c"></td>
 </tr>
 <tr>
-<td>Apportioning Job Orders into a subset of smaller Job Orders and to be fulfilled by Government Officials with<span class="pillbadge">Authority LT1</span></td>
-<td class="tt-c"></td>
-<td class="tt-c"></td>
+<td>Creating Job Orders to be fulfilled by Government Officials with<span class="pillbadge">Authority RT2</span></td>
+<td class="tt-c">Sole</td>
+<td class="tt-c">Yes</td>
 <td class="tt-c"></td>
 <td class="tt-c"></td>
 </tr>
 </table>
+
+
+
+
+
+Apportioning Job Orders into a subset of smaller Job Orders and Trade Requests to be fulfilled by Government Officials

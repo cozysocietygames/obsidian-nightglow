@@ -10,8 +10,7 @@
 # Behavior, Interface, Mechanics
 %%  How the system works, in technical language, as specific as possible. %%
 
-The Government is the Pokemon League. Each Government Officials has a variety of Actions available to them.
-
+The Government is the Pokemon League. Each Government Official has a variety of Actions available to them depending on their position. 
 ## Responsibilities
 ## Managing the Domain
 Managing the Region entails several sole responsibilities.

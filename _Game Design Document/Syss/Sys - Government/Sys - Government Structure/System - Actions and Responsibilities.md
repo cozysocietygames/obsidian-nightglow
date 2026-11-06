@@ -97,7 +97,4 @@ A Shared responsibility is a set of decisions that must be made by several indiv
 </table>
 
 
-
-
-
 Apportioning Job Orders into a subset of smaller Job Orders and Trade Requests to be fulfilled by Government Officials

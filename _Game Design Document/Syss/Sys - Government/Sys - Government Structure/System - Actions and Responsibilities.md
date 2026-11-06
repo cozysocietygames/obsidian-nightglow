@@ -29,7 +29,7 @@
 <td class="tt-c"></td>
 </tr>
 <tr>
-<td>Organizing region-wide Initiatives (planning, logistics)</td>
+<td>Organizing region-wide Initiatives (planning specifics)</td>
 <td class="tt-c">Shared</td>
 <td class="tt-c">No</td>
 <td class="tt-c"></td>
@@ -60,7 +60,7 @@
 <td class="tt-c"></td>
 </tr>
 <tr>
-<td>Organizing region-wide Initiatives (planning, logistics)</td>
+<td>Organizing region-wide Initiatives (planning specifics)</td>
 <td class="tt-c">Shared</td>
 <td class="tt-c">No</td>
 <td class="tt-c"></td>

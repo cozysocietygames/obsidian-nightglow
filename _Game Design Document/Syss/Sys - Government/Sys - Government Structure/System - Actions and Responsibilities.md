@@ -80,7 +80,7 @@ A Shared responsibility is a set of decisions that must be made by several indiv
 <td class="tt-c"></td>
 </tr>
 <tr>
-<td>Creating Job Orders to be fulfilled by Government Officials with<span class="pillbadge">Authority LT1</span> directly beneath them in the hierarchy.</td>
+<td>Creating Job Orders to be fulfilled by Government Officials with<span class="pillbadge">Authority LT1</span></td>
 <td class="tt-c">Sole</td>
 <td class="tt-c">Yes</td>
 <td class="tt-c"></td>

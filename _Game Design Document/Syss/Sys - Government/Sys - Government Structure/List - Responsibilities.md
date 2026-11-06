@@ -1,16 +1,16 @@
 # Authority I
 <table class="tt-table" data-tt="1">
 <tr>
-<th>Responsibilities</th>
-<th>Sole or Shared?</th>
-<th>Delegatable?</th>
+<th class="tt-c">Responsibilities</th>
+<th class="tt-c">Sole or Shared?</th>
+<th class="tt-c">Delegatable?</th>
 <th></th>
 <th></th>
 </tr>
 <tr>
 <td>Delegating and Apportioning a delegatable Sole Responsibility to a Government Official with <span class="pillbadge">Authority II</span></td>
-<td></td>
-<td></td>
+<td>Sole</td>
+<td>No</td>
 <td></td>
 <td></td>
 </tr>
@@ -44,8 +44,7 @@
 </tr>
 </table>
 
-
-
+# Authority II
 
 | Responsibilities                                                                                                       | Sole or Shared? |      Delegatable?      |
 | ---------------------------------------------------------------------------------------------------------------------- | :-------------: | :--------------------: |

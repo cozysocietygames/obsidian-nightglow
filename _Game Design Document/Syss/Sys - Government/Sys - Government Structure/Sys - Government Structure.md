@@ -35,7 +35,7 @@ For `Authority II` (primarily Elites), it includes:
 
 | Responsibilities                                                                                                       | Sole or Shared? |      Delegatable?      |
 | ---------------------------------------------------------------------------------------------------------------------- | :-------------: | :--------------------: |
-| Create Tasks for Government Officials with `Authority II`                                                              |      Sole       |           No           |
+| Create Tasks for Government Officials with `Authority III`                                                             |      Sole       |           No           |
 | Arranging Trade with Government Officials of other Regions, usually those with `Authority I`                           |      Sole       | Yes, and apportionable |
 | Starting certain region-wide Initiatives (choosing a project, choosing a policy to modify, authoring an order/mandate) |      Sole       |           No           |
 | Organizing region-wide Initiatives (planning, logistics)                                                               |     Shared      |           No           |

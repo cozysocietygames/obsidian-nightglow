@@ -12,6 +12,7 @@
 	- **Sys - Economy**
 		- [[Economy Design]]
 	- **[[Sys - Government Structure]]**
+		- [[List - Responsibilities]]
 		- [[Sys - Checks and Balances]]
 	- **[[Sys - Gyms]]**
 - **Sys - Maps**

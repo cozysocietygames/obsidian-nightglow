@@ -10,7 +10,7 @@ A Shared responsibility is a set of decisions that must be made by several indiv
 <th class="tt-c">Responsibilities</th>
 <th class="tt-c">Sole or Shared?</th>
 <th class="tt-c">Delegatable?</th>
-<th class="tt-c">Needs Permission of:</th>
+<th class="tt-c">Needs Permission of</th>
 <th class="tt-c"></th>
 </tr>
 <tr>
@@ -80,7 +80,7 @@ A Shared responsibility is a set of decisions that must be made by several indiv
 <td class="tt-c"></td>
 </tr>
 <tr>
-<td></td>
+<td>Creating Job Orders to be fulfilled by Government Officials with<span class="pillbadge">Authority LT1</span></td>
 <td class="tt-c"></td>
 <td class="tt-c"></td>
 <td class="tt-c"></td>

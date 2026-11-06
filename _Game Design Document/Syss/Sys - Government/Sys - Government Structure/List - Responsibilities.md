@@ -48,7 +48,7 @@
 
 | Responsibilities                                                                                                       | Sole or Shared? |      Delegatable?      |
 | ---------------------------------------------------------------------------------------------------------------------- | :-------------: | :--------------------: |
-| `                                                                                                                      |      Sole       |           No           |
+|                                                                                                                        |      Sole       |           No           |
 |                                                                                                                        |      Sole       | Yes, and apportionable |
 | Starting certain region-wide Initiatives (choosing a project, choosing a policy to modify, authoring an order/mandate) |      Sole       |           No           |
 | Organizing region-wide Initiatives (planning, logistics)                                                               |     Shared      |           No           |

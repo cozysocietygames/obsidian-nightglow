@@ -10,7 +10,7 @@ A Shared responsibility is a set of decisions that must be made by several indiv
 <th class="tt-c">Responsibilities</th>
 <th class="tt-c">Sole or Shared?</th>
 <th class="tt-c">Delegatable?</th>
-<th class="tt-c"></th>
+<th class="tt-c">Needs Permission of:</th>
 <th class="tt-c"></th>
 </tr>
 <tr>

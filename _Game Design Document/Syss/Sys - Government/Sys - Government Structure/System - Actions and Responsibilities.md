@@ -45,4 +45,3 @@
 </table>
 
 # Authority II
-

@@ -21,13 +21,6 @@ A Shared responsibility is a set of decisions that must be made by several indiv
 <td class="tt-c"></td>
 </tr>
 <tr>
-<td>Arranging Trade with Government Officials of other Regions, usually those with <span class="pillbadge">Authority RT1</span></td>
-<td class="tt-c">Sole</td>
-<td class="tt-c">Yes, and Apportionable</td>
-<td class="tt-c"></td>
-<td class="tt-c"></td>
-</tr>
-<tr>
 <td>Starting certain region-wide Initiatives (choosing a project, choosing a policy to modify)</td>
 <td class="tt-c">Shared</td>
 <td class="tt-c">No</td>
@@ -38,6 +31,20 @@ A Shared responsibility is a set of decisions that must be made by several indiv
 <td>Organizing region-wide Initiatives (planning specifics)</td>
 <td class="tt-c">Shared</td>
 <td class="tt-c">No</td>
+<td class="tt-c"></td>
+<td class="tt-c"></td>
+</tr>
+<tr>
+<td>Creating Trade Requests with Government Officials of other Regions, usually those with <span class="pillbadge">Authority RT1</span></td>
+<td class="tt-c">Sole</td>
+<td class="tt-c">Yes</td>
+<td class="tt-c"></td>
+<td class="tt-c"></td>
+</tr>
+<tr>
+<td>Creating Job Orders to be fulfilled by Government Officials with<span class="pillbadge">Authority RT2</span></td>
+<td class="tt-c">Sole</td>
+<td class="tt-c">Yes</td>
 <td class="tt-c"></td>
 <td class="tt-c"></td>
 </tr>

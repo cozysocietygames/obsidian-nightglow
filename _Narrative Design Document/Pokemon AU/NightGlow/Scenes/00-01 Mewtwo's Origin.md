@@ -15,11 +15,10 @@ synopsis: Team Rocket creates Mewtwo.
 characters:
   - "[[Mewtwo]]"
   - "[[Giovanni]]"
-pov: "[[Mewtwo]]"
-act: 0
 chronologicalOrder: 1
-timeline_mode: flashback
+timeline_mode: mythic
 timeline_strand: mewtwo-life-strand
+pov: "[[Mewtwo]]"
 ---
 - Mewtwo is born through a cloning experiment of Dr. Fuji, funded by Team Rocket.
 - They are cloned through a fossilized eyelash of Mew.

@@ -1,14 +1,19 @@
 {
   "characterCustomSections": [],
   "locationCustomSections": [],
-  "codexCategoryCustomSections": {},
+  "codexCategoryCustomSections": {
+    "lore": []
+  },
   "codexVisualGroups": {
     "character": [],
-    "location": []
+    "location": [],
+    "items": [],
+    "lore": []
   },
   "customLocationTypes": [],
   "codexCustomCategories": [],
   "codexEnabledCategories": [
-    "items"
+    "items",
+    "lore"
   ]
 }

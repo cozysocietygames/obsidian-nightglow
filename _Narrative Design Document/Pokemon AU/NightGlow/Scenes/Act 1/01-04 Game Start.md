@@ -17,7 +17,7 @@ wordcount: 12
 charcount: 89
 created: 2026-11-24
 modified: 2026-11-24
-storyDate: Year 10, Day 01
+storyDate: 2020-01-01
 chronologicalOrder: 4
 ---
 

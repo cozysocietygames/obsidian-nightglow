@@ -11,12 +11,12 @@ conflict: Mewtwo learns to befriend humans and that perhaps they're not all bad.
 tags:
   - mewtwo-life
 wordcount: 25
-charcount: 160
+charcount: 158
 created: 2026-11-24
 modified: 2026-11-24
-storyDate: -11 BCa, Spring 1
-chronologicalOrder: 2
+act: 0
+storyDate: 2004/02/01
+chronologicalOrder: 3
 ---
 
 - Mewtwo meets PeppersDad and PeppersMom and is hesitant to become friends with them, but eventually becomes close to them and their family, children and all.
-- 

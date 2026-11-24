@@ -11,12 +11,13 @@ wordcount: 32
 charcount: 190
 created: 2026-11-24
 modified: 2026-11-24
-storyDate: -12 BCa, Spring Early
 synopsis: Team Rocket creates Mewtwo.
 characters:
   - "[[Mewtwo]]"
   - "[[Giovanni]]"
 pov: "[[Mewtwo]]"
+act: 0
+storyDate: 2003/01/01
 chronologicalOrder: 1
 ---
 - Mewtwo is born through a cloning experiment of Dr. Fuji, funded by Team Rocket.

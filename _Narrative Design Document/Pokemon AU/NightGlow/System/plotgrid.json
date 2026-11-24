@@ -1,7 +1,7 @@
 {
   "rows": [
     {
-      "id": "r-mwudud80-2p1hd3",
+      "id": "r-mwues7i9-wk23zd",
       "label": "Mewtwo is Born",
       "height": 80,
       "bgColor": "",
@@ -9,7 +9,7 @@
       "sourceId": "_Narrative Design Document/Pokemon AU/NightGlow/Scenes/00-01 Mewtwo's Origin.md"
     },
     {
-      "id": "r-mwudud80-ffbcfe",
+      "id": "r-mwues7i9-yb9lmr",
       "label": "Mewtwo leaves Team Rocket",
       "height": 80,
       "bgColor": "",
@@ -17,37 +17,45 @@
       "sourceId": "_Narrative Design Document/Pokemon AU/NightGlow/Scenes/00-02 Mewtwo leaves Team Rocket.md"
     },
     {
-      "id": "r-mwudud80-pzt8gh",
+      "id": "r-mwues7i9-9ohbga",
       "label": "Mewtwo meets Pepper's Parents",
       "height": 80,
       "bgColor": "",
       "sourceType": "auto",
       "sourceId": "_Narrative Design Document/Pokemon AU/NightGlow/Scenes/00-02 Mewtwo meets Pepper's Parents.md"
+    },
+    {
+      "id": "r-mwues7i9-12807p",
+      "label": "A1 · Ch1 · Game Start",
+      "height": 80,
+      "bgColor": "",
+      "sourceType": "auto",
+      "sourceId": "_Narrative Design Document/Pokemon AU/NightGlow/Scenes/Act 1/01-04 Game Start.md"
     }
   ],
   "columns": [
     {
-      "id": "c-mwudud80-fqwasm",
-      "label": "Giovanni",
+      "id": "c-mwues7i9-clxhqs",
+      "label": "main-storyline",
       "width": 160,
       "bgColor": "",
       "sourceType": "auto",
-      "sourceId": "Giovanni",
-      "sourceKind": "characters"
+      "sourceId": "main-storyline",
+      "sourceKind": "tags"
     },
     {
-      "id": "c-mwudud80-6u9dch",
-      "label": "Mewtwo",
+      "id": "c-mwues7i9-ngtvb0",
+      "label": "mewtwo-life",
       "width": 160,
       "bgColor": "",
       "sourceType": "auto",
-      "sourceId": "Mewtwo",
-      "sourceKind": "characters"
+      "sourceId": "mewtwo-life",
+      "sourceKind": "tags"
     }
   ],
   "cells": {
-    "r-mwudud80-2p1hd3-c-mwudud80-6u9dch": {
-      "id": "r-mwudud80-2p1hd3-c-mwudud80-6u9dch",
+    "r-mwues7i9-wk23zd-c-mwues7i9-ngtvb0": {
+      "id": "r-mwues7i9-wk23zd-c-mwues7i9-ngtvb0",
       "content": "",
       "bgColor": "",
       "textColor": "",
@@ -56,18 +64,8 @@
       "align": "center",
       "linkedSceneId": "_Narrative Design Document/Pokemon AU/NightGlow/Scenes/00-01 Mewtwo's Origin.md"
     },
-    "r-mwudud80-2p1hd3-c-mwudud80-fqwasm": {
-      "id": "r-mwudud80-2p1hd3-c-mwudud80-fqwasm",
-      "content": "",
-      "bgColor": "",
-      "textColor": "",
-      "bold": false,
-      "italic": false,
-      "align": "center",
-      "linkedSceneId": "_Narrative Design Document/Pokemon AU/NightGlow/Scenes/00-01 Mewtwo's Origin.md"
-    },
-    "r-mwudud80-ffbcfe-c-mwudud80-6u9dch": {
-      "id": "r-mwudud80-ffbcfe-c-mwudud80-6u9dch",
+    "r-mwues7i9-yb9lmr-c-mwues7i9-ngtvb0": {
+      "id": "r-mwues7i9-yb9lmr-c-mwues7i9-ngtvb0",
       "content": "",
       "bgColor": "",
       "textColor": "",
@@ -76,18 +74,8 @@
       "align": "center",
       "linkedSceneId": "_Narrative Design Document/Pokemon AU/NightGlow/Scenes/00-02 Mewtwo leaves Team Rocket.md"
     },
-    "r-mwudud80-ffbcfe-c-mwudud80-fqwasm": {
-      "id": "r-mwudud80-ffbcfe-c-mwudud80-fqwasm",
-      "content": "",
-      "bgColor": "",
-      "textColor": "",
-      "bold": false,
-      "italic": false,
-      "align": "center",
-      "linkedSceneId": "_Narrative Design Document/Pokemon AU/NightGlow/Scenes/00-02 Mewtwo leaves Team Rocket.md"
-    },
-    "r-mwudud80-pzt8gh-c-mwudud80-6u9dch": {
-      "id": "r-mwudud80-pzt8gh-c-mwudud80-6u9dch",
+    "r-mwues7i9-9ohbga-c-mwues7i9-ngtvb0": {
+      "id": "r-mwues7i9-9ohbga-c-mwues7i9-ngtvb0",
       "content": "",
       "bgColor": "",
       "textColor": "",
@@ -96,8 +84,45 @@
       "align": "center",
       "linkedSceneId": "_Narrative Design Document/Pokemon AU/NightGlow/Scenes/00-02 Mewtwo meets Pepper's Parents.md"
     },
-    "r-mwudud80-pzt8gh-c-mwudud80-fqwasm": {
-      "id": "r-mwudud80-pzt8gh-c-mwudud80-fqwasm",
+    "r-mwues7i9-12807p-c-mwues7i9-clxhqs": {
+      "id": "r-mwues7i9-12807p-c-mwues7i9-clxhqs",
+      "content": "",
+      "bgColor": "",
+      "textColor": "",
+      "bold": false,
+      "italic": false,
+      "align": "center",
+      "linkedSceneId": "_Narrative Design Document/Pokemon AU/NightGlow/Scenes/Act 1/01-04 Game Start.md"
+    },
+    "r-mwues7i9-wk23zd-c-mwues7i9-clxhqs": {
+      "id": "r-mwues7i9-wk23zd-c-mwues7i9-clxhqs",
+      "content": "",
+      "bgColor": "",
+      "textColor": "",
+      "bold": false,
+      "italic": false,
+      "align": "center"
+    },
+    "r-mwues7i9-yb9lmr-c-mwues7i9-clxhqs": {
+      "id": "r-mwues7i9-yb9lmr-c-mwues7i9-clxhqs",
+      "content": "",
+      "bgColor": "",
+      "textColor": "",
+      "bold": false,
+      "italic": false,
+      "align": "center"
+    },
+    "r-mwues7i9-9ohbga-c-mwues7i9-clxhqs": {
+      "id": "r-mwues7i9-9ohbga-c-mwues7i9-clxhqs",
+      "content": "",
+      "bgColor": "",
+      "textColor": "",
+      "bold": false,
+      "italic": false,
+      "align": "center"
+    },
+    "r-mwues7i9-12807p-c-mwues7i9-ngtvb0": {
+      "id": "r-mwues7i9-12807p-c-mwues7i9-ngtvb0",
       "content": "",
       "bgColor": "",
       "textColor": "",

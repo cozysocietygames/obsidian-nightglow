@@ -1,0 +1,72 @@
+{
+  "rows": [
+    {
+      "id": "r-mwub0b9j-qjujom",
+      "label": "Row 1",
+      "height": 80,
+      "bgColor": ""
+    },
+    {
+      "id": "r-mwub0c5v-8cu9qe",
+      "label": "Row 2",
+      "height": 80,
+      "bgColor": ""
+    }
+  ],
+  "columns": [
+    {
+      "id": "c-mwub0cnm-q7wjdn",
+      "label": "Col 1",
+      "width": 160,
+      "bgColor": ""
+    },
+    {
+      "id": "c-mwub0d8d-9r0jfw",
+      "label": "Col 2",
+      "width": 160,
+      "bgColor": ""
+    }
+  ],
+  "cells": {
+    "r-mwub0b9j-qjujom-c-mwub0cnm-q7wjdn": {
+      "id": "r-mwub0b9j-qjujom-c-mwub0cnm-q7wjdn",
+      "content": "",
+      "bgColor": "",
+      "textColor": "",
+      "bold": false,
+      "italic": false,
+      "align": "center"
+    },
+    "r-mwub0c5v-8cu9qe-c-mwub0cnm-q7wjdn": {
+      "id": "r-mwub0c5v-8cu9qe-c-mwub0cnm-q7wjdn",
+      "content": "",
+      "bgColor": "",
+      "textColor": "",
+      "bold": false,
+      "italic": false,
+      "align": "center"
+    },
+    "r-mwub0b9j-qjujom-c-mwub0d8d-9r0jfw": {
+      "id": "r-mwub0b9j-qjujom-c-mwub0d8d-9r0jfw",
+      "content": "",
+      "bgColor": "",
+      "textColor": "",
+      "bold": false,
+      "italic": false,
+      "align": "center"
+    },
+    "r-mwub0c5v-8cu9qe-c-mwub0d8d-9r0jfw": {
+      "id": "r-mwub0c5v-8cu9qe-c-mwub0d8d-9r0jfw",
+      "content": "",
+      "bgColor": "",
+      "textColor": "",
+      "bold": false,
+      "italic": false,
+      "align": "center"
+    }
+  },
+  "zoom": 1,
+  "stickyHeaders": true,
+  "labelColumnWidth": 120,
+  "collapsedSections": {}
+}

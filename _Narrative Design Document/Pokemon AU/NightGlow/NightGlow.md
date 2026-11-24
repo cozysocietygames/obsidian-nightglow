@@ -3,8 +3,8 @@ type: storyline
 title: NightGlow
 created: 2026-11-24
 language: en
-bookId: a32d1c01-b54d-4bf5-a390-9eccc2a2ec9e
+bookId: 6111f67f-5121-4b23-96e8-b9e540f045db
 seriesId: Pokemon AU
-seriesUuid: 3d8b753f-fee2-4a18-8d54-cf28b4dce999
+seriesUuid: 5454da34-f691-4371-98b1-c629ebb1a398
 ---
 

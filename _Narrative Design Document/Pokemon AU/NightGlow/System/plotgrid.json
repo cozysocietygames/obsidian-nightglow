@@ -1,15 +1,15 @@
 {
   "rows": [
     {
-      "id": "r-mwues7i9-wk23zd",
+      "id": "r-mwuhc18m-8y2irf",
       "label": "Mewtwo is Born",
-      "height": 80,
+      "height": 173,
       "bgColor": "",
       "sourceType": "auto",
       "sourceId": "_Narrative Design Document/Pokemon AU/NightGlow/Scenes/00-01 Mewtwo's Origin.md"
     },
     {
-      "id": "r-mwues7i9-yb9lmr",
+      "id": "r-mwuhc18m-rq8i7e",
       "label": "Mewtwo leaves Team Rocket",
       "height": 80,
       "bgColor": "",
@@ -17,7 +17,7 @@
       "sourceId": "_Narrative Design Document/Pokemon AU/NightGlow/Scenes/00-02 Mewtwo leaves Team Rocket.md"
     },
     {
-      "id": "r-mwues7i9-9ohbga",
+      "id": "r-mwuhc18m-f0ofmz",
       "label": "Mewtwo meets Pepper's Parents",
       "height": 80,
       "bgColor": "",
@@ -25,7 +25,7 @@
       "sourceId": "_Narrative Design Document/Pokemon AU/NightGlow/Scenes/00-02 Mewtwo meets Pepper's Parents.md"
     },
     {
-      "id": "r-mwues7i9-12807p",
+      "id": "r-mwuhc18m-zeutyj",
       "label": "A1 · Ch1 · Game Start",
       "height": 80,
       "bgColor": "",
@@ -35,7 +35,7 @@
   ],
   "columns": [
     {
-      "id": "c-mwues7i9-clxhqs",
+      "id": "c-mwuhc18m-tt8rn5",
       "label": "main-storyline",
       "width": 160,
       "bgColor": "",
@@ -44,7 +44,7 @@
       "sourceKind": "tags"
     },
     {
-      "id": "c-mwues7i9-ngtvb0",
+      "id": "c-mwuhc18m-panjg7",
       "label": "mewtwo-life",
       "width": 160,
       "bgColor": "",
@@ -54,18 +54,19 @@
     }
   ],
   "cells": {
-    "r-mwues7i9-wk23zd-c-mwues7i9-ngtvb0": {
-      "id": "r-mwues7i9-wk23zd-c-mwues7i9-ngtvb0",
+    "r-mwuhc18m-8y2irf-c-mwuhc18m-panjg7": {
+      "id": "r-mwuhc18m-8y2irf-c-mwuhc18m-panjg7",
       "content": "",
       "bgColor": "",
       "textColor": "",
       "bold": false,
       "italic": false,
       "align": "center",
-      "linkedSceneId": "_Narrative Design Document/Pokemon AU/NightGlow/Scenes/00-01 Mewtwo's Origin.md"
+      "linkedSceneId": "_Narrative Design Document/Pokemon AU/NightGlow/Scenes/00-01 Mewtwo's Origin.md",
+      "manualContent": true
     },
-    "r-mwues7i9-yb9lmr-c-mwues7i9-ngtvb0": {
-      "id": "r-mwues7i9-yb9lmr-c-mwues7i9-ngtvb0",
+    "r-mwuhc18m-rq8i7e-c-mwuhc18m-panjg7": {
+      "id": "r-mwuhc18m-rq8i7e-c-mwuhc18m-panjg7",
       "content": "",
       "bgColor": "",
       "textColor": "",
@@ -74,8 +75,8 @@
       "align": "center",
       "linkedSceneId": "_Narrative Design Document/Pokemon AU/NightGlow/Scenes/00-02 Mewtwo leaves Team Rocket.md"
     },
-    "r-mwues7i9-9ohbga-c-mwues7i9-ngtvb0": {
-      "id": "r-mwues7i9-9ohbga-c-mwues7i9-ngtvb0",
+    "r-mwuhc18m-f0ofmz-c-mwuhc18m-panjg7": {
+      "id": "r-mwuhc18m-f0ofmz-c-mwuhc18m-panjg7",
       "content": "",
       "bgColor": "",
       "textColor": "",
@@ -84,8 +85,8 @@
       "align": "center",
       "linkedSceneId": "_Narrative Design Document/Pokemon AU/NightGlow/Scenes/00-02 Mewtwo meets Pepper's Parents.md"
     },
-    "r-mwues7i9-12807p-c-mwues7i9-clxhqs": {
-      "id": "r-mwues7i9-12807p-c-mwues7i9-clxhqs",
+    "r-mwuhc18m-zeutyj-c-mwuhc18m-tt8rn5": {
+      "id": "r-mwuhc18m-zeutyj-c-mwuhc18m-tt8rn5",
       "content": "",
       "bgColor": "",
       "textColor": "",
@@ -94,8 +95,8 @@
       "align": "center",
       "linkedSceneId": "_Narrative Design Document/Pokemon AU/NightGlow/Scenes/Act 1/01-04 Game Start.md"
     },
-    "r-mwues7i9-wk23zd-c-mwues7i9-clxhqs": {
-      "id": "r-mwues7i9-wk23zd-c-mwues7i9-clxhqs",
+    "r-mwuhc18m-8y2irf-c-mwuhc18m-tt8rn5": {
+      "id": "r-mwuhc18m-8y2irf-c-mwuhc18m-tt8rn5",
       "content": "",
       "bgColor": "",
       "textColor": "",
@@ -103,8 +104,8 @@
       "italic": false,
       "align": "center"
     },
-    "r-mwues7i9-yb9lmr-c-mwues7i9-clxhqs": {
-      "id": "r-mwues7i9-yb9lmr-c-mwues7i9-clxhqs",
+    "r-mwuhc18m-rq8i7e-c-mwuhc18m-tt8rn5": {
+      "id": "r-mwuhc18m-rq8i7e-c-mwuhc18m-tt8rn5",
       "content": "",
       "bgColor": "",
       "textColor": "",
@@ -112,8 +113,8 @@
       "italic": false,
       "align": "center"
     },
-    "r-mwues7i9-9ohbga-c-mwues7i9-clxhqs": {
-      "id": "r-mwues7i9-9ohbga-c-mwues7i9-clxhqs",
+    "r-mwuhc18m-f0ofmz-c-mwuhc18m-tt8rn5": {
+      "id": "r-mwuhc18m-f0ofmz-c-mwuhc18m-tt8rn5",
       "content": "",
       "bgColor": "",
       "textColor": "",
@@ -121,8 +122,8 @@
       "italic": false,
       "align": "center"
     },
-    "r-mwues7i9-12807p-c-mwues7i9-ngtvb0": {
-      "id": "r-mwues7i9-12807p-c-mwues7i9-ngtvb0",
+    "r-mwuhc18m-zeutyj-c-mwuhc18m-panjg7": {
+      "id": "r-mwuhc18m-zeutyj-c-mwuhc18m-panjg7",
       "content": "",
       "bgColor": "",
       "textColor": "",

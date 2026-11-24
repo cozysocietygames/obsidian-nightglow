@@ -14,9 +14,10 @@ wordcount: 18
 charcount: 98
 created: 2026-11-24
 modified: 2026-11-24
-chronologicalOrder: 2
+chronologicalOrder: 3
 timeline_mode: mythic
 timeline_strand: mewtwo-life-strand
 pov: "[[Mewtwo]]"
+act: -1
 ---
 - Mewtwo decides to leave Team Rocket to become the master of their own powers and their own life.

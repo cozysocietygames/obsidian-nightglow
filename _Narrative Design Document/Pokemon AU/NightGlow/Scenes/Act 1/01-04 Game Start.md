@@ -17,8 +17,8 @@ wordcount: 12
 charcount: 89
 created: 2026-11-24
 modified: 2026-11-24
-storyDate: 2020-01-01
-chronologicalOrder: 4
+storyDate: 2027-01-01
+chronologicalOrder: 5
 ---
 
 - Player Character meets Professor Fern.

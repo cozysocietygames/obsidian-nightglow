@@ -16,7 +16,6 @@ wordcount: 4
 charcount: 26
 created: 2026-11-24
 modified: 2026-11-24
-timeline_mode: linear
 storyDate: 2020-01-05
 chronologicalOrder: 2
 timeline_strand: black-velvet

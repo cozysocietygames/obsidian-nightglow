@@ -23,4 +23,15 @@ relations:
     targetType: character
     relationId: a5f9645e-314c-4dc6-a59c-962b68dffa84
     inverseType: rival
+  - category: conflict
+    type: rival
+    target: Sand
+    targetId: 9caaf4f6-0b93-4262-bc0a-3ea884dcff83
+    targetType: character
+    relationId: b6c23ee7-ba2e-48d5-ac4d-8715e1c9ec60
+    inverseType: rival
+universalFields:
+  uf_mwudcap4_8dzt7: Human
+species: Human
+caseSensitive: false
 ---

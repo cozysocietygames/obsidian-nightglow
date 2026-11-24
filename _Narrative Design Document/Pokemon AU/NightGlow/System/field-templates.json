@@ -13,6 +13,7 @@
       ],
       "placeholder": "e.g. Pokemon, Human",
       "topLevelKey": "species",
+      "defaultValue": "Human",
       "order": 1795505038888
     }
   ],

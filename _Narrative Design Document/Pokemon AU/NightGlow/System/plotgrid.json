@@ -1,62 +1,103 @@
 {
   "rows": [
     {
-      "id": "r-mwub0b9j-qjujom",
-      "label": "Row 1",
+      "id": "r-mwudud80-2p1hd3",
+      "label": "Mewtwo is Born",
       "height": 80,
-      "bgColor": ""
+      "bgColor": "",
+      "sourceType": "auto",
+      "sourceId": "_Narrative Design Document/Pokemon AU/NightGlow/Scenes/00-01 Mewtwo's Origin.md"
     },
     {
-      "id": "r-mwub0c5v-8cu9qe",
-      "label": "Row 2",
+      "id": "r-mwudud80-ffbcfe",
+      "label": "Mewtwo leaves Team Rocket",
       "height": 80,
-      "bgColor": ""
+      "bgColor": "",
+      "sourceType": "auto",
+      "sourceId": "_Narrative Design Document/Pokemon AU/NightGlow/Scenes/00-02 Mewtwo leaves Team Rocket.md"
+    },
+    {
+      "id": "r-mwudud80-pzt8gh",
+      "label": "Mewtwo meets Pepper's Parents",
+      "height": 80,
+      "bgColor": "",
+      "sourceType": "auto",
+      "sourceId": "_Narrative Design Document/Pokemon AU/NightGlow/Scenes/00-02 Mewtwo meets Pepper's Parents.md"
     }
   ],
   "columns": [
     {
-      "id": "c-mwub0cnm-q7wjdn",
-      "label": "Col 1",
+      "id": "c-mwudud80-fqwasm",
+      "label": "Giovanni",
       "width": 160,
-      "bgColor": ""
+      "bgColor": "",
+      "sourceType": "auto",
+      "sourceId": "Giovanni",
+      "sourceKind": "characters"
     },
     {
-      "id": "c-mwub0d8d-9r0jfw",
-      "label": "Col 2",
+      "id": "c-mwudud80-6u9dch",
+      "label": "Mewtwo",
       "width": 160,
-      "bgColor": ""
+      "bgColor": "",
+      "sourceType": "auto",
+      "sourceId": "Mewtwo",
+      "sourceKind": "characters"
     }
   ],
   "cells": {
-    "r-mwub0b9j-qjujom-c-mwub0cnm-q7wjdn": {
-      "id": "r-mwub0b9j-qjujom-c-mwub0cnm-q7wjdn",
+    "r-mwudud80-2p1hd3-c-mwudud80-6u9dch": {
+      "id": "r-mwudud80-2p1hd3-c-mwudud80-6u9dch",
       "content": "",
       "bgColor": "",
       "textColor": "",
       "bold": false,
       "italic": false,
-      "align": "center"
+      "align": "center",
+      "linkedSceneId": "_Narrative Design Document/Pokemon AU/NightGlow/Scenes/00-01 Mewtwo's Origin.md"
     },
-    "r-mwub0c5v-8cu9qe-c-mwub0cnm-q7wjdn": {
-      "id": "r-mwub0c5v-8cu9qe-c-mwub0cnm-q7wjdn",
+    "r-mwudud80-2p1hd3-c-mwudud80-fqwasm": {
+      "id": "r-mwudud80-2p1hd3-c-mwudud80-fqwasm",
       "content": "",
       "bgColor": "",
       "textColor": "",
       "bold": false,
       "italic": false,
-      "align": "center"
+      "align": "center",
+      "linkedSceneId": "_Narrative Design Document/Pokemon AU/NightGlow/Scenes/00-01 Mewtwo's Origin.md"
     },
-    "r-mwub0b9j-qjujom-c-mwub0d8d-9r0jfw": {
-      "id": "r-mwub0b9j-qjujom-c-mwub0d8d-9r0jfw",
+    "r-mwudud80-ffbcfe-c-mwudud80-6u9dch": {
+      "id": "r-mwudud80-ffbcfe-c-mwudud80-6u9dch",
       "content": "",
       "bgColor": "",
       "textColor": "",
       "bold": false,
       "italic": false,
-      "align": "center"
+      "align": "center",
+      "linkedSceneId": "_Narrative Design Document/Pokemon AU/NightGlow/Scenes/00-02 Mewtwo leaves Team Rocket.md"
     },
-    "r-mwub0c5v-8cu9qe-c-mwub0d8d-9r0jfw": {
-      "id": "r-mwub0c5v-8cu9qe-c-mwub0d8d-9r0jfw",
+    "r-mwudud80-ffbcfe-c-mwudud80-fqwasm": {
+      "id": "r-mwudud80-ffbcfe-c-mwudud80-fqwasm",
+      "content": "",
+      "bgColor": "",
+      "textColor": "",
+      "bold": false,
+      "italic": false,
+      "align": "center",
+      "linkedSceneId": "_Narrative Design Document/Pokemon AU/NightGlow/Scenes/00-02 Mewtwo leaves Team Rocket.md"
+    },
+    "r-mwudud80-pzt8gh-c-mwudud80-6u9dch": {
+      "id": "r-mwudud80-pzt8gh-c-mwudud80-6u9dch",
+      "content": "",
+      "bgColor": "",
+      "textColor": "",
+      "bold": false,
+      "italic": false,
+      "align": "center",
+      "linkedSceneId": "_Narrative Design Document/Pokemon AU/NightGlow/Scenes/00-02 Mewtwo meets Pepper's Parents.md"
+    },
+    "r-mwudud80-pzt8gh-c-mwudud80-fqwasm": {
+      "id": "r-mwudud80-pzt8gh-c-mwudud80-fqwasm",
       "content": "",
       "bgColor": "",
       "textColor": "",

@@ -13,4 +13,14 @@ relations:
     targetId: 63ae91dc-c92a-4488-9645-7c6097999a3b
     targetType: character
     relationId: a5f9645e-314c-4dc6-a59c-962b68dffa84
+    inverseType: rival
+  - category: conflict
+    type: rival
+    target: Sand
+    targetId: 9caaf4f6-0b93-4262-bc0a-3ea884dcff83
+    targetType: character
+    relationId: 3088e87e-efd9-48c8-ac8e-540abdf0189a
+    inverseType: rival
+role: Protagonist
+caseSensitive: false
 ---

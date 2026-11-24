@@ -18,4 +18,9 @@ relations:
     targetId: 5a17e13b-7d83-4b12-89b3-2bf53c67e009
     targetType: character
     relationId: 7a525821-6e44-411f-82cd-15d7d265f23e
+    inverseType: spouse
+role: Supporting
+universalFields:
+  uf_mwudcap4_8dzt7: Human
+species: Human
 ---

@@ -1,3 +1,19 @@
 {
-  "corkboardPositions": {}
+  "corkboardPositions": {
+    "_Narrative Design Document/Pokemon AU/NightGlow/Scenes/00-01 Mewtwo's Origin.md": {
+      "x": 0,
+      "y": 0,
+      "z": 1
+    },
+    "_Narrative Design Document/Pokemon AU/NightGlow/Scenes/00-02 Mewtwo leaves Team Rocket.md": {
+      "x": 320,
+      "y": 0,
+      "z": 2
+    },
+    "_Narrative Design Document/Pokemon AU/NightGlow/Scenes/00-02 Mewtwo meets Pepper's Parents.md": {
+      "x": 640,
+      "y": 0,
+      "z": 3
+    }
+  }
 }

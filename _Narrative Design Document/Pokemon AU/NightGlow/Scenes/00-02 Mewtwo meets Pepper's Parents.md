@@ -18,5 +18,5 @@ storyDate: -11 BCa, Spring 1
 chronologicalOrder: 2
 ---
 
-- Mewtwo meets Pepper's parents and is hesitant to become friends with them, but eventually becomes close to them and their family, children and all.
+- Mewtwo meets PeppersDad and PeppersMom and is hesitant to become friends with them, but eventually becomes close to them and their family, children and all.
 - 

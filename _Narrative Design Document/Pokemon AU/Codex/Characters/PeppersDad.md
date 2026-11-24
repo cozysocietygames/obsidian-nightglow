@@ -24,4 +24,5 @@ relations:
     targetType: character
     relationId: 7a525821-6e44-411f-82cd-15d7d265f23e
     inverseType: spouse
+role: Supporting
 ---

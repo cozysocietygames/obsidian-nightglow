@@ -17,7 +17,7 @@ charcount: 98
 created: 2026-11-24
 modified: 2026-11-24
 act: 0
-storyDate: 2003/02/01
+storyDate: Year -12, Day 10
 chronologicalOrder: 2
 ---
 - Mewtwo decides to leave Team Rocket to become the master of their own powers and their own life.

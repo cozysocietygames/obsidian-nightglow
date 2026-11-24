@@ -17,7 +17,7 @@ characters:
   - "[[Giovanni]]"
 pov: "[[Mewtwo]]"
 act: 0
-storyDate: 2003/01/01
+storyDate: Year -12, Day 01
 chronologicalOrder: 1
 ---
 - Mewtwo is born through a cloning experiment of Dr. Fuji, funded by Team Rocket.

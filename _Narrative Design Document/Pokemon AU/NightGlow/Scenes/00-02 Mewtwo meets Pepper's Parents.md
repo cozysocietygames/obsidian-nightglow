@@ -15,7 +15,7 @@ charcount: 158
 created: 2026-11-24
 modified: 2026-11-24
 act: 0
-storyDate: 2004/02/01
+storyDate: Year -11, Day 01
 chronologicalOrder: 3
 ---
 

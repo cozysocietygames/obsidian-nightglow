@@ -2,7 +2,7 @@
 type: scene
 title: Mewtwo is Born
 id: e547a462-5501-4346-aeae-94239b40aced
-sequence: 1
+sequence: 2
 status: idea
 conflict: Mewtwo is used by Team Rocket for evil deeds.
 tags:
@@ -11,7 +11,7 @@ wordcount: 32
 charcount: 190
 created: 2026-11-24
 modified: 2026-11-24
-storyDate: -12 BCa, Spring 1
+storyDate: -12 BCa, Spring Early
 synopsis: Team Rocket creates Mewtwo.
 characters:
   - "[[Mewtwo]]"

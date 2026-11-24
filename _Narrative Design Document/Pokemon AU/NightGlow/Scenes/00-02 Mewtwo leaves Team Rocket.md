@@ -2,13 +2,13 @@
 type: scene
 title: Mewtwo leaves Team Rocket
 id: e547a462-5501-4346-aeae-94239b40aced
-sequence: 2
+sequence: 3
 chronologicalOrder: 1
 pov: "[[Mewtwo]]"
 characters:
   - "[[Mewtwo]]"
   - "[[Giovanni]]"
-storyDate: -12 BCa, Spring 1
+storyDate: -12 BCa, Spring Late
 status: idea
 conflict: Mewtwo struggles with being subservient to his creator.
 tags:

@@ -17,10 +17,9 @@ characters:
   - "[[Giovanni]]"
 pov: "[[Mewtwo]]"
 act: 0
-storyDate: Year 01, Day 1
 chronologicalOrder: 1
 timeline_mode: flashback
-timeline_strand: mewtwo-life
+timeline_strand: mewtwo-life-strand
 ---
 - Mewtwo is born through a cloning experiment of Dr. Fuji, funded by Team Rocket.
 - They are cloned through a fossilized eyelash of Mew.

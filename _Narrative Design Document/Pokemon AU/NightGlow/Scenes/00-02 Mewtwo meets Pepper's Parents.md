@@ -15,9 +15,8 @@ charcount: 158
 created: 2026-11-24
 modified: 2026-11-24
 act: 0
-storyDate: Year 02, Day 1
 chronologicalOrder: 3
-timeline_strand: mewtwo-life
+timeline_strand: mewtwo-life-strand
 timeline_mode: flashback
 ---
 

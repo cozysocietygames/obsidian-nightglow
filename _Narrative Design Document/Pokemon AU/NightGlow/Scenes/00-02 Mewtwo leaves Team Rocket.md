@@ -17,9 +17,8 @@ charcount: 98
 created: 2026-11-24
 modified: 2026-11-24
 act: 0
-storyDate: Year 01, Day 10
 chronologicalOrder: 2
 timeline_mode: flashback
-timeline_strand: mewtwo-life
+timeline_strand: mewtwo-life-strand
 ---
 - Mewtwo decides to leave Team Rocket to become the master of their own powers and their own life.

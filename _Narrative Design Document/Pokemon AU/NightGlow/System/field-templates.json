@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "fields": [
+    {
+      "id": "uf_mwudcap4_8dzt7",
+      "label": "Species",
+      "section": "Basic Information",
+      "category": "character",
+      "type": "dropdown",
+      "options": [
+        "Human",
+        "Pokemon"
+      ],
+      "placeholder": "e.g. Pokemon, Human",
+      "topLevelKey": "species",
+      "order": 1795505038888
+    }
+  ],
+  "sectionOrders": {
+    "Basic Information|character": [
+      {
+        "kind": "builtin",
+        "key": "name"
+      },
+      {
+        "kind": "builtin",
+        "key": "tagline"
+      },
+      {
+        "kind": "builtin",
+        "key": "nickname"
+      },
+      {
+        "kind": "universal",
+        "key": "uf_mwudcap4_8dzt7"
+      },
+      {
+        "kind": "builtin",
+        "key": "age"
+      },
+      {
+        "kind": "builtin",
+        "key": "role"
+      },
+      {
+        "kind": "builtin",
+        "key": "occupation"
+      },
+      {
+        "kind": "builtin",
+        "key": "residency"
+      },
+      {
+        "kind": "builtin",
+        "key": "locations"
+      }
+    ]
+  }
+}

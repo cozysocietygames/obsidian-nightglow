@@ -18,7 +18,7 @@ charcount: 89
 created: 2026-11-24
 modified: 2026-11-24
 storyDate: 2027-01-01
-chronologicalOrder: 6
+chronologicalOrder: 9
 ---
 
 - Player Character meets Professor Fern.

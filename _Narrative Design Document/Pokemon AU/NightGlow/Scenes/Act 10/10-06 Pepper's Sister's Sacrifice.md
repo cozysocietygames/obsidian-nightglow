@@ -16,9 +16,12 @@ wordcount: 4
 charcount: 26
 created: 2026-11-24
 modified: 2026-11-24
-storyDate: 2020-01-05
-chronologicalOrder: 2
+storyDate: 2020-01
+chronologicalOrder: 1
 timeline_strand: black-velvet
+timeline_mode: linear
+payoff_scenes:
+  - "[[00-06 Mewtwo's Contemplation|Mewtwo's Contemplation]]"
 ---
 
 Pepper's Sister saves her.

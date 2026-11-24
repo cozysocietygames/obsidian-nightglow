@@ -12,8 +12,12 @@ charcount: 0
 created: 2026-11-24
 modified: 2026-11-24
 timeline_strand: mewtwo-life
-storyDate: 2020-01-07
+storyDate: 2020-01
 tags:
   - mewtwo-life
+chronologicalOrder: 6
+timeline_mode: linear
+setup_scenes:
+  - "[[10-06 Pepper's Sister's Sacrifice|Pepper's Sister's Sacrifice]]"
 ---
 

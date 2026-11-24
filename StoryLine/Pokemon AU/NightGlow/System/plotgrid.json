@@ -1,1 +1,48 @@
-{}
+{
+  "rows": [
+    {
+      "id": "r-mwua07db-b0chm4",
+      "label": "Row 1",
+      "height": 80,
+      "bgColor": ""
+    }
+  ],
+  "columns": [
+    {
+      "id": "c-mwua08eu-e1wrux",
+      "label": "Main Storyline",
+      "width": 160,
+      "bgColor": ""
+    },
+    {
+      "id": "c-mwua093o-w5ep69",
+      "label": "Col 2",
+      "width": 160,
+      "bgColor": ""
+    }
+  ],
+  "cells": {
+    "r-mwua07db-b0chm4-c-mwua08eu-e1wrux": {
+      "id": "r-mwua07db-b0chm4-c-mwua08eu-e1wrux",
+      "content": "",
+      "bgColor": "",
+      "textColor": "",
+      "bold": false,
+      "italic": false,
+      "align": "center"
+    },
+    "r-mwua07db-b0chm4-c-mwua093o-w5ep69": {
+      "id": "r-mwua07db-b0chm4-c-mwua093o-w5ep69",
+      "content": "",
+      "bgColor": "",
+      "textColor": "",
+      "bold": false,
+      "italic": false,
+      "align": "center"
+    }
+  },
+  "zoom": 1,
+  "stickyHeaders": true,
+  "labelColumnWidth": 120,
+  "collapsedSections": {}
+}

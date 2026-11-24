@@ -4,7 +4,7 @@ title: Catastrophe Strikes
 id: 1ed3610c-6788-4ce5-8702-48dddb66f75e
 act: 0
 chapter: 1
-sequence: 5
+sequence: 4
 status: idea
 tags:
   - _main-storyline

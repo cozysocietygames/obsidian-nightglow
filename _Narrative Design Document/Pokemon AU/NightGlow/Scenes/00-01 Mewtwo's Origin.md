@@ -2,7 +2,7 @@
 type: scene
 title: Mewtwo is Born
 id: e547a462-5501-4346-aeae-94239b40aced
-sequence: 2
+sequence: 1
 status: idea
 conflict: Mewtwo is used by Team Rocket for evil deeds.
 tags:

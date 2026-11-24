@@ -2,7 +2,7 @@
 type: scene
 title: Mewtwo meets Pepper's Parents
 id: 133d3ccf-669d-4da5-bb58-de1e0ee20f6e
-sequence: 4
+sequence: 3
 characters:
   - "[[Mewtwo]]"
 status: idea

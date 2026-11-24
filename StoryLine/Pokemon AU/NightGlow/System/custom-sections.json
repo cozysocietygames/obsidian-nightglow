@@ -2,7 +2,9 @@
   "characterCustomSections": [],
   "locationCustomSections": [],
   "codexCategoryCustomSections": {},
-  "codexVisualGroups": {},
+  "codexVisualGroups": {
+    "character": []
+  },
   "customLocationTypes": [],
   "codexCustomCategories": [],
   "codexEnabledCategories": [

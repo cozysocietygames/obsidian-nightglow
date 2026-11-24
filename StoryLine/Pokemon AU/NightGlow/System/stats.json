@@ -1,8 +1,17 @@
 {
   "writingTrackerData": {
-    "history": {},
-    "revisionHistory": {},
-    "changeHistory": {},
+    "history": {
+      "2026-11-24": 31
+    },
+    "revisionHistory": {
+      "2026-11-24": 57
+    },
+    "changeHistory": {
+      "2026-11-24": {
+        "added": 57,
+        "deleted": 3
+      }
+    },
     "projectDeadlineIncludeWeekends": false,
     "sprintLog": []
   }

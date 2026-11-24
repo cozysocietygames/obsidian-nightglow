@@ -7,7 +7,7 @@ chapter: 1
 sequence: 5
 status: idea
 tags:
-  - main-storyline
+  - _main-storyline
 wordcount: 92
 charcount: 548
 created: 2026-11-24

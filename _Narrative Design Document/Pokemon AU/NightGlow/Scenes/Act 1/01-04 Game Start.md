@@ -12,7 +12,7 @@ characters:
 status: idea
 conflict: Player chooses their starting conditions
 tags:
-  - main-storyline
+  - _main-storyline
 wordcount: 12
 charcount: 89
 created: 2026-11-24

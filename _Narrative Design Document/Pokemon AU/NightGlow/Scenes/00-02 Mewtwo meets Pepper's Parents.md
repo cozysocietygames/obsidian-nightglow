@@ -9,7 +9,7 @@ status: idea
 conflict: Mewtwo learns to befriend humans and that perhaps they're not all bad.
 tags:
   - mewtwo-life
-  - pepper-family-life
+  - black-velvet
 wordcount: 25
 charcount: 158
 created: 2026-11-24

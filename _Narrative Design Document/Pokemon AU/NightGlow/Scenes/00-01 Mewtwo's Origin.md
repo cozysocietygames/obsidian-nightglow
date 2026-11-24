@@ -15,7 +15,7 @@ synopsis: Team Rocket creates Mewtwo.
 characters:
   - "[[Mewtwo]]"
   - "[[Giovanni]]"
-chronologicalOrder: 2
+chronologicalOrder: 3
 timeline_mode: mythic
 timeline_strand: mewtwo-life-strand
 pov: "[[Mewtwo]]"

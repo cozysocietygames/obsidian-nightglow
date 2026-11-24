@@ -14,7 +14,7 @@ wordcount: 18
 charcount: 98
 created: 2026-11-24
 modified: 2026-11-24
-chronologicalOrder: 3
+chronologicalOrder: 4
 timeline_mode: mythic
 timeline_strand: mewtwo-life-strand
 pov: "[[Mewtwo]]"

@@ -14,7 +14,7 @@ wordcount: 25
 charcount: 158
 created: 2026-11-24
 modified: 2026-11-24
-chronologicalOrder: 4
+chronologicalOrder: 5
 timeline_strand: mewtwo-life-strand
 timeline_mode: mythic
 act: -1
